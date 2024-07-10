@@ -60,7 +60,7 @@ class _HomeState extends State<_Home> {
   @override
   void initState() {
     super.initState();
-    context.read<WordBloc>().add(GetWordsEvent());
+    // context.read<WordBloc>().add(GetWordsEvent());
   }
 
   @override
@@ -82,9 +82,9 @@ class _HomeState extends State<_Home> {
                   padding: const EdgeInsets.only(right: 8),
                   thumbColor: AppColors.main,
                   radius: const Radius.circular(12),
-                  thumbVisibility: true,
                   thickness: 8,
                   child: ListView.builder(
+                    key: const PageStorageKey(0),
                     padding: const EdgeInsets.all(16),
                     itemCount: state.words.length,
                     itemBuilder: (context, index) {

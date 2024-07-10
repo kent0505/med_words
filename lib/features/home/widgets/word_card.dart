@@ -1,9 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
-import 'package:med_words/core/utils.dart';
 
 import '../../../core/config/app_colors.dart';
+import '../../word/bloc/word_bloc.dart';
 import '../../word/models/word.dart';
 
 class WordCard extends StatelessWidget {
@@ -29,13 +30,14 @@ class WordCard extends StatelessWidget {
       child: CupertinoButton(
         onPressed: () {
           context.push('/word', extra: word);
+          context.read<WordBloc>().add(AddLastWordEvent(word: word));
         },
         padding: EdgeInsets.zero,
         child: Row(
           children: [
             const SizedBox(width: 16),
             Text(
-              capitalizeStr(word.en),
+              word.en,
               style: const TextStyle(
                 color: AppColors.main,
                 fontSize: 18,

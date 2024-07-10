@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 import '../../../core/config/app_colors.dart';
+import '../../word/bloc/word_bloc.dart';
 
 class SearchField extends StatelessWidget {
   const SearchField({super.key, required this.controller});
@@ -60,8 +62,7 @@ class SearchField extends StatelessWidget {
           FocusManager.instance.primaryFocus?.unfocus();
         },
         onChanged: (value) {
-          controller.text = value;
-          // onChanged();
+          context.read<WordBloc>().add(SearchWordEvent(text: value));
         },
       ),
     );

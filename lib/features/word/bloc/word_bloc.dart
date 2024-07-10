@@ -9,6 +9,7 @@ part 'word_state.dart';
 class WordBloc extends Bloc<WordEvent, WordState> {
   final _service = WordService();
   List<Word> _words = [];
+  // List<Word> _lastwords = [];
 
   WordBloc() : super(WordInitial()) {
     on<GetWordsEvent>((event, emit) async {
@@ -24,6 +25,36 @@ class WordBloc extends Bloc<WordEvent, WordState> {
       }
       _words = await _service.updateWords();
       emit(WordsLoadedState(words: _words));
+    });
+
+    on<SearchWordEvent>((event, emit) async {
+      List<Word> suggestionList = event.text.isEmpty
+          ? _service.words
+          : _service.words.where((item) {
+              return item.en.toLowerCase().contains(event.text.toLowerCase());
+            }).toList();
+      emit(WordsLoadedState(words: suggestionList));
+    });
+
+    // on<GetLastWordsEvent>((event, emit) async {
+    //   _lastwords = await _service.getLastWords();
+    //   emit(LastWordsLoadedState(words: _lastwords));
+    // });
+
+    on<AddLastWordEvent>((event, emit) async {
+      List<Word> newLastWords = [];
+      if (_service.lastwords.length == 10) {
+        _service.lastwords.removeLast();
+      }
+      for (Word word in _service.lastwords) {
+        if (word == event.word) return;
+      }
+      newLastWords.add(event.word);
+      for (Word word in _service.lastwords) {
+        newLastWords.add(word);
+      }
+      _service.lastwords = newLastWords;
+      await _service.updateLastWords();
     });
   }
 }

@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/svg.dart';
 
@@ -79,25 +80,38 @@ class _NavBarButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return CupertinoButton(
-      onPressed: onPressed,
-      padding: EdgeInsets.zero,
-      child: Container(
-        width: 70,
-        height: 70,
-        decoration: BoxDecoration(
-          color: active ? AppColors.appBar : null,
-          borderRadius: BorderRadius.circular(12),
+    return Column(
+      children: [
+        CupertinoButton(
+          onPressed: onPressed,
+          padding: EdgeInsets.zero,
+          child: Container(
+            width: 70,
+            height: 70,
+            decoration: BoxDecoration(
+              color: active ? AppColors.appBar : null,
+              borderRadius: BorderRadius.circular(12),
+            ),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                const SizedBox(height: 4),
+                SvgPicture.asset('assets/$asset.svg'),
+                SizedBox(height: active ? 2 : 6),
+                if (active)
+                  Container(
+                    height: 4,
+                    width: 4,
+                    decoration: BoxDecoration(
+                      color: Colors.white,
+                      borderRadius: BorderRadius.circular(2),
+                    ),
+                  ),
+              ],
+            ),
+          ),
         ),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            const SizedBox(height: 4),
-            SvgPicture.asset('assets/$asset.svg'),
-            const SizedBox(height: 4),
-          ],
-        ),
-      ),
+      ],
     );
   }
 }
