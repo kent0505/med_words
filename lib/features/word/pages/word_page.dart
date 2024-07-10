@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../../../core/config/app_colors.dart';
+import '../../../core/widgets/custom_app_bar.dart';
 import '../models/word.dart';
 
 class WordPage extends StatelessWidget {
@@ -10,10 +12,16 @@ class WordPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
       body: Column(
         children: [
-          Text(word.en),
+          Container(
+            height: MediaQuery.of(context).viewPadding.top,
+            color: AppColors.main,
+          ),
+          CustomAppBar(
+            title: word.en,
+            word: word,
+          ),
         ],
       ),
     );

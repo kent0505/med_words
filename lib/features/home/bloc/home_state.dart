@@ -6,4 +6,6 @@ class HomeInitial extends HomeState {}
 
 class HomeFavorite extends HomeState {}
 
+class HomeRecent extends HomeState {}
+
 class HomeSettings extends HomeState {}

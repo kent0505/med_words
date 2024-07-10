@@ -44,10 +44,17 @@ class NavBar extends StatelessWidget {
                   },
                 ),
                 _NavBarButton(
+                  asset: 'tab3',
+                  active: state is HomeRecent,
+                  onPressed: () {
+                    context.read<HomeBloc>().add(ChangePageEvent(index: 2));
+                  },
+                ),
+                _NavBarButton(
                   asset: 'tab4',
                   active: state is HomeSettings,
                   onPressed: () {
-                    context.read<HomeBloc>().add(ChangePageEvent(index: 2));
+                    context.read<HomeBloc>().add(ChangePageEvent(index: 3));
                   },
                 ),
               ],

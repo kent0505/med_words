@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:med_words/core/utils.dart';
 
 import '../../../core/config/app_colors.dart';
 import '../../word/models/word.dart';
@@ -18,14 +19,10 @@ class WordCard extends StatelessWidget {
       decoration: BoxDecoration(
         color: const Color(0xffF5F5F5),
         borderRadius: BorderRadius.circular(4),
-        boxShadow: [
+        boxShadow: const [
           BoxShadow(
-            color: const Color(0xff000000).withOpacity(0.25),
-          ),
-          const BoxShadow(
-            color: Color(0xffF5F5F5),
-            spreadRadius: -12,
-            blurRadius: 12,
+            color: Colors.grey,
+            blurRadius: 4,
           ),
         ],
       ),
@@ -38,7 +35,7 @@ class WordCard extends StatelessWidget {
           children: [
             const SizedBox(width: 16),
             Text(
-              word.en,
+              capitalizeStr(word.en),
               style: const TextStyle(
                 color: AppColors.main,
                 fontSize: 18,
