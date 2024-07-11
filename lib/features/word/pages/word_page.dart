@@ -16,7 +16,7 @@ class WordPage extends StatelessWidget {
         children: [
           Container(
             height: MediaQuery.of(context).viewPadding.top,
-            color: AppColors.main,
+            color: AppColors.appBar,
           ),
           CustomAppBar(
             title: word.en,

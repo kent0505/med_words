@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
         children: [
           Container(
             height: MediaQuery.of(context).viewPadding.top,
-            color: AppColors.main,
+            color: AppColors.appBar,
           ),
           Padding(
             padding: EdgeInsets.only(
