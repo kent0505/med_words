@@ -40,20 +40,20 @@ class WordPage extends StatelessWidget {
                     ),
                   ],
                 ),
-                const SizedBox(height: 10),
-                Row(
-                  children: [
-                    Text(
-                      word.transcript,
-                      style: const TextStyle(
-                        color: Colors.black,
-                        fontSize: 18,
-                        fontWeight: FontWeight.w300,
-                        fontFamily: 'BarlowI',
-                      ),
-                    ),
-                  ],
-                ),
+                // const SizedBox(height: 10),
+                // Row(
+                //   children: [
+                //     Text(
+                //       word.transcript,
+                //       style: const TextStyle(
+                //         color: Colors.black,
+                //         fontSize: 18,
+                //         fontWeight: FontWeight.w300,
+                //         fontFamily: null,
+                //       ),
+                //     ),
+                //   ],
+                // ),
                 const SizedBox(height: 10),
                 Row(
                   children: [

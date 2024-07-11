@@ -37,7 +37,7 @@ class SearchField extends StatelessWidget {
           fontWeight: FontWeight.w600,
         ),
         decoration: InputDecoration(
-          hintText: 'Search by events, tasks.. ',
+          hintText: 'Search',
           hintStyle: const TextStyle(
             color: Color(0xff8E8E8E),
             fontSize: 14,

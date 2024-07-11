@@ -9,7 +9,6 @@ part 'word_state.dart';
 class WordBloc extends Bloc<WordEvent, WordState> {
   final _service = WordService();
   List<Word> _words = [];
-  // List<Word> _lastwords = [];
 
   WordBloc() : super(WordInitial()) {
     on<GetWordsEvent>((event, emit) async {

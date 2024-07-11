@@ -68,7 +68,7 @@ List<Word> wordsList = [
         'Abortion is a procedure done to end pregnancy.\n\n2. Spontaneous abortion is a naturally occurring abortion.',
     uzDef:
         'Abort - bu homiladorlikni tugatish uchun qilingan protsedura. 2. Spontan abort - bu tabiiy ravishda sodir bo\'lgan homilani to`xtatish',
-    transcript: '[ ə\'bɔ:ʃən]',
+    transcript: '[ə\'bɔ:ʃən]',
     favorite: false,
   ),
   Word(
@@ -78,7 +78,7 @@ List<Word> wordsList = [
         'A wound caused by scraping the skin. A “skinned knee” is a common example.',
     uzDef:
         'Terini yirtilishi natijasida paydo bo\'lgan yara. Misol uchun "teri o\'ralgan tizza"',
-    transcript: '[ əˈbreɪʃən]',
+    transcript: '[əˈbreɪʃən]',
     favorite: false,
   ),
   Word(
@@ -88,7 +88,7 @@ List<Word> wordsList = [
         'To hold back or restrain. For example, to refrain from the use of drugs or alcohol, or from having sexual…',
     uzDef:
         'O`zini saqlash. Masalan, giyohvand moddalar yoki spirtli ichimliklarni iste\'mol qilish yoki jinsiy aloqada bo\'lishdan saqlanish',
-    transcript: '[ˈæbstɪnəns]',
+    transcript: '[ˈæb.stɪ.nəns]',
     favorite: false,
   ),
   Word(
@@ -96,15 +96,15 @@ List<Word> wordsList = [
     uz: 'Moslashish',
     enDef: 'The process of getting used to a new climate or altitude.',
     uzDef: 'Yangi iqlim yoki balandlikka ko\'nikish jarayoni.',
-    transcript: '[ æk.lɪˈmeɪ.ʃən]',
+    transcript: '[æk.lɪˈmeɪ.ʃən]',
     favorite: false,
   ),
   Word(
-    en: 'Abscess(n)',
+    en: 'Abscess (n)',
     uz: 'Yiringlagan joy',
     enDef: 'A swollen, inflamed area where pus gathers.',
     uzDef: 'Yiring to\'plangan shishgan, yallig\'langan joy.',
-    transcript: '[ ˈæb.ses]',
+    transcript: '[ˈæb.ses]',
     favorite: false,
   ),
   Word(
@@ -112,7 +112,7 @@ List<Word> wordsList = [
     uz: 'Singish',
     enDef: 'To take in substances through the skin or mucous membranes.',
     uzDef: 'Teri yoki shilliq pardalar orqali moddalarni qabul qilish.',
-    transcript: '[ əbˈzɔːp.ʃən]',
+    transcript: '[əbˈzɔːp.ʃən]',
     favorite: false,
   ),
   Word(
@@ -122,7 +122,7 @@ List<Word> wordsList = [
         'The strong tendon at the back of the ankle that attaches the calf muscle to the heel.',
     uzDef:
         'To\'piqning orqa qismidagi kuchli tendon, buzoq mushaklarini tovonga bog\'laydi.',
-    transcript: '[ əˌkɪl.iːzˈtendən]',
+    transcript: '[əˌkɪl.iːzˈtendən]',
     favorite: false,
   ),
   Word(
@@ -132,7 +132,7 @@ List<Word> wordsList = [
         'An abnormal condition in the body in which excessive acid lowers the pH of the blood and body tissues.',
     uzDef:
         'Ortiqcha kislota qon va tana to\'qimalarining pH darajasini pasaytiradigan tanadagi g\'ayritabiiy holat.',
-    transcript: '[ asɪˈdəʊsɪs]',
+    transcript: '[asɪˈdəʊsɪs]',
     favorite: false,
   ),
   Word(
@@ -140,7 +140,7 @@ List<Word> wordsList = [
     uz: 'husnbuzar, bo\'jama',
     enDef: 'A skin disorder usually found in adolescents and young adults.',
     uzDef: 'Teri kasalligi odatda o\'smirlar va yoshlarda uchraydi.',
-    transcript: '[ \'akni ]',
+    transcript: '[\'akni ]',
     favorite: false,
   ),
   Word(
@@ -148,7 +148,7 @@ List<Word> wordsList = [
     uz: 'Akustik',
     enDef: 'Having to do with sound and hearing.',
     uzDef: 'Ovoz va eshitish bilan bog\'liq',
-    transcript: '[ əˈkuː.stɪk]',
+    transcript: '[əˈkuː.stɪk]',
     favorite: false,
   ),
   Word(
@@ -158,7 +158,7 @@ List<Word> wordsList = [
         'A condition that occurs when the pituitary gland produces too much growth hormone.',
     uzDef:
         'Gipofiz bezi juda ko\'p o\'sish gormoni ishlab chiqarganda yuzaga keladigan holat.',
-    transcript: '[ akrə(ʊ)ˈmeɡəlɪ ]',
+    transcript: '[akrə(ʊ)ˈmeɡəlɪ ]',
     favorite: false,
   ),
   Word(
@@ -168,7 +168,7 @@ List<Word> wordsList = [
         'Scaly, pink, gray or tan patches or bumps on the face or scalp, or on the back of the hands…',
     uzDef:
         'Yuz yoki bosh terisi yoki qo\'llarning orqa tomonida qoraygan, pushti, kulrang yoki sarg\'ish dog\'lar yoki shishlar ...',
-    transcript: '[ aktinik keratosis]',
+    transcript: '[aktinik keratosis]',
     favorite: false,
   ),
   Word(
@@ -178,7 +178,7 @@ List<Word> wordsList = [
         'An ancient Chinese method to relieve pain or treat disease by inserting needles into various parts of the body.',
     uzDef:
         'Tananing turli qismlariga igna kiritish orqali og\'riqni yo\'qotish yoki kasallikni davolash uchun qadimgi Xitoy usuli.',
-    transcript: '[ ˈakjʊˌpʌŋ(k)tʃə ]',
+    transcript: '[ˈakjʊˌpʌŋ(k)tʃə ]',
     favorite: false,
   ),
   Word(
@@ -187,7 +187,7 @@ List<Word> wordsList = [
     enDef:
         '1. Of short course. 2. Severe, but of a short duration. Not chronic.',
     uzDef: '1. Albatta qisqa. 2. Og\'ir, ammo qisqa muddatli. Surunkali emas.',
-    transcript: '[ əˈkjuːt]',
+    transcript: '[əˈkjuːt]',
     favorite: false,
   ),
   Word(
@@ -197,7 +197,7 @@ List<Word> wordsList = [
         'Strong dependence or habitual use of a substance or practice, despite the negative consequences of its use.',
     uzDef:
         'Kuchli qaramlik yoki uni qo\'llashning salbiy oqibatlariga qaramay, modda yoki amaliyotdan odatiy foydalanish.',
-    transcript: '[ əˈdɪk.ʃən]',
+    transcript: '[əˈdɪk.ʃən]',
     favorite: false,
   ),
   Word(
@@ -207,7 +207,7 @@ List<Word> wordsList = [
         'An ailment characterized by underfunctioning of the adrenal glands. Characterized by anemia, weakness, low blood pressure and brownish discoloration of…',
     uzDef:
         'Buyrak usti bezlarining noto\'g\'ri ishlashi bilan tavsiflangan kasallik. Anemiya, zaiflik, past qon bosimi va jigarrang rang o\'zgarishi bilan tavsiflanadi ...',
-    transcript: '[ adɪsənz dɪˈziːz]',
+    transcript: '[adɪsənz dɪˈziːz]',
     favorite: false,
   ),
   Word(
@@ -215,7 +215,7 @@ List<Word> wordsList = [
     uz: 'adenit',
     enDef: 'Swelling of a gland.',
     uzDef: 'Bezning shishishi.',
-    transcript: '[ ædəˈnaɪtɪs]',
+    transcript: '[ædəˈnaɪtɪs]',
     favorite: false,
   ),
   Word(
@@ -225,7 +225,7 @@ List<Word> wordsList = [
         'Glandular tissue in the back of the throat that may swell, especially during childhood, obstruct breathing and speaking, and lead…',
     uzDef:
         'Tomoqning orqa qismidagi bez to\'qimalari, ayniqsa bolalik davrida shishishi, nafas olish va gapirishga to\'sqinlik qilishi va ...',
-    transcript: '[ ædənɔɪdz]',
+    transcript: '[ædənɔɪdz]',
     favorite: false,
   ),
   Word(
@@ -233,7 +233,7 @@ List<Word> wordsList = [
     uz: 'adenoma',
     enDef: 'A noncancerous tumor of glandular tissue.',
     uzDef: 'Glandular to\'qimalarning saratonsiz o\'smasi.',
-    transcript: '[ ædɪˈnəʊmə]',
+    transcript: '[ædɪˈnəʊmə]',
     favorite: false,
   ),
   Word(
@@ -241,7 +241,7 @@ List<Word> wordsList = [
     uz: 'adenovirus',
     enDef: 'One of the viruses that cause the common cold.',
     uzDef: 'Umumiy sovuqni keltirib chiqaradigan viruslardan biri.',
-    transcript: '[ ædɪ.nəʊvaɪərəs]',
+    transcript: '[ædɪ.nəʊvaɪərəs]',
     favorite: false,
   ),
   Word(
@@ -251,7 +251,7 @@ List<Word> wordsList = [
         'Antidiuretic hormone. One of the hormones produced by the pituitary gland. A shortage of this hormone causes increased loss of…',
     uzDef:
         'Antidiuretik gormon. Gipofiz bezi tomonidan ishlab chiqarilgan gormonlardan biri. Ushbu gormonning etishmasligi ko\'proq yo\'qotishga olib keladi ...',
-    transcript: '[ antee·daiuhretik hɔːməʊn]',
+    transcript: '[antee·daiuhretik hɔːməʊn]',
     favorite: false,
   ),
   Word(
@@ -261,7 +261,7 @@ List<Word> wordsList = [
         'The sticking of one surface to another. This can occur when scar tissue causes organs or loops of intestine to…',
     uzDef:
         'Bir yuzaning boshqasiga yopishishi. Bu chandiq to\'qimasi a\'zolar yoki ichak qovuzloqlarini ...',
-    transcript: '[ ədˈhiːʒən]',
+    transcript: '[ədˈhiːʒən]',
     favorite: false,
   ),
   Word(
@@ -271,7 +271,7 @@ List<Word> wordsList = [
         'Special cells in which fat is stored when a person’s caloric intake is greater than that required by one’s…',
     uzDef:
         'Odamning kaloriya iste\'moli o\'zi uchun zarur bo\'lganidan ko\'proq bo\'lsa, yog\'lar saqlanadigan maxsus hujayralar ...',
-    transcript: '[ ˈædɪpəʊs fæti selz]',
+    transcript: '[ædɪpəʊs fæti selz]',
     favorite: false,
   ),
   Word(
@@ -281,7 +281,7 @@ List<Word> wordsList = [
         'Located on top of the kidneys, these glands produce hormones helpful in regulating the body’s metabolism.',
     uzDef:
         'Buyraklar tepasida joylashgan bu bezlar organizmdagi metabolizmni tartibga solishda yordam beradigan gormonlar ishlab chiqaradi.',
-    transcript: '[ əˈdriːnəl ɡlændz]',
+    transcript: '[əˈdriːnəl ɡlændz]',
     favorite: false,
   ),
   Word(
@@ -291,7 +291,7 @@ List<Word> wordsList = [
         'Epinephrine. One of several hormones produced by the adrenal glands.',
     uzDef:
         'Epinefrin. Buyrak usti bezlari tomonidan ishlab chiqarilgan bir nechta gormonlardan biri.',
-    transcript: '[ əˈdrɛnəlɪn]',
+    transcript: '[ə\'drɛnəlɪn]',
     favorite: false,
   ),
   Word(
@@ -301,7 +301,7 @@ List<Word> wordsList = [
         'Requiring the use of oxygen. Exercise that conditions the heart and lungs by increasing the efficiency of oxygen intake by…',
     uzDef:
         'Kisloroddan foydalanishni talab qilish. Kislorodni iste\'mol qilish samaradorligini oshirish orqali yurak va o\'pkalarni tartibga soluvchi mashqlar ...',
-    transcript: '[ ɛˈroʊbɪk]',
+    transcript: '[ɛˈroʊbɪk]',
     favorite: false,
   ),
   Word(
@@ -311,7 +311,7 @@ List<Word> wordsList = [
         'The placenta, which is attached to the fetus by the umbilical cord and must be delivered after the baby.',
     uzDef:
         'Xomilaga kindik orqali bog\'langan va boladan keyin tug\'ilishi kerak bo\'lgan platsenta.',
-    transcript: '[ æftərbɜrθ]',
+    transcript: '[æftərbɜrθ]',
     favorite: false,
   ),
   Word(
@@ -321,7 +321,7 @@ List<Word> wordsList = [
         'Acquired immunodeficiency syndrome. A disease of the immune system caused by the HIV virus.',
     uzDef:
         'Orttirilgan immunitet tanqisligi sindromi. OIV virusi keltirib chiqaradigan immunitet tizimining kasalligi.',
-    transcript: '[ eɪdz]',
+    transcript: '[eɪdz]',
     favorite: false,
   ),
   Word(
@@ -329,7 +329,7 @@ List<Word> wordsList = [
     uz: 'havo yo\'li',
     enDef: 'The passage by which air enters and exits the lungs.',
     uzDef: 'Havoning o\'pkaga kirish va chiqish yo\'li.',
-    transcript: '[ ˈɛrweɪ]',
+    transcript: '[ˈɛrweɪ]',
     favorite: false,
   ),
   Word(
@@ -339,7 +339,7 @@ List<Word> wordsList = [
         'The absence of all normal body pigmentation at birth, a condition that can occur in all races.',
     uzDef:
         'Tug\'ilganda barcha normal tana pigmentatsiyasining yo\'qligi, barcha irqlarda paydo bo\'lishi mumkin bo\'lgan holat.',
-    transcript: '[ ˈælbɪnɪzəm]',
+    transcript: '[ˈælbɪnɪzəm]',
     favorite: false,
   ),
   Word(
@@ -347,7 +347,7 @@ List<Word> wordsList = [
     uz: 'albinos',
     enDef: 'A person with albinism.',
     uzDef: 'Albinizm bilan kasallangan odam.',
-    transcript: '[ ælˈbiːnoʊ]',
+    transcript: '[ælˈbiːnoʊ]',
     favorite: false,
   ),
   Word(
@@ -357,7 +357,7 @@ List<Word> wordsList = [
         'A water-soluble protein found in milk, egg, muscle, blood and many vegetable tissues and fluids.',
     uzDef:
         'Sut, tuxum, mushak, qon va ko\'plab o\'simlik to\'qimalari va suyuqliklarida mavjud suvda eriydigan oqsil.',
-    transcript: '[ ælbjʊmɪn]',
+    transcript: '[ælbjʊmɪn]',
     favorite: false,
   ),
   Word(
@@ -367,7 +367,7 @@ List<Word> wordsList = [
         'A condition resulting when the adrenal glands produce too much of the hormone aldosterone, which regulates fluids and salt in…',
     uzDef:
         'Buyrak usti bezlari suyuqlik va tuzni tartibga soluvchi aldosteron gormonini juda ko\'p ishlab chiqarishi natijasida yuzaga keladigan holat ...',
-    transcript: '[ ælˈdɒstərənɪzəm]',
+    transcript: '[ælˈdɒstərənɪzəm]',
     favorite: false,
   ),
   Word(
@@ -377,7 +377,7 @@ List<Word> wordsList = [
         'Having to do with food or nutrition. The alimentary tract is the digestive tract.',
     uzDef:
         'Oziq-ovqat yoki ovqatlanish bilan bog\'liq. Ovqat hazm qilish trakti ovqat hazm qilish traktidir.',
-    transcript: '[ ælɪˈmɛntəri]',
+    transcript: '[ælɪˈmɛntəri]',
     favorite: false,
   ),
   Word(
@@ -385,7 +385,7 @@ List<Word> wordsList = [
     uz: 'allergen',
     enDef: 'A substance capable of producing an allergic reaction.',
     uzDef: 'Allergiya reaktsiyasini keltirib chiqarishga qodir modda.',
-    transcript: '[ ˈælərdʒən]',
+    transcript: '[ˈælərdʒən]',
     favorite: false,
   ),
   Word(
@@ -393,7 +393,7 @@ List<Word> wordsList = [
     uz: 'allergiya',
     enDef: 'An exaggerated immune response to substances in the environment.',
     uzDef: 'Atrof-muhitdagi moddalarga bo\'rttirilgan immunitet reaktsiyasi.',
-    transcript: '[ ælərdʒi]',
+    transcript: '[ælərdʒi]',
     favorite: false,
   ),
   Word(
@@ -401,7 +401,7 @@ List<Word> wordsList = [
     uz: 'alopesiya',
     enDef: 'Hair loss, especially of the head.',
     uzDef: 'Soch to\'kilishi, ayniqsa boshning.',
-    transcript: '[ æləˈpiːʃiə]',
+    transcript: '[æləˈpiːʃiə]',
     favorite: false,
   ),
   Word(
@@ -411,7 +411,7 @@ List<Word> wordsList = [
         'Congenital lack of an enzyme that leads to cirrhosis of the liver and obstructive lung disease.',
     uzDef:
         'Jigar sirrozi va obstruktiv o\'pka kasalligiga olib keladigan fermentning konjenital yetishmasligi.',
-    transcript: '[ ˈælfəwʌn æntiˌtraɪpsɪn dɪˈfɪʃənsi]',
+    transcript: '[ˈælfəwʌn æntiˌtraɪpsɪn dɪˈfɪʃənsi]',
     favorite: false,
   ),
   Word(
@@ -421,7 +421,7 @@ List<Word> wordsList = [
         'A potentially fatal illness caused by being at altitudes high enough to reduce the amount of oxygen available to the…',
     uzDef:
         'O\'limga olib kelishi mumkin bo\'lgan kasallik, etarlicha balandlikda bo\'lish tufayli kislorod miqdorini kamaytiradi ...',
-    transcript: '[ æltɪtjuːd ˈsɪknəs]',
+    transcript: '[æltɪtjuːd ˈsɪknəs]',
     favorite: false,
   ),
   Word(
@@ -431,7 +431,7 @@ List<Word> wordsList = [
         'The sacs in the lungs at the ends of the smallest airways where oxygen is exchanged for carbon dioxide in…',
     uzDef:
         'O\'pkada kislorod karbonat angidridga almashinadigan eng kichik havo yo\'llarining uchlarida joylashgan qoplar ...',
-    transcript: '[ ælˈviːəlaɪ]',
+    transcript: '[ælˈviːəlaɪ]',
     favorite: false,
   ),
   Word(
@@ -439,7 +439,7 @@ List<Word> wordsList = [
     uz: 'ambliyopiya',
     enDef: 'Impaired vision without an apparent cause.',
     uzDef: 'Aniq sababsiz ko\'rishning buzilishi.',
-    transcript: '[ æmblɪˈoʊpiə]',
+    transcript: '[æmblɪˈoʊpiə]',
     favorite: false,
   ),
   Word(
@@ -447,7 +447,7 @@ List<Word> wordsList = [
     uz: 'ambulatoriya',
     enDef: 'Able to walk. Not confined to bed.',
     uzDef: 'Yurishga qodir. To\'shak bilan chegaralanmagan.',
-    transcript: '[ æmˈbjʊlətɔri]',
+    transcript: '[æmˈbjʊlətɔri]',
     favorite: false,
   ),
   Word(
@@ -455,7 +455,7 @@ List<Word> wordsList = [
     uz: 'amenoreya',
     enDef: 'Absence of menstrual periods.',
     uzDef: 'Menstrüel davrlarning yo\'qligi.',
-    transcript: '[ eɪˌmɛnəˈriːə]',
+    transcript: '[eɪˌmɛnəˈriːə]',
     favorite: false,
   ),
   Word(
@@ -465,7 +465,7 @@ List<Word> wordsList = [
         'Partial or total loss of memory, usually as the result of psychological trauma or stress, or physical damage to the…',
     uzDef:
         'Xotiraning qisman yoki to\'liq yo\'qolishi, odatda psixologik travma yoki stress yoki jismoniy shikastlanish natijasida ...',
-    transcript: '[ æmˈniʒiə]',
+    transcript: '[æmˈniʒiə]',
     favorite: false,
   ),
   Word(
@@ -475,7 +475,7 @@ List<Word> wordsList = [
         'The membrane enclosing a developing fetus; it’s filled with a protective liquid called amniotic fluid.',
     uzDef:
         'Rivojlanayotgan homilani o\'rab turgan membrana; u amniotik suyuqlik deb ataladigan himoya suyuqlik bilan to\'ldirilgan.',
-    transcript: '[ æmnɪən]',
+    transcript: '[æmnɪən]',
     favorite: false,
   ),
   Word(
@@ -485,7 +485,7 @@ List<Word> wordsList = [
         'The surgical removal of a limb or other appendage because of damage by trauma or as a treatment for a…',
     uzDef:
         'Shikastlanish natijasida shikastlangan a\'zo yoki boshqa qo\'shimchani jarrohlik yo\'li bilan olib tashlash yoki...',
-    transcript: '[ ˌæmpjʊˈteɪʃən]',
+    transcript: '[ˌæmpjʊˈteɪʃən]',
     favorite: false,
   ),
   Word(
@@ -495,7 +495,7 @@ List<Word> wordsList = [
         'Brief, intense exercise that leads to an oxygen debt in a certain area of tissue. Weight lifting is an…',
     uzDef:
         'To\'qimalarning ma\'lum bir hududida kislorod qarziga olib keladigan qisqa, intensiv mashqlar. Og\'irlikni ko\'tarish - bu…',
-    transcript: '[ ænærˈoʊbɪk ˈɛksərsaɪz]',
+    transcript: '[ænærˈoʊbɪk ˈɛksərsaɪz]',
     favorite: false,
   ),
   Word(
@@ -505,7 +505,7 @@ List<Word> wordsList = [
         'The most severe form of allergy, in which the person’s heart and lungs are unable to keep working, and death…',
     uzDef:
         'Allergiyaning eng og\'ir shakli, bunda odamning yuragi va o\'pkasi ishlay olmaydi va o\'lim ...',
-    transcript: '[ ˌænəfɪˈlæksɪs]',
+    transcript: '[ˌænəfɪˈlæksɪs]',
     favorite: false,
   ),
   Word(
@@ -515,7 +515,7 @@ List<Word> wordsList = [
         'Any substance that produces male characteristics. Testosterone and androsterone are natural androgens.',
     uzDef:
         'Erkak xususiyatlarini ishlab chiqaradigan har qanday modda. Testosteron va androsteron tabiiy androgenlardir.',
-    transcript: '[ ændroʊdʒən]',
+    transcript: '[ændroʊdʒən]',
     favorite: false,
   ),
   Word(
@@ -525,7 +525,7 @@ List<Word> wordsList = [
         'A decreased ability of the blood to carry oxygen because of a reduction in either the number or quality of…',
     uzDef:
         'Qonning kislorodni tashish qobiliyatining pasayishi, chunki ularning soni yoki sifati ...',
-    transcript: '[ əˈniːmiə]',
+    transcript: '[əˈniːmiə]',
     favorite: false,
   ),
   Word(
@@ -533,7 +533,7 @@ List<Word> wordsList = [
     uz: 'behushlik',
     enDef: 'Drug-induced loss of feeling or sensation.',
     uzDef: 'Giyohvand moddalar bilan bog\'liq his-tuyg\'ularni yo\'qotish.',
-    transcript: '[ ænəsˈθiʒiə]',
+    transcript: '[ænəsˈθiʒiə]',
     favorite: false,
   ),
   Word(
@@ -541,7 +541,7 @@ List<Word> wordsList = [
     uz: 'anestetik',
     enDef: 'An agent used to produce anesthesia.',
     uzDef: 'Anesteziya ishlab chiqarish uchun ishlatiladigan vosita.',
-    transcript: '[ ænəsˈθɛtɪk]',
+    transcript: '[ænəsˈθɛtɪk]',
     favorite: false,
   ),
   Word(
@@ -551,7 +551,7 @@ List<Word> wordsList = [
         'A thin sac caused by a weakened area in the walls of blood vessels or the heart. As an aneurysm…',
     uzDef:
         'Qon tomirlari yoki yurak devorlarining zaiflashgan joyidan kelib chiqqan yupqa xalta. Anevrizma sifatida ...',
-    transcript: '[ ˈænjərɪzəm]',
+    transcript: '[ˈænjərɪzəm]',
     favorite: false,
   ),
   Word(
@@ -561,7 +561,7 @@ List<Word> wordsList = [
         'Chest pain caused by decreased oxygen delivery to the heart muscle.',
     uzDef:
         'Ko\'krak og\'rig\'i yurak mushaklariga kislorod etkazib berishning kamayishi natijasida yuzaga keladi.',
-    transcript: '[ ˈændʒaɪnə pɛkˈtɔrɪs]',
+    transcript: '[ˈændʒaɪnə pɛkˈtɔrɪs]',
     favorite: false,
   ),
   Word(
@@ -569,7 +569,7 @@ List<Word> wordsList = [
     uz: 'angioma',
     enDef: 'A noncancerous tumor made up of many blood vessels.',
     uzDef: 'Ko\'p qon tomirlaridan tashkil topgan saratonsiz o\'simta.',
-    transcript: '[ ændʒiˈoʊmə]',
+    transcript: '[ændʒiˈoʊmə]',
     favorite: false,
   ),
   Word(
@@ -579,7 +579,7 @@ List<Word> wordsList = [
         'Absence of sweating. An inability to sweat greatly interferes with the body’s ability to control its internal temperature.',
     uzDef:
         'Terlashning yo\'qligi. Terlashning mumkin emasligi tananing ichki haroratini nazorat qilish qobiliyatiga katta xalaqit beradi.',
-    transcript: '[ ænhaɪˈdroʊsɪs]',
+    transcript: '[ænhaɪˈdroʊsɪs]',
     favorite: false,
   ),
   Word(
@@ -587,7 +587,7 @@ List<Word> wordsList = [
     uz: 'ankiloz',
     enDef: 'Abnormal stiffening of a joint.',
     uzDef: 'Qo\'shimchaning g\'ayritabiiy qattiqlashishi.',
-    transcript: '[ æŋkəˈloʊsɪs]',
+    transcript: '[æŋkəˈloʊsɪs]',
     favorite: false,
   ),
   Word(
@@ -595,7 +595,7 @@ List<Word> wordsList = [
     uz: 'anomaliya',
     enDef: 'Deviation from normal.',
     uzDef: 'Oddiydan chetga chiqish.',
-    transcript: '[ əˈnɒməli]',
+    transcript: '[əˈnɒməli]',
     favorite: false,
   ),
   Word(
@@ -603,7 +603,7 @@ List<Word> wordsList = [
     uz: 'anorxizm',
     enDef: 'Congenital absence of both testes.',
     uzDef: 'Ikkala moyakning tug\'ma yo\'qligi.',
-    transcript: '[ ænˈɔrkɪzəm]',
+    transcript: '[ænˈɔrkɪzəm]',
     favorite: false,
   ),
   Word(
@@ -613,7 +613,7 @@ List<Word> wordsList = [
         'An eating disorder manifested primarily by a loss of desire or willingness to eat for a variety of psychological…',
     uzDef:
         'Ovqatlanish buzilishi, birinchi navbatda, turli xil psixologik sabablarga ko\'ra ovqatlanish istagi yoki istagi yo\'qolishi bilan namoyon bo\'ladi ...',
-    transcript: '[ ˌænərɛksiə nərˈvoʊsə]',
+    transcript: '[ˌænərɛksiə nərˈvoʊsə]',
     favorite: false,
   ),
   Word(
@@ -621,7 +621,7 @@ List<Word> wordsList = [
     uz: 'anosmiya',
     enDef: 'Loss of the sense of smell.',
     uzDef: 'Hid hissini yo\'qotish.',
-    transcript: '[ ænˈɒzmiə]',
+    transcript: '[ænˈɒzmiə]',
     favorite: false,
   ),
   Word(
@@ -629,7 +629,7 @@ List<Word> wordsList = [
     uz: 'antepartum',
     enDef: 'Occurring before delivery of a baby.',
     uzDef: 'Bola tug\'ilishidan oldin sodir bo\'ladi.',
-    transcript: '[ æntiˈpɑrtəm]',
+    transcript: '[æntiˈpɑrtəm]',
     favorite: false,
   ),
   Word(
@@ -639,7 +639,7 @@ List<Word> wordsList = [
         'A protein produced by the body to neutralize an invading foreign agent or antigen, such as a virus.',
     uzDef:
         'Virus kabi bosqinchi begona agentni yoki antijenni zararsizlantirish uchun tana tomonidan ishlab chiqarilgan oqsil.',
-    transcript: '[ æntibɒdi]',
+    transcript: '[æntibɒdi]',
     favorite: false,
   ),
   Word(
@@ -647,7 +647,7 @@ List<Word> wordsList = [
     uz: 'antidot',
     enDef: 'An agent used to counteract a poison.',
     uzDef: 'Zaharga qarshi kurashda ishlatiladigan vosita.',
-    transcript: '[ ˈæntidot]',
+    transcript: '[ˈæntidot]',
     favorite: false,
   ),
   Word(
@@ -657,7 +657,7 @@ List<Word> wordsList = [
         'A foreign agent capable of starting an immune response or causing the body to produce antibodies.',
     uzDef:
         'Immunitet reaktsiyasini boshlash yoki tanada antikorlar ishlab chiqarishga qodir bo\'lgan xorijiy agent.',
-    transcript: '[ ˈæntidʒən]',
+    transcript: '[ˈæntidʒən]',
     favorite: false,
   ),
   Word(
@@ -667,7 +667,7 @@ List<Word> wordsList = [
         'A serum that contains antibodies. Serum from a person or animal with immunity to a certain disease can, in some…',
     uzDef:
         'Antikorlarni o\'z ichiga olgan sarum. Muayyan kasallikka qarshi immunitetga ega bo\'lgan odam yoki hayvonlardan olingan sarum, ba\'zilarida ...',
-    transcript: '[ ˌæntiˈsɪrəm]',
+    transcript: '[ˌæntiˈsɪrəm]',
     favorite: false,
   ),
   Word(
@@ -675,7 +675,7 @@ List<Word> wordsList = [
     uz: 'anus',
     enDef: 'The opening of the rectum.',
     uzDef: 'To\'g\'ri ichakning ochilishi.',
-    transcript: '[ ˈeɪnəs]',
+    transcript: '[ˈeɪnəs]',
     favorite: false,
   ),
   Word(
@@ -683,7 +683,7 @@ List<Word> wordsList = [
     uz: 'tashvish',
     enDef: 'A feeling of nervousness, uneasiness, apprehension or dread.',
     uzDef: 'Asabiylashish, bezovtalik, qo\'rquv yoki qo\'rquv hissi.',
-    transcript: '[ æŋˈzaɪəti]',
+    transcript: '[æŋˈzaɪəti]',
     favorite: false,
   ),
   Word(
@@ -693,7 +693,7 @@ List<Word> wordsList = [
         'The large artery that carries blood from the heart to the rest of the body.',
     uzDef:
         'Qonni yurakdan tananing qolgan qismiga olib boradigan katta arteriya.',
-    transcript: '[ eɪˈɔrtə]',
+    transcript: '[eɪˈɔrtə]',
     favorite: false,
   ),
   Word(
@@ -701,7 +701,7 @@ List<Word> wordsList = [
     uz: 'befarqlik',
     enDef: 'Lack of emotions.',
     uzDef: 'Hissiyotlarning etishmasligi.',
-    transcript: '[ ˈæpəθi]',
+    transcript: '[ˈæpəθi]',
     favorite: false,
   ),
   Word(
@@ -711,7 +711,7 @@ List<Word> wordsList = [
         'A scoring method from zero to 10 for describing the health of an infant at birth, based on heart rate,…',
     uzDef:
         'Yurak urishi tezligiga qarab tug\'ilgan chaqaloqning sog\'lig\'ini tavsiflash uchun noldan 10 gacha ball usuli, ...',
-    transcript: '[ æpgɑr skɔr]',
+    transcript: '[æpgɑr skɔr]',
     favorite: false,
   ),
   Word(
@@ -719,7 +719,7 @@ List<Word> wordsList = [
     uz: 'afagiya',
     enDef: 'Inability to swallow.',
     uzDef: 'Yuta olmaslik.',
-    transcript: '[ əˈfeɪdʒiə]',
+    transcript: '[əˈfeɪdʒiə]',
     favorite: false,
   ),
   Word(
@@ -728,7 +728,7 @@ List<Word> wordsList = [
     enDef: 'A partial or total loss of the power to use or understand words.',
     uzDef:
         'So\'zlarni ishlatish yoki tushunish qobiliyatining qisman yoki to\'liq yo\'qolishi.',
-    transcript: '[ əˈfeɪʒiə]',
+    transcript: '[əˈfeɪʒiə]',
     favorite: false,
   ),
   Word(
@@ -736,7 +736,7 @@ List<Word> wordsList = [
     uz: 'aft yaralari',
     enDef: 'A painful sore in the mouth. Also called a canker sore.',
     uzDef: 'Og\'izda og\'riqli yara. Bundan tashqari, saraton yarasi deyiladi.',
-    transcript: '[ ˈæfθəs ˈʌlsərz]',
+    transcript: '[ˈæfθəs ˈʌlsərz]',
     favorite: false,
   ),
   Word(
@@ -744,7 +744,7 @@ List<Word> wordsList = [
     uz: 'apnea',
     enDef: 'Temporary pause in breathing.',
     uzDef: 'Nafas olishda vaqtinchalik pauza.',
-    transcript: '[ æpˈniə]',
+    transcript: '[æpˈniə]',
     favorite: false,
   ),
   Word(
@@ -752,7 +752,7 @@ List<Word> wordsList = [
     uz: 'appendektomiya antikor antikorantikor',
     enDef: 'Surgical removal of the appendix.',
     uzDef: 'Yo\'g\'on ochishning jarrohlik olib tashlanishi.',
-    transcript: '[ ˌæpɛndɛkˈtɔmi æn.tiˌbɒd.i ]',
+    transcript: '[ˌæpɛndɛkˈtɔmi æn.tiˌbɒd.i ]',
     favorite: false,
   ),
   Word(
@@ -762,7 +762,7 @@ List<Word> wordsList = [
         'A finger-like appendage near the junction of the large intestine and the small intestine.',
     uzDef:
         'Yo\'g\'on ichak va ingichka ichakning tutashgan joyiga yaqin joylashgan barmoqsimon qo\'shimcha.',
-    transcript: '[ əˈpɛndɪks]',
+    transcript: '[əˈpɛndɪks]',
     favorite: false,
   ),
   Word(
@@ -770,7 +770,7 @@ List<Word> wordsList = [
     uz: 'areola',
     enDef: 'The dark area of the breast surrounding the nipple.',
     uzDef: 'Ko\'krakning nipelni o\'rab turgan qorong\'u maydoni.',
-    transcript: '[ əriːˈoʊlə]',
+    transcript: '[əriːˈoʊlə]',
     favorite: false,
   ),
   Word(
@@ -780,7 +780,7 @@ List<Word> wordsList = [
         'Commonly called “hardening of the arteries.” An abnormal thickening and loss of elasticity of the wall of the arteries.',
     uzDef:
         'Odatda "tomirlarning qattiqlashishi" deb ataladi. Arteriyalar devorining g\'ayritabiiy qalinlashishi va elastikligini yo\'qotishi.',
-    transcript: '[ ɑrti:ri:ouskle\'rousis]',
+    transcript: '[ɑrti:ri:ouskle\'rousis]',
     favorite: false,
   ),
   Word(
@@ -790,7 +790,7 @@ List<Word> wordsList = [
         'Abnormal group of dilated blood vessels, most often occurring in the brain.',
     uzDef:
         'Kengaygan qon tomirlarining g\'ayritabiiy guruhi, ko\'pincha miyada paydo bo\'ladi.',
-    transcript: '[ a:rtiriouvenous ma:l\'fou:meysh\'n]',
+    transcript: '[a:rtiriouvenous ma:l\'fou:meysh\'n]',
     favorite: false,
   ),
   Word(
@@ -799,7 +799,7 @@ List<Word> wordsList = [
     enDef:
         'A vessel that carries blood away from the heart to various parts of the body.',
     uzDef: 'Qonni yurakdan tananing turli qismlariga olib boradigan tomir.',
-    transcript: '[ \'a:rtiri: ]',
+    transcript: '[\'a:rtiri: ]',
     favorite: false,
   ),
   Word(
@@ -807,7 +807,7 @@ List<Word> wordsList = [
     uz: 'artralgiya',
     enDef: 'Pain in a joint.',
     uzDef: 'Qo\'shimchadagi og\'riq.',
-    transcript: '[ ɑːˈθɹæl.dʒi.ə]',
+    transcript: '[ɑːˈθɹæl.dʒi.ə]',
     favorite: false,
   ),
   Word(
@@ -815,7 +815,7 @@ List<Word> wordsList = [
     uz: 'artrit',
     enDef: 'Inflammation of a joint.',
     uzDef: 'Qo\'shimchaning yallig\'lanishi.',
-    transcript: '[ ɑːˈθraɪ.tɪs]',
+    transcript: '[ɑːˈθraɪ.tɪs]',
     favorite: false,
   ),
   Word(
@@ -825,7 +825,7 @@ List<Word> wordsList = [
         'A fibrous material used to make fireproof materials, electrical insulation, roofing and filters. Asbestos has been linked to a type…',
     uzDef:
         'Yong\'inga chidamli materiallar, elektr izolyatsiyasi, tom yopish va filtrlar tayyorlash uchun ishlatiladigan tolali material. Asbest bir turga bog\'langan ...',
-    transcript: '[ æsˈbes.tɒs]',
+    transcript: '[æsˈbes.tɒs]',
     favorite: false,
   ),
   Word(
@@ -834,7 +834,7 @@ List<Word> wordsList = [
     enDef: 'Abnormal buildup of fluid in the abdomen that causes distention.',
     uzDef:
         'Qorin bo\'shlig\'ida g\'ayritabiiy suyuqlik to\'planishi, bu esa distansiyani keltirib chiqaradi.',
-    transcript: '[ əˈsaɪtiːz]',
+    transcript: '[əˈsaɪtiːz]',
     favorite: false,
   ),
   Word(
@@ -842,7 +842,7 @@ List<Word> wordsList = [
     uz: 'askorbin kislotasi',
     enDef: 'Vitamin C.',
     uzDef: 'S vitamini.',
-    transcript: '[ əˌskɔː.bɪk ˈæs.ɪd]',
+    transcript: '[əˌskɔː.bɪk ˈæs.ɪd]',
     favorite: false,
   ),
   Word(
@@ -852,7 +852,7 @@ List<Word> wordsList = [
         'A chronic disorder characterized by shortness of breath, wheezing, coughing and tightness of the chest.',
     uzDef:
         'Nafas qisilishi, xirillash, yo\'tal va ko\'krak qafasining siqilishi bilan tavsiflangan surunkali kasallik.',
-    transcript: '[ ˈæs.mə]',
+    transcript: '[ˈæs.mə]',
     favorite: false,
   ),
   Word(
@@ -862,7 +862,7 @@ List<Word> wordsList = [
         'An irregularity in the curvature of the lens of the eye, resulting in a blurry or distorted image.',
     uzDef:
         'Ko\'zning linzalari egriligidagi tartibsizlik, natijada loyqa yoki buzilgan tasvir.',
-    transcript: '[ əˈstɪg.mə.tɪ.zəm]',
+    transcript: '[əˈstɪg.mə.tɪ.zəm]',
     favorite: false,
   ),
   Word(
@@ -872,7 +872,7 @@ List<Word> wordsList = [
         'Collapsed lung. May occur following surgery or after a rib fracture.',
     uzDef:
         'Yiqilgan o\'pka. Jarrohlikdan keyin yoki qovurg\'a singanidan keyin paydo bo\'lishi mumkin.',
-    transcript: '[ ætɪˈlɛktəsɪs]',
+    transcript: '[ætɪˈlɛktəsɪs]',
     favorite: false,
   ),
   Word(
@@ -882,7 +882,7 @@ List<Word> wordsList = [
         'A form of arteriosclerosis caused by fatty deposits in the arteries.',
     uzDef:
         'Arteriyalardagi yog\' birikmalaridan kelib chiqqan aterosklerozning bir shakli.',
-    transcript: '[ ˌæθɚoʊskləˈɹoʊsəs]',
+    transcript: '[ˌæθɚoʊskləˈɹoʊsəs]',
     favorite: false,
   ),
   Word(
@@ -890,7 +890,7 @@ List<Word> wordsList = [
     uz: 'sportchi oyog\'i',
     enDef: 'A fungal infection of the skin of the feet.',
     uzDef: 'Oyoq terisining qo\'ziqorin infektsiyasi.',
-    transcript: '[ ˌæθ.liːts ˈfʊt]',
+    transcript: '[ˌæθ.liːts ˈfʊt]',
     favorite: false,
   ),
   Word(
@@ -900,7 +900,7 @@ List<Word> wordsList = [
         'A predisposition to allergy that’s inherited from parents. Included disorders are asthma, hay fever and eczema.',
     uzDef:
         'Ota-onadan meros bo\'lib qolgan allergiyaga moyillik. Bularga astma, pichan isitmasi va ekzema kiradi.',
-    transcript: '[ ˈætəpi]',
+    transcript: '[ˈætəpi]',
     favorite: false,
   ),
   Word(
@@ -910,7 +910,7 @@ List<Word> wordsList = [
         'The upper chambers of the heart that receive blood from the veins and pass it to the lower chambers of the heart.',
     uzDef:
         'Yurakning yuqori bo\'limlari tomirlardan qon qabul qilib, uni pastki bo\'limlarga o\'tkazadi ...',
-    transcript: '[ ˈɑtriɑ]',
+    transcript: '[ˈɑtriɑ]',
     favorite: false,
   ),
   Word(
@@ -918,7 +918,7 @@ List<Word> wordsList = [
     uz: 'atrofiya',
     enDef: 'A decrease in the normal size of an organ. Wasting away.',
     uzDef: 'Organning normal hajmining pasayishi. Isrof qilish.',
-    transcript: '[ ˈæt.ɹə.fi]',
+    transcript: '[ˈæt.ɹə.fi]',
     favorite: false,
   ),
   Word(
@@ -928,7 +928,7 @@ List<Word> wordsList = [
         'A peculiar sensation that occurs before other symptoms. An example is the sensation of flashing lights before a migraine...',
     uzDef:
         'Boshqa alomatlardan oldin paydo bo\'ladigan o\'ziga xos tuyg\'u. Masalan, migrendan oldin miltillovchi chiroqlar hissi ...',
-    transcript: '[ ˈɔː.rə]',
+    transcript: '[ˈɔː.rə]',
     favorite: false,
   ),
   Word(
@@ -936,7 +936,7 @@ List<Word> wordsList = [
     uz: 'otoimmün kasallik',
     enDef: 'A condition in which antibodies form against one’s own cells.',
     uzDef: 'O\'z hujayralariga qarshi antikorlar paydo bo\'ladigan holat.',
-    transcript: '[ ɔː.təʊ.ɪˈmjuːn dɪˌziːz]',
+    transcript: '[ɔː.təʊ.ɪˈmjuːn dɪˌziːz]',
     favorite: false,
   ),
   Word(
@@ -944,7 +944,7 @@ List<Word> wordsList = [
     uz: 'avtotransfüzyon',
     enDef: 'A transfusion using the patient’s own blood.',
     uzDef: 'Bemorning o\'z qoni yordamida qon quyish.',
-    transcript: '[ ˈɔː.təʊ trænsˈfjuː.ʒən]',
+    transcript: '[ˈɔː.təʊ trænsˈfjuː.ʒən]',
     favorite: false,
   ),
   Word(
@@ -952,7 +952,7 @@ List<Word> wordsList = [
     uz: 'aksilla',
     enDef: 'The armpit.',
     uzDef: 'Qo\'ltiq.',
-    transcript: '[ ækˈsɪl.ə]',
+    transcript: '[ækˈsɪl.ə]',
     favorite: false,
   ),
   Word(
@@ -960,7 +960,7 @@ List<Word> wordsList = [
     uz: 'bakteriemiya',
     enDef: 'The presence of bacteria in the blood.',
     uzDef: 'Qonda bakteriyalar mavjudligi.',
-    transcript: '[ bæk təˈ rimiə]',
+    transcript: '[bæk təˈ rimiə]',
     favorite: false,
   ),
   Word(
@@ -970,7 +970,7 @@ List<Word> wordsList = [
         'Single-celled microorganisms with one of three basic shapes: rod-like (bacilli), spherical (cocci) and spiral (spirilla).',
     uzDef:
         'Bir hujayrali mikroorganizmlar uchta asosiy shakldan biriga ega: tayoqsimon (batsillalar), sharsimon (kokklar) va spiral (spirilla).',
-    transcript: '[ bækˈtɪə.ri.ə]',
+    transcript: '[bækˈtɪə.ri.ə]',
     favorite: false,
   ),
   Word(
@@ -978,7 +978,7 @@ List<Word> wordsList = [
     uz: 'bakteriuriya',
     enDef: 'The presence of bacteria in the urine.',
     uzDef: 'Siydikda bakteriyalar mavjudligi.',
-    transcript: '[ bak tuh roor ee-uh]',
+    transcript: '[bak tuh roor ee-uh]',
     favorite: false,
   ),
   Word(
@@ -988,7 +988,7 @@ List<Word> wordsList = [
         'A swelling of the knee caused by an escape of fluid from a sac behind the knee.',
     uzDef:
         'Tiz orqasidagi qopdan suyuqlik chiqishi natijasida paydo bo\'lgan tizzaning shishishi.',
-    transcript: '[ ˌbeɪ.kəz  sɪst]',
+    transcript: '[ˌbeɪ.kəz  sɪst]',
     favorite: false,
   ),
   Word(
@@ -996,7 +996,7 @@ List<Word> wordsList = [
     uz: 'ballizm',
     enDef: 'Quick, jerking movements that occur in people with chorea.',
     uzDef: 'Xoreya bilan og\'rigan odamlarda tez, chayqaladigan harakatlar.',
-    transcript: '[ bal iz-uh m]',
+    transcript: '[bal iz-uh m]',
     favorite: false,
   ),
   Word(
@@ -1006,7 +1006,7 @@ List<Word> wordsList = [
         'A chalky substance used in x-ray studies of the digestive tract to highlight abnormalities.',
     uzDef:
         'Ovqat hazm qilish traktining rentgenologik tekshiruvlarida anormalliklarni aniqlash uchun ishlatiladigan bo\'rli modda.',
-    transcript: '[ ˈbeə.ri.əm]',
+    transcript: '[ˈbeə.ri.əm]',
     favorite: false,
   ),
   Word(
@@ -1016,7 +1016,7 @@ List<Word> wordsList = [
         'Injury caused by pressure differences between the atmosphere and the air-filled spaces in the body.',
     uzDef:
         'Atmosfera va tanadagi havo bilan to\'ldirilgan bo\'shliqlar o\'rtasidagi bosim farqlari natijasida kelib chiqqan shikastlanish.',
-    transcript: '[ bəˈrɒ ˈtrɔː.mə]',
+    transcript: '[bəˈrɒ ˈtrɔː.mə]',
     favorite: false,
   ),
   Word(
@@ -1025,7 +1025,7 @@ List<Word> wordsList = [
     enDef: 'A cyst caused by an infection of the glands on the vaginal wall.',
     uzDef:
         'Vaginal devordagi bezlarning infektsiyasi natijasida paydo bo\'lgan kist.',
-    transcript: '[ ˈbɑrθəlɪn  sɪst]',
+    transcript: '[ˈbɑrθəlɪn  sɪst]',
     favorite: false,
   ),
   Word(
@@ -1035,7 +1035,7 @@ List<Word> wordsList = [
         'A vaccine that offers some protection against tuberculosis. It’s now rarely used in the U.S. because it doesn’t give total...',
     uzDef:
         'Sil kasalligidan himoya qiluvchi vaktsina. Hozirda u AQShda kamdan-kam qo\'llaniladi, chunki u umumiy miqdorni bermaydi ...',
-    transcript: '[ bəˌsɪl ˌkælˈmɛt ɡɛrˌɛn vak-seen]',
+    transcript: '[bəˌsɪl ˌkælˈmɛt ɡɛrˌɛn vak-seen]',
     favorite: false,
   ),
   Word(
@@ -1044,7 +1044,7 @@ List<Word> wordsList = [
     enDef:
         'An ulcer caused by chafing or by the pressure of the body against the bed.',
     uzDef: 'Ishqalanish yoki tananing yotoqqa bosimidan kelib chiqqan yara.',
-    transcript: '[ bed.sɔːr]',
+    transcript: '[bed.sɔːr]',
     favorite: false,
   ),
   Word(
@@ -1054,7 +1054,7 @@ List<Word> wordsList = [
         'A usually temporary loss of feeling or movement of the face, usually on one side, causing an inability to close...',
     uzDef:
         'Odatda yuzning bir tomonida his-tuyg\'u yoki harakatning vaqtincha yo\'qolishi, bu esa yopilmasligiga olib keladi ...',
-    transcript: '[ ˌbelz ˈpɔːl.zi]',
+    transcript: '[ˌbelz ˈpɔːl.zi]',
     favorite: false,
   ),
   Word(
@@ -1064,7 +1064,7 @@ List<Word> wordsList = [
         'A condition that results from rapidly decreasing atmospheric pressure on the body. Symptoms include joint pain, chest pain, shortness of...',
     uzDef:
         'Tanadagi atmosfera bosimining tez pasayishi natijasida yuzaga keladigan holat. Alomatlar orasida bo\'g\'imlardagi og\'riqlar, ko\'krak qafasidagi og\'riqlar, qisqarish ...',
-    transcript: '[ bendz]',
+    transcript: '[bendz]',
     favorite: false,
   ),
   Word(
@@ -1072,7 +1072,7 @@ List<Word> wordsList = [
     uz: 'yaxshi xulqli',
     enDef: 'A nonlife-threatening condition. Not malignant. Not cancerous.',
     uzDef: 'Hayot uchun xavfli bo\'lmagan holat. Xatarli emas. Saraton emas.',
-    transcript: '[ bɪˈnaɪn]',
+    transcript: '[bɪˈnaɪn]',
     favorite: false,
   ),
   Word(
@@ -1082,7 +1082,7 @@ List<Word> wordsList = [
         'An inherited disorder that causes a slow tremor in the hands, head and voice. It may affect only one side...',
     uzDef:
         'Qo\'llar, bosh va ovozda sekin tremorga olib keladigan irsiy kasallik. Bu faqat bir tomonga ta\'sir qilishi mumkin ...',
-    transcript: '[ bɪˈnaɪn  fəˈmɪl.i.əl  ˈtrem.ər ]',
+    transcript: '[bɪˈnaɪn  fəˈmɪl.i.əl  ˈtrem.ər ]',
     favorite: false,
   ),
   Word(
@@ -1092,7 +1092,7 @@ List<Word> wordsList = [
         'A deficiency disease caused by dietary insufficiency of vitamin B1 (thiamine). Symptoms include general weakness and painful rigidity.',
     uzDef:
         'B1 vitamini (tiamin) ning parhez etishmasligidan kelib chiqadigan tanqislik kasalligi. Alomatlar umumiy zaiflik va og\'riqli qattiqlikni o\'z ichiga oladi.',
-    transcript: '[ ˌber.ɪˈber.i]',
+    transcript: '[ˌber.ɪˈber.i]',
     favorite: false,
   ),
   Word(
@@ -1102,7 +1102,7 @@ List<Word> wordsList = [
         'A muscle having two heads. The most familiar is the large muscle in the front of the upper arm responsible...',
     uzDef:
         'Ikki boshli mushak. Eng tanishi - bu qo\'lning yuqori qismidagi katta mushakdir ...',
-    transcript: '[ baɪ.seps]',
+    transcript: '[baɪ.seps]',
     favorite: false,
   ),
   Word(
@@ -1110,7 +1110,7 @@ List<Word> wordsList = [
     uz: 'ikki tomonlama',
     enDef: 'A tooth named for the two-pointed projections on the crown.',
     uzDef: 'Tojdagi ikki burchakli proektsiyalar uchun nomlangan tish.',
-    transcript: '[ baɪˈkʌs.pɪd]',
+    transcript: '[baɪˈkʌs.pɪd]',
     favorite: false,
   ),
   Word(
@@ -1120,7 +1120,7 @@ List<Word> wordsList = [
         'Eyeglasses with divided lenses. The two parts of each lens have different strengths, allowing the wearer to focus the eye...',
     uzDef:
         'Bo\'lingan linzali ko\'zoynaklar. Har bir linzaning ikkita qismi har xil kuchli tomonlarga ega bo\'lib, foydalanuvchiga ko\'zni diqqatini qaratishga imkon beradi ...',
-    transcript: '[ baɪˈfəʊ.kəlz]',
+    transcript: '[baɪˈfəʊ.kəlz]',
     favorite: false,
   ),
   Word(
@@ -1130,7 +1130,7 @@ List<Word> wordsList = [
         'A clear yellow fluid produced by the liver and stored in the gallbladder. Aids in digestion.',
     uzDef:
         'Jigar tomonidan ishlab chiqariladigan va o\'t pufagida saqlanadigan shaffof sariq suyuqlik. Ovqat hazm qilishda yordam beradi.',
-    transcript: '[ baɪl]',
+    transcript: '[baɪl]',
     favorite: false,
   ),
   Word(
@@ -1140,7 +1140,7 @@ List<Word> wordsList = [
         'A pigment produced in the liver by the breakdown of hemoglobin from old red blood cells. Bilirubin is normally eliminated…',
     uzDef:
         'Qadimgi qizil qon hujayralaridan gemoglobin parchalanishi natijasida jigarda hosil bo\'lgan pigment. Bilirubin odatda chiqariladi ...',
-    transcript: '[ bɪl.ɪˈruː.bɪn]',
+    transcript: '[bɪl.ɪˈruː.bɪn]',
     favorite: false,
   ),
   Word(
@@ -1150,7 +1150,7 @@ List<Word> wordsList = [
         'Using both eyes at the same time. Binocular vision is the most important element of depth perception.',
     uzDef:
         'Ikkala ko\'zni bir vaqtning o\'zida ishlatish. Binokulyar ko\'rish chuqur idrok etishning eng muhim elementidir.',
-    transcript: '[ bɪˈnɒk.jə.lər ˈvɪʒ.ən]',
+    transcript: '[bɪˈnɒk.jə.lər ˈvɪʒ.ən]',
     favorite: false,
   ),
   Word(
@@ -1160,7 +1160,7 @@ List<Word> wordsList = [
         'Removal and exam of a tissue sample taken from a living body. This procedure helps determine if the tissue is…',
     uzDef:
         'Tirik tanadan olingan to\'qima namunasini olib tashlash va tekshirish. Ushbu protsedura to\'qimalarning mavjudligini aniqlashga yordam beradi ...',
-    transcript: '[ baɪ.ɒp.si]',
+    transcript: '[baɪ.ɒp.si]',
     favorite: false,
   ),
   Word(
@@ -1170,7 +1170,7 @@ List<Word> wordsList = [
         'A psychiatric disorder in which the affected person has both depressed and happy, energetic (manic) episodes. This is a newer…',
     uzDef:
         'Ta\'sirlangan odamda ruhiy tushkunlik, ham baxtli, baquvvat (manik) epizodlar bo\'lgan psixiatrik kasallik. Bu yangiroq…',
-    transcript: '[ baɪˌpəʊ.lər əˈfek.tɪv dɪˌsɔː.dər]',
+    transcript: '[baɪˌpəʊ.lər əˈfek.tɪv dɪˌsɔː.dər]',
     favorite: false,
   ),
   Word(
@@ -1180,7 +1180,7 @@ List<Word> wordsList = [
         'A dark-topped plug of fatty material in the opening of a hair follicle. The color is the result of exposure…',
     uzDef:
         'Soch follikulasining teshigidagi yog\'li materialning quyuq tepasidagi tiqin. Rang ta\'sir qilish natijasidir ...',
-    transcript: '[ ˈblæk.hed]',
+    transcript: '[ˈblæk.hed]',
     favorite: false,
   ),
   Word(
@@ -1190,7 +1190,7 @@ List<Word> wordsList = [
         '1. Short-term loss of vision and consciousness. 2. In an alcoholic person, loss of memory for a period of…',
     uzDef:
         '1. Ko\'rish va ongni qisqa muddatli yo\'qotish. 2. Spirtli ichimliklarni iste\'mol qilgan odamda xotirani bir muddat yo\'qotish ...',
-    transcript: '[ ˈblæk.aʊt]',
+    transcript: '[ˈblæk.aʊt]',
     favorite: false,
   ),
   Word(
@@ -1200,7 +1200,7 @@ List<Word> wordsList = [
         'The organ that temporarily stores a substance. Commonly used in reference to the urinary bladder, which holds urine until it’s…',
     uzDef:
         'Moddani vaqtincha saqlaydigan organ. Odatda siydik pufagiga nisbatan qo\'llaniladi, u siydikni u qadar ushlab turadi ...',
-    transcript: '[ ˈblæd.ər]',
+    transcript: '[ˈblæd.ər]',
     favorite: false,
   ),
   Word(
@@ -1208,7 +1208,7 @@ List<Word> wordsList = [
     uz: 'blefarit',
     enDef: 'Inflammation of the eyelid.',
     uzDef: 'Ko\'z qovog\'ining yallig\'lanishi.',
-    transcript: '[ blɛfəɹˈaɪtɪs]',
+    transcript: '[blɛfəɹˈaɪtɪs]',
     favorite: false,
   ),
   Word(
@@ -1218,7 +1218,7 @@ List<Word> wordsList = [
         'The tubular passages, also called bronchial tubes, that carry air into the lungs.',
     uzDef:
         'Naychali yo\'llar, shuningdek, bronxial naychalar deb ataladi, ular havoni o\'pkaga olib boradi.',
-    transcript: '[ ˈbɹɒŋkaɪ]',
+    transcript: '[ˈbɹɒŋkaɪ]',
     favorite: false,
   ),
   Word(
@@ -1227,7 +1227,7 @@ List<Word> wordsList = [
     enDef: 'An infection of the bronchioles, the tiny air tubes in the lungs.',
     uzDef:
         'Bronxiolalarning, o\'pkadagi mayda havo naychalarining infektsiyasi.',
-    transcript: '[ ˈbrɒŋ.ki.əʊli tɪs]',
+    transcript: '[ˈbrɒŋ.ki.əʊli tɪs]',
     favorite: false,
   ),
   Word(
@@ -1235,7 +1235,7 @@ List<Word> wordsList = [
     uz: 'bronxit',
     enDef: 'Inflammation of the bronchi.',
     uzDef: 'Bronxlarning yallig\'lanishi.',
-    transcript: '[ brɒŋˈkaɪ.tɪs]',
+    transcript: '[brɒŋˈkaɪ.tɪs]',
     favorite: false,
   ),
   Word(
@@ -1243,7 +1243,7 @@ List<Word> wordsList = [
     uz: 'bronxospazm',
     enDef: 'Contraction of the muscle in the walls of the bronchi.',
     uzDef: 'Bronxlar devoridagi mushakning qisqarishi.',
-    transcript: '[ ˈbrɔn.xɔ ˈspæz.əm]',
+    transcript: '[ˈbrɔn.xɔ ˈspæz.əm]',
     favorite: false,
   ),
   Word(
@@ -1253,7 +1253,7 @@ List<Word> wordsList = [
         'A disorder of iron metabolism resulting in iron pigment deposits in the skin and other body tissues that causes a…',
     uzDef:
         'Teri va boshqa tana to\'qimalarida temir pigmenti to\'planishiga olib keladigan temir metabolizmining buzilishi ...',
-    transcript: '[ brɒnz daɪəˈbiːtiːz]',
+    transcript: '[brɒnz daɪəˈbiːtiːz]',
     favorite: false,
   ),
   Word(
@@ -1263,7 +1263,7 @@ List<Word> wordsList = [
         'An infection characterized by fluctuating fever, headache, anemia and vague physical discomfort that’s transmitted to humans from domesticated goats, pigs…',
     uzDef:
         'O\'zgaruvchan isitma, bosh og\'rig\'i, kamqonlik va noaniq jismoniy noqulaylik bilan tavsiflangan infektsiya, uy echkilari, cho\'chqalar orqali odamlarga yuqadi ...',
-    transcript: '[ bruːsəˈloʊsɪs]',
+    transcript: '[bruːsəˈloʊsɪs]',
     favorite: false,
   ),
   Word(
@@ -1273,7 +1273,7 @@ List<Word> wordsList = [
         'Discoloration of the skin due to a buildup of blood in the underlying soft tissues. Also called a contusion.',
     uzDef:
         'Pastki yumshoq to\'qimalarda qon to\'planishi tufayli terining rangi o\'zgarishi. Bundan tashqari, kontuziya deb ataladi.',
-    transcript: '[ bruz]',
+    transcript: '[bruz]',
     favorite: false,
   ),
   Word(
@@ -1281,7 +1281,7 @@ List<Word> wordsList = [
     uz: 'bruksizm',
     enDef: 'Grinding of the teeth.',
     uzDef: 'Tishlarni silliqlash.',
-    transcript: '[ ˈbrʌksɪzəm]',
+    transcript: '[ˈbrʌksɪzəm]',
     favorite: false,
   ),
   Word(
@@ -1291,7 +1291,7 @@ List<Word> wordsList = [
         'A swollen, infected lymph node (especially in the groin). The node may enlarge enough that it begins to drain through.',
     uzDef:
         'Shishgan, infektsiyalangan limfa tugunlari (ayniqsa, kasıkta). Tugun yetarlicha kattalashishi mumkinki, u orqali oqib chiqa boshlaydi...',
-    transcript: '[ ˈbjuːboʊ]',
+    transcript: '[ˈbjuːboʊ]',
     favorite: false,
   ),
   Word(
@@ -1301,7 +1301,7 @@ List<Word> wordsList = [
         'Blockage of medium-sized blood vessels in the hands and feet by clotting and inflammation. This process causes severe pain and…',
     uzDef:
         'Qo\'l va oyoqlarda o\'rta kattalikdagi qon tomirlarining ivishi va yallig\'lanishi bilan bloklanishi. Bu jarayon kuchli og\'riq va ...',
-    transcript: '[ ˈbɜrɡərz dɪˈziːz]',
+    transcript: '[ˈbɜrɡərz dɪˈziːz]',
     favorite: false,
   ),
   Word(
@@ -1311,7 +1311,7 @@ List<Word> wordsList = [
         'An eating disorder characterized by binge eating followed by vomiting or use of laxatives. Usually caused by a variety of…',
     uzDef:
         'Ovqatlanishning buzilishi, ko\'p ovqatlanish, keyin qusish yoki laksatiflarni qo\'llash bilan tavsiflanadi. Odatda turli sabablarga ko\'ra yuzaga keladi ...',
-    transcript: '[ bjuːˈliːmiə]',
+    transcript: '[bjuːˈliːmiə]',
     favorite: false,
   ),
   Word(
@@ -1319,7 +1319,7 @@ List<Word> wordsList = [
     uz: 'bunyon',
     enDef: 'Localized swelling of the big toe at its joint with the foot.',
     uzDef: 'Bosh barmog\'ining oyoq bilan qo\'shilishida lokalize shishishi.',
-    transcript: '[ ˈbʌnjən]',
+    transcript: '[ˈbʌnjən]',
     favorite: false,
   ),
   Word(
@@ -1329,7 +1329,7 @@ List<Word> wordsList = [
         'A small, fluid-filled sac that allows one part of a joint to move freely over another part.',
     uzDef:
         'Bo\'g\'imning bir qismini boshqa qismi ustidan erkin harakatlanishini ta\'minlaydigan suyuqlik bilan to\'ldirilgan kichik sumka.',
-    transcript: '[ ˈbɜrsə]',
+    transcript: '[ˈbɜrsə]',
     favorite: false,
   ),
   Word(
@@ -1337,7 +1337,7 @@ List<Word> wordsList = [
     uz: 'bursit',
     enDef: 'Inflammation of a bursa.',
     uzDef: 'Bursaning yallig\'lanishi.',
-    transcript: '[ bɜrˈsaɪtɪs]',
+    transcript: '[bɜrˈsaɪtɪs]',
     favorite: false,
   ),
   Word(
@@ -1345,7 +1345,7 @@ List<Word> wordsList = [
     uz: 'kaxeksiya',
     enDef: 'A generally weakened, emaciated condition of the body.',
     uzDef: 'Tananing umuman zaiflashgan, zaiflashgan holati.',
-    transcript: '[ kəˈkɛksiə]',
+    transcript: '[kəˈkɛksiə]',
     favorite: false,
   ),
   Word(
@@ -1355,7 +1355,7 @@ List<Word> wordsList = [
         'A bitter-tasting, water-soluble compound that acts as a central nervous system stimulant and has a mild diuretic (increasing urination)…',
     uzDef:
         'Achchiq ta\'mga ega, suvda eruvchan birikma, markaziy asab tizimini stimulyator sifatida ishlaydi va engil diuretik (siydik chiqarishni oshiradi) ...',
-    transcript: '[ ˈkæfiːn]',
+    transcript: '[ˈkæfiːn]',
     favorite: false,
   ),
   Word(
@@ -1363,7 +1363,7 @@ List<Word> wordsList = [
     uz: 'kalsiferol',
     enDef: 'Vitamin D.',
     uzDef: 'D vitamini.',
-    transcript: '[ kælˈsɪfərɒl]',
+    transcript: '[kælˈsɪfərɒl]',
     favorite: false,
   ),
   Word(
@@ -1371,7 +1371,7 @@ List<Word> wordsList = [
     uz: 'kalsifikatsiya',
     enDef: 'Calcium salt deposits in soft tissues.',
     uzDef: 'Yumshoq to\'qimalarda kaltsiy tuzining to\'planishi.',
-    transcript: '[ kælsɪfɪˈkeɪʃən]',
+    transcript: '[kælsɪfɪˈkeɪʃən]',
     favorite: false,
   ),
   Word(
@@ -1381,7 +1381,7 @@ List<Word> wordsList = [
         'A small, hard mass or stone formed in the body, as in a kidney or gallbladder, or a hard coating…',
     uzDef:
         'Buyrak yoki o\'t pufagidagi kabi tanada hosil bo\'lgan kichik, qattiq massa yoki tosh yoki qattiq qoplama ...',
-    transcript: '[ ˈkælkjʊləs]',
+    transcript: '[ˈkælkjʊləs]',
     favorite: false,
   ),
   Word(
@@ -1391,7 +1391,7 @@ List<Word> wordsList = [
         '1. Localized thickening of the skin. 2. A fibrous band formed around the site of a fracture that seals the…',
     uzDef:
         '1. Terining lokalize qalinlashishi. 2. Singan joyi atrofida hosil bo\'lgan tolali tasma ...',
-    transcript: '[ ˈkæləs]',
+    transcript: '[ˈkæləs]',
     favorite: false,
   ),
   Word(
@@ -1401,7 +1401,7 @@ List<Word> wordsList = [
         'The amount of energy needed to raise the temperature of one kilogram of water one degree. Commonly used to express…',
     uzDef:
         'Bir kilogramm suv haroratini bir darajaga ko\'tarish uchun zarur bo\'lgan energiya miqdori. Odatda ifodalash uchun ishlatiladi ...',
-    transcript: '[ ˈkæləri]',
+    transcript: '[ˈkæləri]',
     favorite: false,
   ),
   Word(
@@ -1411,7 +1411,7 @@ List<Word> wordsList = [
         'Someone who’s capable of transmitting a disease (especially an infectious or genetic disorder) to another person but who usually has…',
     uzDef:
         'Kasallikni (ayniqsa yuqumli yoki genetik kasallikni) boshqa odamga yuqtirishga qodir bo\'lgan, lekin odatda ...',
-    transcript: '[ ˈkærɪər]',
+    transcript: '[ˈkærɪər]',
     favorite: false,
   ),
   Word(
@@ -1421,7 +1421,7 @@ List<Word> wordsList = [
         'Elastic connective tissue on the joint surfaces of bone and some parts of the skeleton, including the nose and…',
     uzDef:
         'Suyakning bo\'g\'im yuzalarida va skeletning ba\'zi qismlarida elastik biriktiruvchi to\'qima, shu jumladan burun va ...',
-    transcript: '[ ˈkɑrtəlɪdʒ]',
+    transcript: '[ˈkɑrtəlɪdʒ]',
     favorite: false,
   ),
   Word(
@@ -1431,7 +1431,7 @@ List<Word> wordsList = [
         'An oil extracted from the castor bean plant that’s irritating to the intestine and promotes bowel movements.',
     uzDef:
         'Ichakni tirnash xususiyati beruvchi va ichak harakatini rag\'batlantiradigan kastor loviya o\'simlikidan olingan yog\'.',
-    transcript: '[ ˈkæstər ɔɪl]',
+    transcript: '[ˈkæstər ɔɪl]',
     favorite: false,
   ),
   Word(
@@ -1441,7 +1441,7 @@ List<Word> wordsList = [
         'To remove the gonads, such as the testicles, making the male unable to have children.',
     uzDef:
         'Moyak kabi erkakning farzand ko\'rishiga qodir qiluvchi jinsiy bezlarni olib tashlash.',
-    transcript: '[ kæˈstreɪʃən]',
+    transcript: '[kæˈstreɪʃən]',
     favorite: false,
   ),
   Word(
@@ -1495,7 +1495,7 @@ List<Word> wordsList = [
     uz: 'kaustik',
     enDef: 'A chemical that can cause burns.',
     uzDef: 'Kuyishga olib kelishi mumkin bo\'lgan kimyoviy.',
-    transcript: '[ ˈkɔstɪk]',
+    transcript: '[ˈkɔstɪk]',
     favorite: false,
   ),
   Word(
@@ -1505,7 +1505,7 @@ List<Word> wordsList = [
         'To purposely burn with a hot instrument or caustic substance to destroy tissue, such as a wart.',
     uzDef:
         'To\'qimalarni, masalan, siğilni yo\'q qilish uchun issiq asbob yoki kaustik modda bilan ataylab yoqmoq.',
-    transcript: '[ ˈkɔtəˌraɪz]',
+    transcript: '[ˈkɔtəˌraɪz]',
     favorite: false,
   ),
   Word(
@@ -1513,7 +1513,7 @@ List<Word> wordsList = [
     uz: 'bo\'shliq',
     enDef: 'A hollow place or hole within the body.',
     uzDef: 'Tana ichidagi bo\'sh joy yoki teshik.',
-    transcript: '[ ˈkævəti]',
+    transcript: '[ˈkævəti]',
     favorite: false,
   ),
   Word(
@@ -1521,7 +1521,7 @@ List<Word> wordsList = [
     uz: 'CBC',
     enDef: 'Complete blood cell count.',
     uzDef: 'To\'liq qon hujayralari soni.',
-    transcript: '[ kəmˈpliːt blʌd kaʊnt]',
+    transcript: '[kəmˈpliːt blʌd kaʊnt]',
     favorite: false,
   ),
   Word(
@@ -1531,7 +1531,7 @@ List<Word> wordsList = [
         'The first part of the large intestine just below the small intestine or ileum.',
     uzDef:
         'Ingichka ichak yoki yonbosh ichakning biroz ostida bo’lgan yo\'g\'on ichakning birinchi qismi.',
-    transcript: '[ ˈsiːkəm]',
+    transcript: '[ˈsiːkəm]',
     favorite: false,
   ),
   Word(
@@ -1539,7 +1539,7 @@ List<Word> wordsList = [
     uz: 'çölyak',
     enDef: 'Having to do with the abdomen.',
     uzDef: 'Qorin bo\'shlig\'i bilan bog\'liq.',
-    transcript: '[ ˈsiːliæk]',
+    transcript: '[ˈsiːliæk]',
     favorite: false,
   ),
   Word(
@@ -1547,7 +1547,7 @@ List<Word> wordsList = [
     uz: 'hujayra',
     enDef: 'The basic unit of organization of all living organisms.',
     uzDef: 'Barcha tirik organizmlarni tashkil qilishning asosiy birligi.',
-    transcript: '[ sɛl]',
+    transcript: '[sɛl]',
     favorite: false,
   ),
   Word(
@@ -1555,7 +1555,7 @@ List<Word> wordsList = [
     uz: 'selülit',
     enDef: 'Infection of the skin.',
     uzDef: 'Terining infektsiyasi.',
-    transcript: '[ ˌsɛljuˈlaɪtɪs]',
+    transcript: '[ˌsɛljuˈlaɪtɪs]',
     favorite: false,
   ),
   Word(
@@ -1565,7 +1565,7 @@ List<Word> wordsList = [
         'A complex carbohydrate. Cellulose is a source of dietary fiber because it can’t be digested.',
     uzDef:
         'Murakkab uglevod. Tsellyuloza xun tolasi manbai hisoblanadi, chunki uni hazm qilish mumkin emas.',
-    transcript: '[ ˈsɛljʊloʊs]',
+    transcript: '[ˈsɛljʊloʊs]',
     favorite: false,
   ),
   Word(
@@ -1573,7 +1573,7 @@ List<Word> wordsList = [
     uz: 'sefalhalgiya',
     enDef: 'Headache.',
     uzDef: 'Bosh og\'rig\'i.',
-    transcript: '[ sɛfəˈlældʒiə]',
+    transcript: '[sɛfəˈlældʒiə]',
     favorite: false,
   ),
   Word(
@@ -1581,7 +1581,7 @@ List<Word> wordsList = [
     uz: 'serebellum',
     enDef: 'The part of the brain that coordinates muscular movements.',
     uzDef: 'Miyaning mushak harakatlarini muvofiqlashtiruvchi qismi.',
-    transcript: '[ ˌsɛrəˈbɛləm]',
+    transcript: '[ˌsɛrəˈbɛləm]',
     favorite: false,
   ),
   Word(
@@ -1589,7 +1589,7 @@ List<Word> wordsList = [
     uz: 'bosh miya',
     enDef: 'The main part of the brain.',
     uzDef: 'Miyaning asosiy qismi.',
-    transcript: '[ səˈribrəm]',
+    transcript: '[səˈribrəm]',
     favorite: false,
   ),
   Word(
@@ -1599,7 +1599,7 @@ List<Word> wordsList = [
         'A viral disease that usually begins with fever and cough, followed by a rash that progresses from red bumps to...',
     uzDef:
         'Odatda isitma va yo\'tal bilan boshlanadigan virusli kasallik, so\'ngra toshma paydo bo\'lib, qizil dog\'lardan ...',
-    transcript: '[ ˈtʃɪkənˌpɑks]',
+    transcript: '[ˈtʃɪkənˌpɑks]',
     favorite: false,
   ),
   Word(
@@ -1609,7 +1609,7 @@ List<Word> wordsList = [
         'Painful redness of the fingers, toes or ears caused by exposure to cold.',
     uzDef:
         'Sovuq ta\'siridan kelib chiqqan barmoqlar, oyoq barmoqlari yoki quloqlarning og\'riqli qizarishi.',
-    transcript: '[ ˈtʃɪlbleɪn]',
+    transcript: '[ˈtʃɪlbleɪn]',
     favorite: false,
   ),
   Word(
@@ -1619,7 +1619,7 @@ List<Word> wordsList = [
         'This is a severe illness marked by fever that’s caused by an infection in mothers after giving birth.',
     uzDef:
         'Bu tug\'ruqdan keyin onalar infektsiyasidan kelib chiqadigan isitma bilan tavsiflangan og\'ir kasallik.',
-    transcript: '[ ˈtʃaɪldbɛd ˈfiːvər]',
+    transcript: '[ˈtʃaɪldbɛd ˈfiːvər]',
     favorite: false,
   ),
   Word(
@@ -1629,7 +1629,7 @@ List<Word> wordsList = [
         'A cold sensation with shivering that sometimes occurs before a fever.',
     uzDef:
         'Ba\'zida isitmadan oldin paydo bo\'ladigan titroq bilan sovuq tuyg\'u.',
-    transcript: '[ tʃɪl]',
+    transcript: '[tʃɪl]',
     favorite: false,
   ),
   Word(
@@ -1639,7 +1639,7 @@ List<Word> wordsList = [
         'An approach to health care based on the assumption that most diseases are caused by pressure on the nerves.',
     uzDef:
         'Ko\'pgina kasalliklar nervlarga bosim tufayli yuzaga keladi degan taxminga asoslangan sog\'liqni saqlashga yondashuv.',
-    transcript: '[ kaɪrəˈpræktɪk]',
+    transcript: '[kaɪrəˈpræktɪk]',
     favorite: false,
   ),
   Word(
@@ -1649,7 +1649,7 @@ List<Word> wordsList = [
         'A microorganism, Chlamydia trachomatis, that’s a frequent cause of sexually transmitted disease.',
     uzDef:
         'Chlamydia trachomatis mikroorganizmi jinsiy yo\'l bilan yuqadigan kasallikning tez-tez sababidir.',
-    transcript: '[ kləˈmɪdiə]',
+    transcript: '[kləˈmɪdiə]',
     favorite: false,
   ),
   Word(
@@ -1659,7 +1659,7 @@ List<Word> wordsList = [
         'Dark coloring of the skin often seen during pregnancy and at menopause. Also occurs in Addison’s disease.',
     uzDef:
         'Ko\'pincha homiladorlik paytida va menopauzada terining quyuq rangi kuzatiladi. Addison kasalligida ham uchraydi.',
-    transcript: '[ kloʊˈæzmə]',
+    transcript: '[kloʊˈæzmə]',
     favorite: false,
   ),
   Word(
@@ -1669,7 +1669,7 @@ List<Word> wordsList = [
         'The addition of chlorine to kill harmful microorganisms in water or sewage.',
     uzDef:
         'Suv yoki kanalizatsiyada zararli mikroorganizmlarni o\'ldirish uchun xlor qo\'shilishi.',
-    transcript: '[ klɔrɪˈneɪʃən]',
+    transcript: '[klɔrɪˈneɪʃən]',
     favorite: false,
   ),
   Word(
@@ -1677,7 +1677,7 @@ List<Word> wordsList = [
     uz: 'xoletsistit',
     enDef: 'Inflammation of the gallbladder.',
     uzDef: 'O\'t pufagining yallig\'lanishi.',
-    transcript: '[ koʊlɪsɪsˈtaɪtɪs]',
+    transcript: '[koʊlɪsɪsˈtaɪtɪs]',
     favorite: false,
   ),
   Word(
@@ -1687,7 +1687,7 @@ List<Word> wordsList = [
         'Watery diarrhea caused by drinking water or eating food that’s contaminated with Vibrio cholera.',
     uzDef:
         'Suvli diareya ichimlik suvi yoki Vibrio cholere bilan ifloslangan ovqatni iste\'mol qilish natijasida yuzaga keladi.',
-    transcript: '[ ˈkɒlərə]',
+    transcript: '[ˈkɒlərə]',
     favorite: false,
   ),
   Word(
@@ -1697,7 +1697,7 @@ List<Word> wordsList = [
         'A tumor-like mass that sometimes forms as a result of a chronic middle ear infection.',
     uzDef:
         'Ba\'zida surunkali o\'rta quloq infektsiyasi natijasida hosil bo\'ladigan o\'simtaga o\'xshash massa.',
-    transcript: '[ koʊləsˌtiːəˈtoʊmə]',
+    transcript: '[koʊləsˌtiːəˈtoʊmə]',
     favorite: false,
   ),
   Word(
@@ -1707,7 +1707,7 @@ List<Word> wordsList = [
         'A fat-like substance that, if present in the blood in large amounts, is associated with the development of heart disease.',
     uzDef:
         'Yog\'ga o\'xshash modda, agar qonda ko\'p miqdorda bo\'lsa, yurak kasalliklarining rivojlanishiga bog\'liq.',
-    transcript: '[ kəˈlɛstərɔl]',
+    transcript: '[kəˈlɛstərɔl]',
     favorite: false,
   ),
   Word(
@@ -1717,7 +1717,7 @@ List<Word> wordsList = [
         'A drug that is made from coca leaves. It can be used by a doctor as a topical anesthetic.',
     uzDef:
         'Koka barglaridan tayyorlangan dori. U shifokor tomonidan topikal anestezik sifatida ishlatilishi mumkin.',
-    transcript: '[ koʊˈkeɪn]',
+    transcript: '[koʊˈkeɪn]',
     favorite: false,
   ),
   Word(
@@ -1725,7 +1725,7 @@ List<Word> wordsList = [
     uz: 'koksiks',
     enDef: 'The tailbone.',
     uzDef: 'Dum suyagi.',
-    transcript: '[ ˈkɒksiks]',
+    transcript: '[ˈkɒksiks]',
     favorite: false,
   ),
   Word(
@@ -1733,7 +1733,7 @@ List<Word> wordsList = [
     uz: 'koklea',
     enDef: 'The portion of the inner ear that senses sound.',
     uzDef: 'Ichki quloqning tovushni sezadigan qismi.',
-    transcript: '[ ˈkɒklɪə]',
+    transcript: '[ˈkɒklɪə]',
     favorite: false,
   ),
   Word(
@@ -1741,7 +1741,7 @@ List<Word> wordsList = [
     uz: 'jinsiy aloqa',
     enDef: 'Sexual intercourse.',
     uzDef: 'Jinsiy aloqa.',
-    transcript: '[ ˈkoʊɪtəs]',
+    transcript: '[ˈkoʊɪtəs]',
     favorite: false,
   ),
   Word(
@@ -1749,7 +1749,7 @@ List<Word> wordsList = [
     uz: 'shamollash',
     enDef: 'An upper respiratory infection.',
     uzDef: 'Yuqori nafas yo\'llarining infektsiyasi.',
-    transcript: '[ koʊld]',
+    transcript: '[koʊld]',
     favorite: false,
   ),
   Word(
@@ -1757,7 +1757,7 @@ List<Word> wordsList = [
     uz: 'sovuq yara',
     enDef: 'Herpes simplex infection of the lip.',
     uzDef: 'Labdagi herpes simplex infektsiyasi.',
-    transcript: '[ koʊld sɔr]',
+    transcript: '[koʊld sɔr]',
     favorite: false,
   ),
   Word(
@@ -1767,7 +1767,7 @@ List<Word> wordsList = [
         '1. A sudden, spasmodic abdominal pain. 2. In infants, a pattern of excessive crying, apparent abdominal pain and irritability.',
     uzDef:
         '1. Qorinning to\'satdan spazmatik og\'rig\'i. 2. Chaqaloqlarda ko\'p yig\'lash, aniq qorin og\'rig\'i va asabiylashish namunasi.',
-    transcript: '[ ˈkɒlɪk]',
+    transcript: '[ˈkɒlɪk]',
     favorite: false,
   ),
   Word(
@@ -1775,7 +1775,7 @@ List<Word> wordsList = [
     uz: 'kollagen',
     enDef: 'A protein formed in the connective tissue of the body.',
     uzDef: 'Tananing biriktiruvchi to\'qimasida hosil bo\'lgan oqsil.',
-    transcript: '[ ˈkɒlədʒən]',
+    transcript: '[ˈkɒlədʒən]',
     favorite: false,
   ),
   Word(
@@ -1783,7 +1783,7 @@ List<Word> wordsList = [
     uz: 'yo\'g\'on ichak',
     enDef: 'The large intestine.',
     uzDef: 'Katta ichak.',
-    transcript: '[ ˈkoʊlən]',
+    transcript: '[ˈkoʊlən]',
     favorite: false,
   ),
   Word(
@@ -1793,7 +1793,7 @@ List<Word> wordsList = [
         'A viral illness spread by ticks. Characterized by headache, backache and fever that begins to break and then returns midway...',
     uzDef:
         'Shomil orqali yuqadigan virusli kasallik. Bosh og\'rig\'i, bel og\'rig\'i va tana haroratining ko\'tarilishi bilan tavsiflanadi, ular buzilib, keyin o\'rtada qaytib keladi ...',
-    transcript: '[ ˌkɒləˈrædoʊ tɪk ˈfiːvər]',
+    transcript: '[ˌkɒləˈrædoʊ tɪk ˈfiːvər]',
     favorite: false,
   ),
   Word(
@@ -1803,7 +1803,7 @@ List<Word> wordsList = [
         'Surgery that makes an opening to the intestine through the surface of the abdomen. The opening empties the bowels.',
     uzDef:
         'Qorin bo\'shlig\'i yuzasi orqali ichakka ochiladigan operatsiya. Teshik ichaklarni bo\'shatadi.',
-    transcript: '[ kəˈlɒstəmi]',
+    transcript: '[kəˈlɒstəmi]',
     favorite: false,
   ),
   Word(
@@ -1813,7 +1813,7 @@ List<Word> wordsList = [
         'An antibody-rich fluid released by the breasts for a short time after the birth of a baby, before the true...',
     uzDef:
         'Chaqaloq tug\'ilgandan keyin qisqa vaqt ichida ko\'krak bezlari tomonidan chiqarilgan antikorga boy suyuqlik, haqiqiy ...',
-    transcript: '[ kəˈlɒstrəm]',
+    transcript: '[kəˈlɒstrəm]',
     favorite: false,
   ),
   Word(
@@ -1823,7 +1823,7 @@ List<Word> wordsList = [
         'A dark-topped plug of fatty material in the opening of a hair follicle. The color is the result of exposure...',
     uzDef:
         'Soch follikulasining teshigidagi yog\'li materialning quyuq tepasidagi tiqin. Rang ta\'sir qilish natijasidir ...',
-    transcript: '[ kəˈmiːdoʊ]',
+    transcript: '[kəˈmiːdoʊ]',
     favorite: false,
   ),
   Word(
@@ -1833,7 +1833,7 @@ List<Word> wordsList = [
         'A disease spread through direct contact with an infected person or substance.',
     uzDef:
         'Yuqtirilgan odam yoki modda bilan bevosita aloqada bo\'lgan kasallik.',
-    transcript: '[ kəˈmjuːnɪkəbəl dɪˈziz]',
+    transcript: '[kəˈmjuːnɪkəbəl dɪˈziz]',
     favorite: false,
   ),
   Word(
@@ -1843,7 +1843,7 @@ List<Word> wordsList = [
         'A dressing used to apply pressure or medicine to an area. Useful in applying heat or cold.',
     uzDef:
         'Bir hududga bosim yoki dori qo\'llash uchun ishlatiladigan kiyim. Issiqlik yoki sovuqni qo\'llashda foydalidir.',
-    transcript: '[ kəmˈprɛs]',
+    transcript: '[kəmˈprɛs]',
     favorite: false,
   ),
   Word(
@@ -1853,7 +1853,7 @@ List<Word> wordsList = [
         'An overwhelming urge to perform an act. Often used to describe ritual or repetitive behaviors.',
     uzDef:
         'Harakatni bajarish uchun haddan tashqari istak. Ko\'pincha marosim yoki takrorlanuvchi xatti-harakatlarni tasvirlash uchun ishlatiladi.',
-    transcript: '[ kəmˈpʌlʃən]',
+    transcript: '[kəmˈpʌlʃən]',
     favorite: false,
   ),
   Word(
@@ -1861,7 +1861,7 @@ List<Word> wordsList = [
     uz: 'kontseptsiya',
     enDef: 'Fertilization. The union of sperm and egg.',
     uzDef: 'Urug\'lantirish. Sperma va tuxumning birlashishi.',
-    transcript: '[ kənˈsɛpʃən]',
+    transcript: '[kənˈsɛpʃən]',
     favorite: false,
   ),
   Word(
@@ -1869,7 +1869,7 @@ List<Word> wordsList = [
     uz: 'miya chayqalishi',
     enDef: 'A loss of consciousness because of a head injury.',
     uzDef: 'Bosh jarohati tufayli ongni yo\'qotish.',
-    transcript: '[ kənˈkʌʃən]',
+    transcript: '[kənˈkʌʃən]',
     favorite: false,
   ),
   Word(
@@ -1879,7 +1879,7 @@ List<Word> wordsList = [
         'A sheath worn over the penis or inside the vagina (female condom) during intercourse to protect against pregnancy and...',
     uzDef:
         'Jinsiy aloqa paytida jinsiy olatni yoki qin ichida kiyiladigan niqob (ayollar prezervativi) homiladorlikdan va...',
-    transcript: '[ ˈkɒndəm]',
+    transcript: '[ˈkɒndəm]',
     favorite: false,
   ),
   Word(
@@ -1889,7 +1889,7 @@ List<Word> wordsList = [
         'The light-sensing structure on the retina of the eye capable of detecting color.',
     uzDef:
         'Ko\'zning to\'r pardasidagi yorug\'likni sezuvchi tuzilma rangni aniqlashga qodir.',
-    transcript: '[ koʊn]',
+    transcript: '[koʊn]',
     favorite: false,
   ),
   Word(
@@ -1897,7 +1897,7 @@ List<Word> wordsList = [
     uz: 'tug\'ma',
     enDef: 'Present at birth.',
     uzDef: 'Tug\'ilganda mavjud.',
-    transcript: '[ kənˈdʒɛnɪtl]',
+    transcript: '[kənˈdʒɛnɪtl]',
     favorite: false,
   ),
   Word(
@@ -1905,7 +1905,7 @@ List<Word> wordsList = [
     uz: 'kramp',
     enDef: 'A painful muscle spasm.',
     uzDef: 'Mushaklarning og\'riqli spazmi.',
-    transcript: '[ kræmp]',
+    transcript: '[kræmp]',
     favorite: false,
   ),
   Word(
@@ -1913,7 +1913,7 @@ List<Word> wordsList = [
     uz: 'kraniotomiya',
     enDef: 'A surgical opening of the skull.',
     uzDef: 'Bosh suyagining jarrohlik ochilishi.',
-    transcript: '[ kræniˈɒtəmi]',
+    transcript: '[kræniˈɒtəmi]',
     favorite: false,
   ),
   Word(
@@ -1921,7 +1921,7 @@ List<Word> wordsList = [
     uz: 'bosh suyagi',
     enDef: 'The skull or bony structure of the head that protects the brain.',
     uzDef: 'Bosh suyagi yoki boshning suyak tuzilishi, miyani himoya qiladi.',
-    transcript: '[ ˈkreɪniəm]',
+    transcript: '[ˈkreɪniəm]',
     favorite: false,
   ),
   Word(
@@ -1931,7 +1931,7 @@ List<Word> wordsList = [
         'A substance formed from the making of creatine, an important nitrogen compound made in the body. Common in blood, urine…',
     uzDef:
         'Organizmda hosil bo\'lgan muhim azot birikmasi bo\'lgan kreatinning hosil bo\'lishidan hosil bo\'lgan modda. Ko\'pincha qonda, siydikda ...',
-    transcript: '[ krɪˈætənɪn]',
+    transcript: '[krɪˈætənɪn]',
     favorite: false,
   ),
   Word(
@@ -1941,7 +1941,7 @@ List<Word> wordsList = [
         'Physical and mental retardation due to congenital lack of thyroid hormone.',
     uzDef:
         'Qalqonsimon bez gormonining konjenital yetishmasligi tufayli jismoniy va aqliy zaiflik.',
-    transcript: '[ ˈkritn̩ˌzəm]',
+    transcript: '[ˈkritn̩ˌzəm]',
     favorite: false,
   ),
   Word(
@@ -1951,7 +1951,7 @@ List<Word> wordsList = [
         'Chronic inflammation of the digestive tract, especially of the lower small intestine and colon.',
     uzDef:
         'Ovqat hazm qilish traktining surunkali yallig\'lanishi, ayniqsa pastki ingichka ichak va yo\'g\'on ichak.',
-    transcript: '[ kroʊnz dɪˈziz]',
+    transcript: '[kroʊnz dɪˈziz]',
     favorite: false,
   ),
   Word(
@@ -1961,7 +1961,7 @@ List<Word> wordsList = [
         'Obstruction of the upper respiratory tract at or below the larynx (voice box), resulting in a hoarse, barking cough.',
     uzDef:
         'Yuqori nafas yo\'llarining hiqildoq yoki uning ostidagi obstruktsiyasi (ovoz qutisi), natijada bo\'g\'iq, qichqiruvchi yo\'tal.',
-    transcript: '[ kruːp]',
+    transcript: '[kruːp]',
     favorite: false,
   ),
   Word(
@@ -1970,7 +1970,7 @@ List<Word> wordsList = [
     enDef: 'The first appearance of a baby’s scalp during the birth process.',
     uzDef:
         'Tug\'ilish jarayonida chaqaloqning bosh terisining birinchi ko\'rishishi.',
-    transcript: '[ ˈkraʊnɪŋ]',
+    transcript: '[ˈkraʊnɪŋ]',
     favorite: false,
   ),
   Word(
@@ -1980,7 +1980,7 @@ List<Word> wordsList = [
         'Destruction of tissue using extreme cold. A procedure used to treat skin lesions.',
     uzDef:
         'Haddan tashqari sovuq yordamida to\'qimalarni yo\'q qilish. Teri lezyonlarini davolash uchun ishlatiladigan protsedura.',
-    transcript: '[ kraɪoʊ ˈsɜrdʒəri]',
+    transcript: '[kraɪoʊ ˈsɜrdʒəri]',
     favorite: false,
   ),
   Word(
@@ -1988,7 +1988,7 @@ List<Word> wordsList = [
     uz: 'KT',
     enDef: 'Computed tomographic scan.',
     uzDef: 'Kompyuter tomografiyasi.',
-    transcript: '[ si ti]',
+    transcript: '[si ti]',
     favorite: false,
   ),
   Word(
@@ -1998,7 +1998,7 @@ List<Word> wordsList = [
         'A procedure to remove pus or blood from the abdomen through the vagina.',
     uzDef:
         'Qorin bo\'shlig\'idan qin yoki qonni olib tashlash uchun protsedura.',
-    transcript: '[ kʌlkɵdʌn\'ti:si:s]',
+    transcript: '[kʌlkɵdʌn\'ti:si:s]',
     favorite: false,
   ),
   Word(
@@ -2007,7 +2007,7 @@ List<Word> wordsList = [
     enDef: 'A disorder caused by overactivity of the pituitary gland.',
     uzDef:
         'Gipofiz bezining haddan tashqari faolligidan kelib chiqadigan buzilish.',
-    transcript: '[ \'ku:ʃiŋz \'sindrɵum]',
+    transcript: '[\'ku:ʃiŋz \'sindrɵum]',
     favorite: false,
   ),
   Word(
@@ -2015,7 +2015,7 @@ List<Word> wordsList = [
     uz: 'tiniq',
     enDef: 'A tooth with one point, or “canine” tooth.',
     uzDef: 'Bir nuqtali tish yoki "it" tish.',
-    transcript: '[ kʌspid]',
+    transcript: '[kʌspid]',
     favorite: false,
   ),
   Word(
@@ -2023,7 +2023,7 @@ List<Word> wordsList = [
     uz: 'teriga xos',
     enDef: 'Having to do with the skin.',
     uzDef: 'Teri bilan bog\'liq.',
-    transcript: '[ kju:\'teini:әs]',
+    transcript: '[kju:\'teini:әs]',
     favorite: false,
   ),
   Word(
@@ -2033,7 +2033,7 @@ List<Word> wordsList = [
         'Bluish discoloration of the skin caused by lack of oxygen in the blood.',
     uzDef:
         'Qonda kislorod etishmasligi tufayli terining mavimsi rangi o\'zgarishi.',
-    transcript: '[ saIә\'nәusIs]',
+    transcript: '[saIә\'nәusIs]',
     favorite: false,
   ),
   Word(
@@ -2043,7 +2043,7 @@ List<Word> wordsList = [
         'A sac or pocket in the body containing fluid or semisolid material.',
     uzDef:
         'Suyuq yoki yarim qattiq moddasi bo\'lgan tanadagi sumka yoki cho\'ntak.',
-    transcript: '[ sist]',
+    transcript: '[sist]',
     favorite: false,
   ),
   Word(
@@ -2051,7 +2051,7 @@ List<Word> wordsList = [
     uz: 'sistit',
     enDef: 'Inflammation of the bladder.',
     uzDef: 'Quviqning yallig\'lanishi.',
-    transcript: '[ sI\'staItIs]',
+    transcript: '[sI\'staItIs]',
     favorite: false,
   ),
   Word(
@@ -2059,7 +2059,7 @@ List<Word> wordsList = [
     uz: 'sitologiya',
     enDef: 'The study of cells.',
     uzDef: 'Hujayralarni o\'rganish.',
-    transcript: '[ saI\'tɒlədʒi]',
+    transcript: '[saI\'tɒlədʒi]',
     favorite: false,
   ),
   Word(
@@ -2069,7 +2069,7 @@ List<Word> wordsList = [
         'A virus that infects cells and causes them to become enlarged. Babies infected with the virus develop mental and sensory…',
     uzDef:
         'Hujayralarni yuqtirgan va ularning kattalashishiga olib keladigan virus. Virus bilan kasallangan chaqaloqlar aqliy va hissiy jihatdan rivojlanadi ...',
-    transcript: '[ saɪˌtoʊˈmɛɡəloʊˌvaɪrəs]',
+    transcript: '[saɪˌtoʊˈmɛɡəloʊˌvaɪrəs]',
     favorite: false,
   ),
   Word(
@@ -2079,7 +2079,7 @@ List<Word> wordsList = [
         'Dilatation and curettage. A surgical procedure in which the uterine lining is removed by scraping.',
     uzDef:
         'Dilatatsiya va kuretaj. Bachadon shilliq qavati qirib tashlash orqali olib tashlanadigan jarrohlik amaliyoti.',
-    transcript: '[ di: әnd si:]',
+    transcript: '[di: әnd si:]',
     favorite: false,
   ),
   Word(
@@ -2089,7 +2089,7 @@ List<Word> wordsList = [
         'Inflammation of the sac that collects tears for drainage from the eye.',
     uzDef:
         'Ko\'zdan drenajlash uchun ko\'z yoshlarini to\'playdigan qopning yallig\'lanishi.',
-    transcript: '[ dækri:ou\'sɪstaɪtɪs]',
+    transcript: '[dækri:ou\'sɪstaɪtɪs]',
     favorite: false,
   ),
   Word(
@@ -2097,7 +2097,7 @@ List<Word> wordsList = [
     uz: 'devaskulyarizatsiya',
     enDef: 'Interruption of blood circulation to part of the body.',
     uzDef: 'Tananing bir qismiga qon aylanishining uzilishi.',
-    transcript: '[ diːˌvæskjʊləraɪˈzeɪʃən]',
+    transcript: '[diːˌvæskjʊləraɪˈzeɪʃən]',
     favorite: false,
   ),
   Word(
@@ -2105,7 +2105,7 @@ List<Word> wordsList = [
     uz: 'dekstroz',
     enDef: 'A simple sugar. Glucose.',
     uzDef: 'Oddiy shakar. Glyukoza.',
-    transcript: '[ dekstrəʊs]',
+    transcript: '[dekstrəʊs]',
     favorite: false,
   ),
   Word(
@@ -2115,7 +2115,7 @@ List<Word> wordsList = [
         'Loss of water through the kidneys as a result of decreased production of the pituitary hormone vasopressin (an antidiuretic…',
     uzDef:
         'Gipofiz gormoni vazopressin (antidiuretik) ishlab chiqarilishining pasayishi natijasida buyraklar orqali suv yo\'qotilishi.',
-    transcript: '[ daɪəˈbiːtiːz ɪnˈsɪpɪdəs]',
+    transcript: '[daɪəˈbiːtiːz ɪnˈsɪpɪdəs]',
     favorite: false,
   ),
   Word(
@@ -2125,7 +2125,7 @@ List<Word> wordsList = [
         'A disorder of carbohydrate metabolism resulting from insulin deficiency. Characterized by high blood sugar levels that result in weakness, frequent…',
     uzDef:
         'Insulin etishmovchiligi natijasida uglevod almashinuvining buzilishi. Qon shakarining yuqori darajasi bilan tavsiflanadi, bu esa zaiflikka olib keladi, tez-tez ...',
-    transcript: '[ daɪəˈbiːtiːz mɛˈlaɪtəs]',
+    transcript: '[daɪəˈbiːtiːz mɛˈlaɪtəs]',
     favorite: false,
   ),
   Word(
@@ -2133,7 +2133,7 @@ List<Word> wordsList = [
     uz: 'tashxis qo\'ymoq',
     enDef: 'To identify a disease.',
     uzDef: 'Kasallikni aniqlamoq.',
-    transcript: '[ \'daɪəgnəʊz]',
+    transcript: '[\'daɪəgnəʊz]',
     favorite: false,
   ),
   Word(
@@ -2141,7 +2141,7 @@ List<Word> wordsList = [
     uz: 'tashxis',
     enDef: 'The process of identifying a disease or medical condition.',
     uzDef: 'Kasallik yoki tibbiy holatni aniqlash jarayoni.',
-    transcript: '[ daɪəgˈnəʊsɪs]',
+    transcript: '[daɪəgˈnəʊsɪs]',
     favorite: false,
   ),
   Word(
@@ -2151,7 +2151,7 @@ List<Word> wordsList = [
         'A treatment to remove certain molecules from the blood, particularly in people with kidney failure.',
     uzDef:
         'Ayniqsa, buyrak etishmovchiligi bo\'lgan odamlarda qondan ma\'lum molekulalarni olib tashlash uchun davolash.',
-    transcript: '[ daɪˈælɪsɪs]',
+    transcript: '[daɪˈælɪsɪs]',
     favorite: false,
   ),
   Word(
@@ -2159,7 +2159,7 @@ List<Word> wordsList = [
     uz: 'diaforez',
     enDef: 'Excessive sweating.',
     uzDef: 'Haddan tashqari terlash.',
-    transcript: '[ daɪəfəˈriːsɪs]',
+    transcript: '[daɪəfəˈriːsɪs]',
     favorite: false,
   ),
   Word(
@@ -2169,7 +2169,7 @@ List<Word> wordsList = [
         'The dome-shaped respiratory muscle separating the chest from the abdomen. A barrier contraceptive device molded to fit over…',
     uzDef:
         'Ko\'krakni qorin bo\'shlig\'idan ajratib turuvchi gumbazsimon nafas olish mushaklari. To\'siqli kontratseptiv moslamasi...',
-    transcript: '[ \'daɪəfrәm]',
+    transcript: '[\'daɪəfrәm]',
     favorite: false,
   ),
   Word(
@@ -2179,7 +2179,7 @@ List<Word> wordsList = [
         'Production of feces in increased volume and with greater fluidity than normal.',
     uzDef:
         'Najasni odatdagidan ko\'ra ko\'proq hajmda va suyuqlik bilan ishlab chiqarish.',
-    transcript: '[ daɪəˈriːə]',
+    transcript: '[daɪəˈriːə]',
     favorite: false,
   ),
   Word(
@@ -2187,7 +2187,7 @@ List<Word> wordsList = [
     uz: 'diastola',
     enDef: 'The relaxation phase of the heartbeat.',
     uzDef: 'Yurak urishining gevşeme bosqichi.',
-    transcript: '[ daɪˈæstəʊl]',
+    transcript: '[daɪˈæstəʊl]',
     favorite: false,
   ),
   Word(
@@ -2197,7 +2197,7 @@ List<Word> wordsList = [
         'Diastolic blood pressure is the pressure when your heart relaxing between beats and filling with blood.',
     uzDef:
         'Diastolik qon bosimi yurak urishi va qon bilan to\'lishi o\'rtasida bo\'shashganda bosimdir.',
-    transcript: '[ daɪəˈstɒlɪk]',
+    transcript: '[daɪəˈstɒlɪk]',
     favorite: false,
   ),
   Word(
@@ -2207,7 +2207,7 @@ List<Word> wordsList = [
         'The total food consumed by an individual. A therapeutic diet is a prescription of required or restricted foods.',
     uzDef:
         'Bir kishi tomonidan iste\'mol qilinadigan umumiy oziq-ovqat. Terapevtik dieta - bu zarur yoki cheklangan ovqatlarning retsepti',
-    transcript: '[ daɪət]',
+    transcript: '[daɪət]',
     favorite: false,
   ),
   Word(
@@ -2217,7 +2217,7 @@ List<Word> wordsList = [
         'An expert who is trained in the use of diet and nutrition to maintain or restore health.',
     uzDef:
         'Sog\'likni saqlash yoki tiklash uchun parhez va ovqatlanishdan foydalanish bo\'yicha o\'qitilgan mutaxassis.',
-    transcript: '[ daɪəˈtɪʃən]',
+    transcript: '[daɪəˈtɪʃən]',
     favorite: false,
   ),
   Word(
@@ -2227,7 +2227,7 @@ List<Word> wordsList = [
         'The mechanical and chemical conversion of food into simpler compounds that can be absorbed by the body.',
     uzDef:
         'Oziq-ovqatning organizm tomonidan so\'rilishi mumkin bo\'lgan oddiyroq birikmalarga mexanik va kimyoviy aylanishi.',
-    transcript: '[ daɪˈdʒɛstʃən]',
+    transcript: '[daɪˈdʒɛstʃən]',
     favorite: false,
   ),
   Word(
@@ -2235,7 +2235,7 @@ List<Word> wordsList = [
     uz: 'raqam',
     enDef: 'A finger or toe.',
     uzDef: 'Barmoq yoki oyoq barmog\'i.',
-    transcript: '[ ˈdɪdʒɪt]',
+    transcript: '[ˈdɪdʒɪt]',
     favorite: false,
   ),
   Word(
@@ -2243,7 +2243,7 @@ List<Word> wordsList = [
     uz: 'kengayishi',
     enDef: 'The process of expanding or enlarging.',
     uzDef: 'Kengayish yoki kattalashtirish jarayoni.',
-    transcript: '[ daɪˈleɪʃən]',
+    transcript: '[daɪˈleɪʃən]',
     favorite: false,
   ),
   Word(
@@ -2253,7 +2253,7 @@ List<Word> wordsList = [
         'An infectious disease of childhood characterized by fever, sore throat and the presence of “dirty” (white, gray, brown) membranes in…',
     uzDef:
         'Isitma, tomoq og\'rig\'i va "iflos" (oq, kulrang, jigarrang) membranalar mavjudligi bilan tavsiflangan bolalikdagi yuqumli kasallik ...',
-    transcript: '[ ˈdɪfˈθɪriə]',
+    transcript: '[ˈdɪfˈθɪriə]',
     favorite: false,
   ),
   Word(
@@ -2261,7 +2261,7 @@ List<Word> wordsList = [
     uz: 'diplopiya',
     enDef: 'Double vision.',
     uzDef: 'Ikki tomonlama ko’rish',
-    transcript: '[ daɪˈpləʊpɪə]',
+    transcript: '[daɪˈpləʊpɪə]',
     favorite: false,
   ),
   Word(
@@ -2271,7 +2271,7 @@ List<Word> wordsList = [
         'A round, red, scaling rash on the nose, forehead, cheeks, scalp or other areas of the body. It may be…',
     uzDef:
         'Burun, peshona, yonoq, bosh terisi yoki tananing boshqa joylarida dumaloq, qizil, ko\'pikli toshmalar. Bu bo\'lishi mumkin…',
-    transcript: '[ ˈdɪsˌkɔɪd ˈluːpəs ˌɛrɪˌθiːməˈtoʊsəs]',
+    transcript: '[ˈdɪsˌkɔɪd ˈluːpəs ˌɛrɪˌθiːməˈtoʊsəs]',
     favorite: false,
   ),
   Word(
@@ -2281,7 +2281,7 @@ List<Word> wordsList = [
         'A chemical agent used to destroy microorganisms on inanimate objects.',
     uzDef:
         'Jonsiz narsalardagi mikroorganizmlarni yo\'q qilish uchun ishlatiladigan kimyoviy vosita.',
-    transcript: '[ dɪsɪnˈfɛktənt]',
+    transcript: '[dɪsɪnˈfɛktənt]',
     favorite: false,
   ),
   Word(
@@ -2289,7 +2289,7 @@ List<Word> wordsList = [
     uz: 'dismenoreya',
     enDef: 'Painful menstruation.',
     uzDef: 'Og\'riqli hayz ko\'rish',
-    transcript: '[ dɪsmɛnəˈriə]',
+    transcript: '[dɪsmɛnəˈriə]',
     favorite: false,
   ),
   Word(
@@ -2297,7 +2297,7 @@ List<Word> wordsList = [
     uz: 'dispepsiya',
     enDef: 'Indigestion.',
     uzDef: 'Ovqat hazm qilish buzilishi.',
-    transcript: '[ dɪsˈpɛpsiə]',
+    transcript: '[dɪsˈpɛpsiə]',
     favorite: false,
   ),
   Word(
@@ -2305,7 +2305,7 @@ List<Word> wordsList = [
     uz: 'disfagiya',
     enDef: 'Difficulty swallowing.',
     uzDef: 'Yutish qiyinligi',
-    transcript: '[ dɪsˈfeɪdʒiə]',
+    transcript: '[dɪsˈfeɪdʒiə]',
     favorite: false,
   ),
   Word(
@@ -2313,7 +2313,7 @@ List<Word> wordsList = [
     uz: 'disfagiya',
     enDef: 'Labored breathing.',
     uzDef: 'Qiyin nafas olish',
-    transcript: '[ dɪspˈniə]',
+    transcript: '[dɪspˈniə]',
     favorite: false,
   ),
   Word(
@@ -2323,7 +2323,7 @@ List<Word> wordsList = [
         'The tympanic membrane that’s visible in the ear. It vibrates in response to sound waves.',
     uzDef:
         'Quloqda ko\'rinadigan timpanik membrana. Ovoz to\'lqinlariga javoban tebranadi.',
-    transcript: '[ ˈɪə.drʌm]',
+    transcript: '[ˈɪə.drʌm]',
     favorite: false,
   ),
   Word(
@@ -2333,7 +2333,7 @@ List<Word> wordsList = [
         'A collection of blood in the tissues causing a black and blue, or yellow, area.',
     uzDef:
         'Qora va ko\'k yoki sariq maydonni keltirib chiqaradigan to\'qimalarda qon to\'planishi.',
-    transcript: '[ ɪˈkkaɪˈmoʊsɪs]',
+    transcript: '[ɪˈkkaɪˈmoʊsɪs]',
     favorite: false,
   ),
   Word(
@@ -2341,7 +2341,7 @@ List<Word> wordsList = [
     uz: 'EKG',
     enDef: 'Electrocardiogram.',
     uzDef: 'Elektrokardiogramma',
-    transcript: '[ ˌiːsiːˈdʒi]',
+    transcript: '[ˌiːsiːˈdʒi]',
     favorite: false,
   ),
   Word(
@@ -2351,7 +2351,7 @@ List<Word> wordsList = [
         'An attack of convulsions. Particularly used to describe toxemia (toxins in the blood) of pregnancy.',
     uzDef:
         'Konvulsiyalar hujumi. Ayniqsa, homiladorlikning toksikozini (qondagi toksinlar) tasvirlash uchun ishlatiladi.',
-    transcript: '[ ɪˈklæmpsiə]',
+    transcript: '[ɪˈklæmpsiə]',
     favorite: false,
   ),
   Word(
@@ -2361,7 +2361,7 @@ List<Word> wordsList = [
         'When the fertilized egg is implanted and develops outside of the uterus.',
     uzDef:
         'Urug\'langan tuxum qo\'yilganda va bachadondan tashqarida rivojlanadi.',
-    transcript: '[ ɛktəpɪk ˈprɛgnənsi]',
+    transcript: '[ɛktəpɪk ˈprɛgnənsi]',
     favorite: false,
   ),
   Word(
@@ -2369,7 +2369,7 @@ List<Word> wordsList = [
     uz: 'ektropion',
     enDef: 'An outward turning of the eyelid.',
     uzDef: 'Ko\'z qovog\'ining tashqi tomonga burilishi.',
-    transcript: '[ ˈɛktrəpiən]',
+    transcript: '[ˈɛktrəpiən]',
     favorite: false,
   ),
   Word(
@@ -2379,7 +2379,7 @@ List<Word> wordsList = [
         'A rash characterized by itching, scaling, swelling and oozing. A common allergic reaction.',
     uzDef:
         'Qichishish, qichishish, shishish va oqish bilan tavsiflangan toshma. Umumiy allergik reaktsiya.',
-    transcript: '[ ˈɛksəmə]',
+    transcript: '[ˈɛksəmə]',
     favorite: false,
   ),
   Word(
@@ -2387,7 +2387,7 @@ List<Word> wordsList = [
     uz: 'shish',
     enDef: 'Buildup of excessive fluid around the cells in the body.',
     uzDef: 'Tanadagi hujayralar atrofida ortiqcha suyuqlik to\'planishi.',
-    transcript: '[ ɪˈdiːmə]',
+    transcript: '[ɪˈdiːmə]',
     favorite: false,
   ),
   Word(
@@ -2395,7 +2395,7 @@ List<Word> wordsList = [
     uz: 'EAG',
     enDef: 'Electroencephalogram.',
     uzDef: 'Elektroansefalogramma',
-    transcript: '[ ˌiːiːˈdʒiː]',
+    transcript: '[ˌiːiːˈdʒiː]',
     favorite: false,
   ),
   Word(
@@ -2403,7 +2403,7 @@ List<Word> wordsList = [
     uz: 'qisqarish',
     enDef: 'Thinning of the cervix during labor.',
     uzDef: 'Tug\'ilish paytida bachadon bo\'yni ingichka bo\'lishi',
-    transcript: '[ ɪˈfesmənt]',
+    transcript: '[ɪˈfesmənt]',
     favorite: false,
   ),
   Word(
@@ -2412,7 +2412,7 @@ List<Word> wordsList = [
     enDef: 'Buildup of fluid in a part of the body, particularly a joint.',
     uzDef:
         'Tananing bir qismida, xususan, bo\'g\'imlarda suyuqlik to\'planishi.',
-    transcript: '[ ɪˈfjuʒən]',
+    transcript: '[ɪˈfjuʒən]',
     favorite: false,
   ),
   Word(
@@ -2420,7 +2420,7 @@ List<Word> wordsList = [
     uz: 'eyakulyatsiya',
     enDef: 'The sudden ejection of semen from the male body. Climax.',
     uzDef: 'Erkak tanasidan spermani to\'satdan chiqarib yuborish. Klimaks.',
-    transcript: '[ iˌdʒækjʊˈleɪʃən]',
+    transcript: '[iˌdʒækjʊˈleɪʃən]',
     favorite: false,
   ),
   Word(
@@ -2428,7 +2428,7 @@ List<Word> wordsList = [
     uz: 'EKG',
     enDef: 'Electrocardiogram.',
     uzDef: 'Elektrokardiogramma',
-    transcript: '[ ˌiːkeɪˈdʒiː]',
+    transcript: '[ˌiːkeɪˈdʒiː]',
     favorite: false,
   ),
   Word(
@@ -2438,7 +2438,7 @@ List<Word> wordsList = [
         'A type of therapy used to treat severe, unresponsive depression by passing electrical current through the brain.',
     uzDef:
         'Miya orqali elektr tokini o\'tkazish orqali og\'ir, javobsiz depressiyani davolash uchun ishlatiladigan terapiya turi.',
-    transcript: '[ ɪlɛktrəʊkənˈvʌlsɪv]',
+    transcript: '[ɪlɛktrəʊkənˈvʌlsɪv]',
     favorite: false,
   ),
   Word(
@@ -2448,7 +2448,7 @@ List<Word> wordsList = [
         'Destruction of tissue through the use of electricity; often used to permanently remove unwanted hair from the body.',
     uzDef:
         'Elektr energiyasidan foydalanish orqali to\'qimalarni yo\'q qilish; ko\'pincha tanadan kiruvchi sochlarni doimiy ravishda olib tashlash uchun ishlatiladi.',
-    transcript: '[ ɪlɛkˈtrɒləsɪs]',
+    transcript: '[ɪlɛkˈtrɒləsɪs]',
     favorite: false,
   ),
   Word(
@@ -2458,7 +2458,7 @@ List<Word> wordsList = [
         'Compounds that separate into charged particles in water. The main electrolytes in the human body are sodium, potassium, bicarbonate, chloride,…',
     uzDef:
         'Suvda zaryadlangan zarrachalarga ajraladigan birikmalar. Inson organizmidagi asosiy elektrolitlar natriy, kaliy, bikarbonat, xlorid...',
-    transcript: '[ ɪlɛktrəlaɪts]',
+    transcript: '[ɪlɛktrəlaɪts]',
     favorite: false,
   ),
   Word(
@@ -2468,7 +2468,7 @@ List<Word> wordsList = [
         'A chronic disease characterized by the enlargement of certain parts of the body and by the hardening and ulceration of…',
     uzDef:
         'Surunkali kasallik, tananing ayrim qismlarining kattalashishi va qattiqlashishi va yarasi bilan tavsiflanadi ...',
-    transcript: '[ ˌɛlɪfənˈtaɪəsɪs]',
+    transcript: '[ˌɛlɪfənˈtaɪəsɪs]',
     favorite: false,
   ),
   Word(
@@ -2476,7 +2476,7 @@ List<Word> wordsList = [
     uz: 'epistaksiz',
     enDef: 'Nosebleed.',
     uzDef: 'Burundan qon ketish',
-    transcript: '[ ˌɛpɪsˈtæksɪs ]',
+    transcript: '[ˌɛpɪsˈtæksɪs ]',
     favorite: false,
   ),
   Word(
@@ -2486,7 +2486,7 @@ List<Word> wordsList = [
         'The layer of cells covering internal and external surfaces of the body.',
     uzDef:
         'Tananing ichki va tashqi yuzalarini qoplaydigan hujayralar qatlami.',
-    transcript: '[ ˌɛpɪˈθiliəm]',
+    transcript: '[ˌɛpɪˈθiliəm]',
     favorite: false,
   ),
   Word(
@@ -2496,7 +2496,7 @@ List<Word> wordsList = [
         'A febrile (fever-associated) skin infection caused by a group A hemolytic streptococci.',
     uzDef:
         'A guruhi gemolitik streptokokklar keltirib chiqaradigan febril (isitma bilan bog\'liq) teri infektsiyasi.',
-    transcript: '[ ˌɛrəsɪˈpiːləs]',
+    transcript: '[ˌɛrəsɪˈpiːləs]',
     favorite: false,
   ),
   Word(
@@ -2504,7 +2504,7 @@ List<Word> wordsList = [
     uz: 'eritema',
     enDef: 'Redness of the skin.',
     uzDef: 'Terining qizarishi.',
-    transcript: '[ ˌɛrəˈθiːmə]',
+    transcript: '[ˌɛrəˈθiːmə]',
     favorite: false,
   ),
   Word(
@@ -2514,7 +2514,7 @@ List<Word> wordsList = [
         'A viral infection most common in children that begins with a red, warm rash on the face, along with some...',
     uzDef:
         'Bolalarda eng ko\'p uchraydigan virusli infektsiya yuzida qizil, issiq toshma bilan boshlanadi, ba\'zilari bilan birga ...',
-    transcript: '[ ˌɛrəθiːmə ˌɪnfɛkʃiˈoʊsəm]',
+    transcript: '[ˌɛrəθiːmə ˌɪnfɛkʃiˈoʊsəm]',
     favorite: false,
   ),
   Word(
@@ -2524,7 +2524,7 @@ List<Word> wordsList = [
         'An eruption of flat or raised spots of skin as a result of hypersensitivity to certain drugs or allergies.',
     uzDef:
         'Ba\'zi dorilarga yoki allergiyaga yuqori sezuvchanlik natijasida terining tekis yoki ko\'tarilgan dog\'larining chiqishi.',
-    transcript: '[ ˌɛrəθiːmə ˌmʌltiˈfɔrm]',
+    transcript: '[ˌɛrəθiːmə ˌmʌltiˈfɔrm]',
     favorite: false,
   ),
   Word(
@@ -2534,7 +2534,7 @@ List<Word> wordsList = [
         'The sudden appearance of tender raised nodes on the lower limbs as a result of an infection, hypersensitivity to certain...',
     uzDef:
         'Infektsion natijasida pastki oyoq-qo\'llarda yumshoq ko\'tarilgan tugunlarning to\'satdan paydo bo\'lishi, ma\'lum ...',
-    transcript: '[ ɛrəθiːmə ˌnoʊdəsʌm]',
+    transcript: '[ɛrəθiːmə ˌnoʊdəsʌm]',
     favorite: false,
   ),
   Word(
@@ -2542,7 +2542,7 @@ List<Word> wordsList = [
     uz: 'eritrotsitlar',
     enDef: 'Red blood cell.',
     uzDef: 'Qizil qon hujayralari.',
-    transcript: '[ ɪˈrɪθrəsaɪt]',
+    transcript: '[ɪˈrɪθrəsaɪt]',
     favorite: false,
   ),
   Word(
@@ -2552,7 +2552,7 @@ List<Word> wordsList = [
         'A type of common bacteria normally found in the colon. Some strains that cause diarrhea are acquired during travel.',
     uzDef:
         'Odatda yo\'g\'on ichakda joylashgan oddiy bakteriyalar turi. Diareyaga olib keladigan ba\'zi shtammlar sayohat paytida olinadi.',
-    transcript: '[ ɪskɪrakiɪ ˈkoʊlaɪ]',
+    transcript: '[ɪskɪrakiɪ ˈkoʊlaɪ]',
     favorite: false,
   ),
   Word(
@@ -2562,7 +2562,7 @@ List<Word> wordsList = [
         'Inflammation of the esophagus, often caused from a reflux of acid from the stomach.',
     uzDef:
         'Qizilo\'ngachning yallig\'lanishi, ko\'pincha oshqozondan kislotaning qaytarilishidan kelib chiqadi.',
-    transcript: '[ ɪsɪfɪˈdʒaɪtaɪs]',
+    transcript: '[ɪsɪfɪˈdʒaɪtaɪs]',
     favorite: false,
   ),
   Word(
@@ -2571,7 +2571,7 @@ List<Word> wordsList = [
     enDef:
         'The tube through which food passes from the pharynx to the stomach.',
     uzDef: 'Ovqat farenksdan oshqozonga o\'tadigan naycha.',
-    transcript: '[ ɪˈsɪfəɡəs]',
+    transcript: '[ɪˈsɪfəɡəs]',
     favorite: false,
   ),
   Word(
@@ -2579,7 +2579,7 @@ List<Word> wordsList = [
     uz: 'estrogen',
     enDef: 'Female sex hormone.',
     uzDef: 'Ayol jinsiy gormoni.',
-    transcript: '[ ˈɛstrədʒən]',
+    transcript: '[ˈɛstrədʒən]',
     favorite: false,
   ),
   Word(
@@ -2589,7 +2589,7 @@ List<Word> wordsList = [
         'The narrow tube connecting the nose and middle ear to allow air pressure in the middle ear to equalize with...',
     uzDef:
         'Burun va o\'rta quloqni bog\'laydigan tor quvur o\'rta quloqdagi havo bosimini tenglashtirishga imkon beradi ...',
-    transcript: '[ juːˈsteɪʃ(ə)n tjuːb]',
+    transcript: '[juːˈsteɪʃ(ə)n tjuːb]',
     favorite: false,
   ),
   Word(
@@ -3728,7 +3728,7 @@ List<Word> wordsList = [
     enDef: 'A skin reaction characterized by swelling, itching and burning.',
     uzDef:
         'Shishish, qinish va yonish bilan xarakterlanadigan teri reaktsiyasi.',
-    transcript: '[ haɪvz ]',
+    transcript: '[haɪvz ]',
     favorite: false,
   ),
   Word(
@@ -3738,7 +3738,7 @@ List<Word> wordsList = [
         'A progressive form of lymphoma usually characterized by weakness, swollen lymph nodes, sweating, fever and weight loss.',
     uzDef:
         'Limfomaning progressiv shakli odatda zaiflik, shishgan limfa tugunlari, terlash, isitma va vazn yo\'qotish bilan tavsiflanadi.',
-    transcript: '[ hɒdʒkɪnz dɪˌziːz ]',
+    transcript: '[hɒdʒkɪnz dɪˌziːz ]',
     favorite: false,
   ),
   Word(
@@ -3748,7 +3748,7 @@ List<Word> wordsList = [
         'Medical treatment based on the theory that certain diseases can be cured by giving very small doses of substances that,…',
     uzDef:
         'Ba\'zi kasalliklarni juda kichik dozadagi moddalarni berish orqali davolash mumkin degan nazariyaga asoslangan tibbiy davolash.',
-    transcript: '[ ˌhəʊmɪˈɒpəθɪ ]',
+    transcript: '[ˌhəʊmɪˈɒpəθɪ ]',
     favorite: false,
   ),
   Word(
@@ -3756,7 +3756,7 @@ List<Word> wordsList = [
     uz: 'homogenlash',
     enDef: 'To make more uniform in quality or consistency.',
     uzDef: 'Sifat yoki mustahkamlik bo\'yicha bir xillik qilish.',
-    transcript: '[ həˈmɒdʒənaɪz ]',
+    transcript: '[həˈmɒdʒənaɪz ]',
     favorite: false,
   ),
   Word(
@@ -3765,7 +3765,7 @@ List<Word> wordsList = [
     enDef: 'Inflammation of a gland on the eyelid. Also called a stye.',
     uzDef:
         'Ko’z qovog’ining yallig’lnishi. Shuningdek, arpabodiyon deb ataladi.',
-    transcript: '[ hɔːrˈdiːələm ]',
+    transcript: '[hɔːrˈdiːələm ]',
     favorite: false,
   ),
   Word(
@@ -3775,7 +3775,7 @@ List<Word> wordsList = [
         'A substance formed in an organ of the body and carried by body fluids to another organ or tissue, where…',
     uzDef:
         'Tana a\'zolarida hosil bo\'lgan va tana suyuqliklari orqali boshqa organ yoki to\'qimalarga o\'tkaziladigan modda.',
-    transcript: '[ ˈhɔːməʊn ]',
+    transcript: '[ˈhɔːməʊn ]',
     favorite: false,
   ),
   Word(
@@ -3785,7 +3785,7 @@ List<Word> wordsList = [
         'An organism that harbors and provides sustenance for another organism.',
     uzDef:
         'Boshqa organizmni o’z ichiga olgan va oziq-ovqat bilan ta\'minlaydigan organizm.',
-    transcript: '[ həʊst ]',
+    transcript: '[həʊst ]',
     favorite: false,
   ),
   Word(
@@ -3795,7 +3795,7 @@ List<Word> wordsList = [
         'Swelling just below the kneecap, caused by the buildup of fluid in response to the constant pressure of kneeling.',
     uzDef:
         'Tiz cho\'kishning doimiy bosimiga javoban suyuqlikning to\'planishi natijasida paydo bo\'ladigan tizza qopqog\'i ostidagi shish.',
-    transcript: '[ ˈhaʊsmeɪd`s niː ]',
+    transcript: '[ˈhaʊsmeɪd`s niː ]',
     favorite: false,
   ),
   Word(
@@ -3803,7 +3803,7 @@ List<Word> wordsList = [
     uz: 'humerus',
     enDef: 'The bone in the upper arm.',
     uzDef: 'Qo\'lning yuqori qismidagi suyak.',
-    transcript: '[ ˈhjuːm(ə)rəs ]',
+    transcript: '[ˈhjuːm(ə)rəs ]',
     favorite: false,
   ),
   Word(
@@ -3811,7 +3811,7 @@ List<Word> wordsList = [
     uz: 'namlagich',
     enDef: 'A device for adding moisture to the air.',
     uzDef: 'Havoga namlik qo\'shish uchun qurilma.',
-    transcript: '[ hjʊˈmɪdɪfaɪə ]',
+    transcript: '[hjʊˈmɪdɪfaɪə ]',
     favorite: false,
   ),
   Word(
@@ -3821,7 +3821,7 @@ List<Word> wordsList = [
         'A hereditary form of chorea (sudden, jerky motions of the arms or other parts of the body) that usually affects…',
     uzDef:
         'Xoreaning irsiy shakli (qo\'llarning yoki tananing boshqa qismlarining to\'satdan, tebranish harakatlari) odatda ta\'sir qiladi.',
-    transcript: '[ kɒˈrɪə ]',
+    transcript: '[kɒˈrɪə ]',
     favorite: false,
   ),
   Word(
@@ -3831,7 +3831,7 @@ List<Word> wordsList = [
         'A cyst containing watery fluid and the larvae of certain tapeworms.',
     uzDef:
         'Suvli suyuqlik va ma\'lum tasmasimon chuvalchanglarning lichinkalarini o\'z ichiga olgan kista.',
-    transcript: '[ ˈhīdədəd ]',
+    transcript: '[ˈhīdədəd ]',
     favorite: false,
   ),
   Word(
@@ -3840,7 +3840,7 @@ List<Word> wordsList = [
     enDef: 'Infection with the larvae (cysts) of certain tapeworms.',
     uzDef:
         'Ba\'zi tasmasimon qurtlarning lichinkalari (kistalari) bilan infektsiya.',
-    transcript: '[ ˈhīdədəd dɪˈziːz ]',
+    transcript: '[ˈhīdədəd dɪˈziːz ]',
     favorite: false,
   ),
   Word(
@@ -3850,7 +3850,7 @@ List<Word> wordsList = [
         'A cystic tumor of the placental tissues of an abnormal pregnancy. Complications of this disorder include bleeding and infection.',
     uzDef:
         'Anormal homiladorlikning platsenta to\'qimalarining kistli shishi. Ushbu buzuqlikning asoratlari qon ketish va infektsiyani o\'z ichiga oladi.',
-    transcript: '[ ˌhīdəˈtidəfôrm ˌmōl ]',
+    transcript: '[ˌhīdəˈtidəfôrm ˌmōl ]',
     favorite: false,
   ),
   Word(
@@ -3860,7 +3860,7 @@ List<Word> wordsList = [
         'A painless swelling of the scrotum caused by the buildup of fluid in the outer covering of the testes.',
     uzDef:
         'Moyaklarning tashqi qoplamida suyuqlik to\'planishi natijasida yuzaga keladigan skrotumning og\'riqsiz shishishi.',
-    transcript: '[ ˈhīdrəˌsēl ]',
+    transcript: '[ˈhīdrəˌsēl ]',
     favorite: false,
   ),
   Word(
@@ -3870,7 +3870,7 @@ List<Word> wordsList = [
         'An enlargement of the head caused by the buildup of fluid within the ventricles of the brain. Also called “water’’.',
     uzDef:
         'Miya qorinchalarida suyuqlik to\'planishi natijasida yuzaga keladigan boshning kengayishi. Shuningdek suv deb ham ataladi.',
-    transcript: '[ ˌhaɪdrəˈsef(ə)ləs ]',
+    transcript: '[ˌhaɪdrəˈsef(ə)ləs ]',
     favorite: false,
   ),
   Word(
@@ -3878,7 +3878,7 @@ List<Word> wordsList = [
     uz: 'gigiena',
     enDef: 'The science of health and its maintenance.',
     uzDef: 'Salomatlik va uni saqlash haqidagi fan.',
-    transcript: '[ ˈhaɪdʒiːn ]',
+    transcript: '[ˈhaɪdʒiːn ]',
     favorite: false,
   ),
   Word(
@@ -3887,7 +3887,7 @@ List<Word> wordsList = [
     enDef:
         'The membrane partly or completely closing the opening to the vagina.',
     uzDef: 'Qin teshigini qisman yoki to\'liq yopuvchi membrana.',
-    transcript: '[ ˈhaɪmən ]',
+    transcript: '[ˈhaɪmən ]',
     favorite: false,
   ),
   Word(
@@ -3897,7 +3897,7 @@ List<Word> wordsList = [
         'Characterized by greater-than-normal pressure. Hyperbaric oxygen is a therapeutic treatment designed to increase blood oxygen by delivering oxygen in a…',
     uzDef:
         'Normaldan yuqori bosim bilan tavsiflanadi. Giperbarik kislorod - bu kislorodni kislorod bilan ta\'minlash orqali qon kislorodini ko\'paytirish uchun mo\'ljallangan terapevtik davolash.',
-    transcript: '[ ˌhæɪpəˈbærɪk ]',
+    transcript: '[ˌhæɪpəˈbærɪk ]',
     favorite: false,
   ),
   Word(
@@ -3906,7 +3906,7 @@ List<Word> wordsList = [
     enDef: 'Excessive morning sickness.',
     uzDef:
         'Haddan tashqari ertalab kasallik; homiladorlik paytida ko\'p qusish.',
-    transcript: '[ haɪpərˈɛməsɪs ˌɡrævɪˈdɑːrəm ]',
+    transcript: '[haɪpərˈɛməsɪs ˌɡrævɪˈdɑːrəm ]',
     favorite: false,
   ),
   Word(
@@ -3914,7 +3914,7 @@ List<Word> wordsList = [
     uz: 'giperglikemik',
     enDef: 'High blood sugar.',
     uzDef: 'Yuqori qon shakar.',
-    transcript: '[ haɪpəˈglisimik ]',
+    transcript: '[haɪpəˈglisimik ]',
     favorite: false,
   ),
   Word(
@@ -3924,7 +3924,7 @@ List<Word> wordsList = [
         'A condition caused by the overexcretion of parathyroid hormone resulting in changes in the bone and an elevated level of…',
     uzDef:
         'Paratiroid gormonining haddan tashqari ajralishi natijasida kelib chiqadigan holat, natijada suyak o\'zgarishi va uning darajasi ko\'tariladi ...',
-    transcript: '[ haipərperədīroidizəm ]',
+    transcript: '[haipərperədīroidizəm ]',
     favorite: false,
   ),
   Word(
@@ -3932,7 +3932,7 @@ List<Word> wordsList = [
     uz: 'gipertoniya',
     enDef: 'Abnormally high blood pressure.',
     uzDef: 'Anormal yuqori qon bosimi.',
-    transcript: '[ haɪpəˈtenʃ(ə)n ]',
+    transcript: '[haɪpəˈtenʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -3940,7 +3940,7 @@ List<Word> wordsList = [
     uz: 'gipertiroidizm',
     enDef: 'Overproduction of thyroid hormone.',
     uzDef: 'Qalqonsimon bez gormonining ortiqcha ishlab chiqarilishi.',
-    transcript: '[ haɪpəˈθaɪrɔɪdɪz(ə)m ]',
+    transcript: '[haɪpəˈθaɪrɔɪdɪz(ə)m ]',
     favorite: false,
   ),
   Word(
@@ -3950,7 +3950,7 @@ List<Word> wordsList = [
         'Rapid or deep breathing producing faintness, numbness, chest pain, apprehension and tingling, and spasms of the extremities.',
     uzDef:
         'Tez yoki chuqur nafas olish hushidan ketish, uyqusizlik, ko\'krak og\'rig\'i, qo\'rquv va karıncalanma, ekstremitalarning spazmlarini keltirib chiqaradi.',
-    transcript: '[ haɪpəˌventɪˈleɪʃən ]',
+    transcript: '[haɪpəˌventɪˈleɪʃən ]',
     favorite: false,
   ),
   Word(
@@ -3959,7 +3959,7 @@ List<Word> wordsList = [
     enDef: 'A sleep-like state induced by the suggestions of a hypnotist.',
     uzDef:
         'Gipnozchining tavsiyalari bilan yuzaga kelgan uyquga o\'xshash holat.',
-    transcript: '[ hɪpˈnəʊsɪs ]',
+    transcript: '[hɪpˈnəʊsɪs ]',
     favorite: false,
   ),
   Word(
@@ -3967,7 +3967,7 @@ List<Word> wordsList = [
     uz: 'gipnozga oid',
     enDef: '1. Having to do with hypnosis. 2. Causing sleep.',
     uzDef: '1. Gipnoz bilan bog\'liq bo\'lish. 2. Uyquga sabab bo\'lish.',
-    transcript: '[ hɪpˈnɒtɪk ]',
+    transcript: '[hɪpˈnɒtɪk ]',
     favorite: false,
   ),
   Word(
@@ -3977,7 +3977,7 @@ List<Word> wordsList = [
         'Abnormal anxiety about one’s health, often to the point of believing one is suffering from a serious disease.',
     uzDef:
         'Biror kishining sog\'lig\'i haqida g\'ayritabiiy tashvish, ko\'pincha jiddiy kasallikdan aziyat chekayotganiga ishonish darajasiga qadar.',
-    transcript: '[ haɪpə(ʊ)ˈkɒndrɪak ]',
+    transcript: '[haɪpə(ʊ)ˈkɒndrɪak ]',
     favorite: false,
   ),
   Word(
@@ -3985,7 +3985,7 @@ List<Word> wordsList = [
     uz: 'gipodermik',
     enDef: 'Beneath the skin.',
     uzDef: 'Teri ostiga aloqador.',
-    transcript: '[ haɪpə(ʊ)ˈdɜːmɪk ]',
+    transcript: '[haɪpə(ʊ)ˈdɜːmɪk ]',
     favorite: false,
   ),
   Word(
@@ -3993,7 +3993,7 @@ List<Word> wordsList = [
     uz: 'gipoglikemiya',
     enDef: 'Low blood sugar.',
     uzDef: 'Past qon shakar.',
-    transcript: '[ ˌhaɪpoʊɡlaɪˈsiːmiə ]',
+    transcript: '[ˌhaɪpoʊɡlaɪˈsiːmiə ]',
     favorite: false,
   ),
   Word(
@@ -4003,7 +4003,7 @@ List<Word> wordsList = [
         'Parathyroid hormone insufficiency due to lack of secretion of the parathyroid gland.',
     uzDef:
         'Paratiroid bezining sekretsiyasi yo\'qligi sababli paratiroid gormoni etishmovchiligi.',
-    transcript: '[ haɪpəʊˌparəˈθaɪrɔɪdɪz(ə)m ]',
+    transcript: '[haɪpəʊˌparəˈθaɪrɔɪdɪz(ə)m ]',
     favorite: false,
   ),
   Word(
@@ -4013,7 +4013,7 @@ List<Word> wordsList = [
         'Deficient activity of the pituitary gland causing slowed growth in children, fatigue and decreased appetite in adults, and cessation of…',
     uzDef:
         'Gipofiz bezining kam faoliyati bolalarda o\'sishning sekinlashishiga, kattalarda charchoq va ishtahaning pasayishi.',
-    transcript: '[ haɪpəʊpɪˈtjuːɪt(ə)rɪz(ə)m ]',
+    transcript: '[haɪpəʊpɪˈtjuːɪt(ə)rɪz(ə)m ]',
     favorite: false,
   ),
   Word(
@@ -4023,7 +4023,7 @@ List<Word> wordsList = [
         'To treat with frequent, small injections of an antigen to decrease the symptoms of an allergy to that antigen.',
     uzDef:
         'Ushbu antigenga allergiya alomatlarini kamaytirish uchun tez-tez, kichik antigen in\'ektsiyalari bilan davolash.',
-    transcript: '[ ˈhaɪpəʊˈsensɪtaɪzeɪʃ(ə)n ]',
+    transcript: '[ˈhaɪpəʊˈsensɪtaɪzeɪʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4033,7 +4033,7 @@ List<Word> wordsList = [
         'An abnormal opening of the urethra on the underside of the penis or into the vagina.',
     uzDef:
         'Jinsiy olatni pastki qismida yoki qinga uretraning g\'ayritabiiy ochilishi.',
-    transcript: '[ ˈhaɪpəʊspadyas ]',
+    transcript: '[ˈhaɪpəʊspadyas ]',
     favorite: false,
   ),
   Word(
@@ -4043,7 +4043,7 @@ List<Word> wordsList = [
         'The portion of the brain responsible for temperature regulation and control of the pituitary gland.',
     uzDef:
         'Miyaning haroratni tartibga solish va gipofiz bezini boshqarish uchun mas\'ul bo\'lgan qismi.',
-    transcript: '[ hæɪpə(ʊ)ˈθæləməs ]',
+    transcript: '[hæɪpə(ʊ)ˈθæləməs ]',
     favorite: false,
   ),
   Word(
@@ -4051,7 +4051,7 @@ List<Word> wordsList = [
     uz: 'gipotermiya',
     enDef: 'Low body temperature.',
     uzDef: 'Past tana harorati.',
-    transcript: '[ haɪpə(ʊ)ˈθɜːmɪə ]',
+    transcript: '[haɪpə(ʊ)ˈθɜːmɪə ]',
     favorite: false,
   ),
   Word(
@@ -4061,7 +4061,7 @@ List<Word> wordsList = [
         'A condition of low thyroid hormone production resulting in weight gain, hair loss, sluggishness and thickening of the skin.',
     uzDef:
         'Og\'irlik, soch to\'kilishi, terining sustligi va qalinlashishiga olib keladigan kam qalqonsimon gormon ishlab chiqarish holati.',
-    transcript: '[ haɪpəʊˈθaɪrɔɪdɪz(ə)m ]',
+    transcript: '[haɪpəʊˈθaɪrɔɪdɪz(ə)m ]',
     favorite: false,
   ),
   Word(
@@ -4071,7 +4071,7 @@ List<Word> wordsList = [
         'An abnormal condition resulting from decreased availability of oxygen in the body tissues.',
     uzDef:
         'Tana to\'qimalarida kislorod etishmasligidan kelib chiqadigan g\'ayritabiiy holat.',
-    transcript: '[ haɪˈpɒksɪə ]',
+    transcript: '[haɪˈpɒksɪə ]',
     favorite: false,
   ),
   Word(
@@ -4080,7 +4080,7 @@ List<Word> wordsList = [
     enDef: 'Surgical removal of all or part of the uterus.',
     uzDef:
         'Bachadonning to\'liq yoki bir qismini jarrohlik yo\'li bilan olib tashlash.',
-    transcript: '[ ˌhɪstəˈrektəmɪ ]',
+    transcript: '[ˌhɪstəˈrektəmɪ ]',
     favorite: false,
   ),
   Word(
@@ -4090,7 +4090,7 @@ List<Word> wordsList = [
         '1. Wild, uncontrolled excitement or other feelings. 2. A disorder in which anxiety is converted into physical symptoms that have…',
     uzDef:
         '1. Yovvoyi, nazoratsiz hayajon yoki boshqa his-tuyg\'ular. 2. Anksiyete jismoniy alomatlarga aylanadigan kasallik ...',
-    transcript: '[ hɪˈstɪərɪə ]',
+    transcript: '[hɪˈstɪərɪə ]',
     favorite: false,
   ),
   Word(
@@ -4098,7 +4098,7 @@ List<Word> wordsList = [
     uz: 'yatrogenik',
     enDef: 'Resulting from medical treatment.',
     uzDef: 'Tibbiy davolanish natijasida.',
-    transcript: '[ aɪˌatrə(ʊ)ˈdʒenɪk ]',
+    transcript: '[aɪˌatrə(ʊ)ˈdʒenɪk ]',
     favorite: false,
   ),
   Word(
@@ -4106,7 +4106,7 @@ List<Word> wordsList = [
     uz: 'ixtyoz',
     enDef: 'An inherited skin disorder that produces dry, rough, scaly skin.',
     uzDef: 'Quruq, dag\'al, qoraygan teri hosil qiluvchi irsiy teri kasalligi.',
-    transcript: '[ ˌɪkθɪˈəʊsɪs ]',
+    transcript: '[ˌɪkθɪˈəʊsɪs ]',
     favorite: false,
   ),
   Word(
@@ -4116,7 +4116,7 @@ List<Word> wordsList = [
         'Twins formed from a single egg. They are of the same gender and have the same genetic makeup.',
     uzDef:
         'Egizaklar bitta tuxumdan hosil bo\'lgan. Ular bir xil jinsga ega va bir xil genetik tarkibga ega.',
-    transcript: '[ aɪˈdentɪk(ə)l twɪnz ]',
+    transcript: '[aɪˈdentɪk(ə)l twɪnz ]',
     favorite: false,
   ),
   Word(
@@ -4124,7 +4124,7 @@ List<Word> wordsList = [
     uz: 'idyopatik',
     enDef: 'Without a known cause.',
     uzDef: 'Ma\'lum sababsiz.',
-    transcript: '[ ˌɪdɪə(ʊ)ˈpaθɪk ]',
+    transcript: '[ˌɪdɪə(ʊ)ˈpaθɪk ]',
     favorite: false,
   ),
   Word(
@@ -4132,7 +4132,7 @@ List<Word> wordsList = [
     uz: 'ileitis',
     enDef: 'Inflammation of the lower part of the small intestine.',
     uzDef: 'Ingichka ichakning pastki qismining yallig\'lanishi.',
-    transcript: '[ ˌɪlɪˈaɪtɪs ]',
+    transcript: '[ˌɪlɪˈaɪtɪs ]',
     favorite: false,
   ),
   Word(
@@ -4140,7 +4140,7 @@ List<Word> wordsList = [
     uz: 'yonbosh ichak',
     enDef: 'The lower part of the small intestine.',
     uzDef: 'Ingichka ichakning pastki qismi.',
-    transcript: '[ ˈɪlɪəm ]',
+    transcript: '[ˈɪlɪəm ]',
     favorite: false,
   ),
   Word(
@@ -4150,7 +4150,7 @@ List<Word> wordsList = [
         'Lack of movement of digested food and juices through the gastrointestinal tract. May be due to a blockage of the…',
     uzDef:
         'Oshqozon-ichak trakti orqali hazm qilingan oziq-ovqat va sharbatlarning harakatlanishining etishmasligi. Tiqilib qolganligi sababli bo\'lishi mumkin.',
-    transcript: '[ ˈɪlɪəs ]',
+    transcript: '[ˈɪlɪəs ]',
     favorite: false,
   ),
   Word(
@@ -4158,7 +4158,7 @@ List<Word> wordsList = [
     uz: 'ilium',
     enDef: 'The flared portion of the pelvis. The hip bone.',
     uzDef: 'Tos suyagining kengaygan qismi. Son suyagi.',
-    transcript: '[ ˈɪlɪəm ]',
+    transcript: '[ˈɪlɪəm ]',
     favorite: false,
   ),
   Word(
@@ -4166,7 +4166,7 @@ List<Word> wordsList = [
     uz: 'IM',
     enDef: 'Intramuscular.',
     uzDef: 'Mushak ichiga oid.',
-    transcript: '[ ai em ]',
+    transcript: '[ai em ]',
     favorite: false,
   ),
   Word(
@@ -4174,7 +4174,7 @@ List<Word> wordsList = [
     uz: 'immunitetga oid',
     enDef: 'Resistant to a particular disease.',
     uzDef: 'Muayyan kasallikka chidamli.',
-    transcript: '[ ɪˈmjuːn ]',
+    transcript: '[ɪˈmjuːn ]',
     favorite: false,
   ),
   Word(
@@ -4182,7 +4182,7 @@ List<Word> wordsList = [
     uz: 'immunitet',
     enDef: 'Resistance of the body to infection.',
     uzDef: 'Tananing infektsiyaga chidamliligi.',
-    transcript: '[ ɪˈmjuːnɪtɪ ]',
+    transcript: '[ɪˈmjuːnɪtɪ ]',
     favorite: false,
   ),
   Word(
@@ -4192,7 +4192,7 @@ List<Word> wordsList = [
         'The process of making an individual immune by vaccination or inoculation.',
     uzDef:
         'Emlash yoki emlash orqali individual immunitet hosil qilish jarayoni.',
-    transcript: '[ ɪmjʊnaɪˈzeɪʃn ]',
+    transcript: '[ɪmjʊnaɪˈzeɪʃn ]',
     favorite: false,
   ),
   Word(
@@ -4200,7 +4200,7 @@ List<Word> wordsList = [
     uz: 'immunoglobulin',
     enDef: 'A serum protein involved in immunity. An antibody.',
     uzDef: 'Immunitetda ishtirok etadigan sarum oqsili. Antikor.',
-    transcript: '[ ɪmjʊnəʊˈɡlɒbjʊlɪn ]',
+    transcript: '[ɪmjʊnəʊˈɡlɒbjʊlɪn ]',
     favorite: false,
   ),
   Word(
@@ -4210,7 +4210,7 @@ List<Word> wordsList = [
         'Skin infection characterized by erupting sores. Caused by staphylococcus or streptococcus bacteria.',
     uzDef:
         'Yaralar paydo bo\'lishi bilan tavsiflangan teri infektsiyasi. Stafilokokk yoki streptokokk bakteriyalari sabab bo\'ladi.',
-    transcript: '[ ɪmpɪˈtaɪɡəʊ ]',
+    transcript: '[ɪmpɪˈtaɪɡəʊ ]',
     favorite: false,
   ),
   Word(
@@ -4218,7 +4218,7 @@ List<Word> wordsList = [
     uz: 'ojizlik',
     enDef: 'Inability of a male to achieve erection and orgasm.',
     uzDef: 'Erkakning erektsiya va orgazmga erisha olmasligi.',
-    transcript: '[ ɪmpət(ə)ns ]',
+    transcript: '[ɪmpət(ə)ns ]',
     favorite: false,
   ),
   Word(
@@ -4228,7 +4228,7 @@ List<Word> wordsList = [
         'In its original place. Carcinoma in situ means cancer that hasn’t spread to other locations.',
     uzDef:
         'Asl joyida. In situ karsinoma boshqa joylarga tarqalmagan saratonni anglatadi.',
-    transcript: '[ ]',
+    transcript: '[]',
     favorite: false,
   ),
   Word(
@@ -4236,7 +4236,7 @@ List<Word> wordsList = [
     uz: 'kesma',
     enDef: 'A cut.',
     uzDef: 'Kesish.',
-    transcript: '[ ɪnˈsɪʒ(ə)n ]',
+    transcript: '[ɪnˈsɪʒ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4245,7 +4245,7 @@ List<Word> wordsList = [
     enDef: 'Any of the front four teeth on either the upper or lower jaw.',
     uzDef:
         'Tish yuqori yoki pastki jag\'dagi oldingi to\'rtta tishning har qanday qismi.',
-    transcript: '[ ɪnˈsaɪzə ]',
+    transcript: '[ɪnˈsaɪzə ]',
     favorite: false,
   ),
   Word(
@@ -4254,7 +4254,7 @@ List<Word> wordsList = [
     enDef: '1. Unable to make rational decisions. 2. Not functioning properly.',
     uzDef:
         '1. Oqilona qarorlar qabul qila olmaydigan. 2. To\'g\'ri ishlamaydi.',
-    transcript: '[ ɪnˈkɒmpɪt(ə)nt ]',
+    transcript: '[ɪnˈkɒmpɪt(ə)nt ]',
     favorite: false,
   ),
   Word(
@@ -4262,7 +4262,7 @@ List<Word> wordsList = [
     uz: 'inkontinans',
     enDef: 'Inability to hold urine or feces.',
     uzDef: 'Siydik yoki najasni ushlab turolmaslik.',
-    transcript: '[ ɪnˈkɒntɪnəns ]',
+    transcript: '[ɪnˈkɒntɪnəns ]',
     favorite: false,
   ),
   Word(
@@ -4270,7 +4270,7 @@ List<Word> wordsList = [
     uz: 'inkubatsiya qilish',
     enDef: 'To provide the proper conditions for growth.',
     uzDef: 'O\'sish uchun qulay sharoitlarni ta\'minlash.',
-    transcript: '[ ˈɪŋkjʊbeɪt ]',
+    transcript: '[ˈɪŋkjʊbeɪt ]',
     favorite: false,
   ),
   Word(
@@ -4280,7 +4280,7 @@ List<Word> wordsList = [
         'Upper abdominal discomfort usually experienced after a meal due to incomplete digestion.',
     uzDef:
         'Qorinning yuqori qismidagi noqulaylik odatda ovqat hazm qilishning to\'liq bo\'lmaganligi sababli ovqatdan keyin paydo bo\'ladi.',
-    transcript: '[ ɪndɪˈdʒestʃ(ə)n ]',
+    transcript: '[ɪndɪˈdʒestʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4288,7 +4288,7 @@ List<Word> wordsList = [
     uz: 'chidamlilik',
     enDef: 'The process of hardening. An abnormally hard spot.',
     uzDef: 'Qattiqlashuv jarayoni. Anormal darajada qattiq nuqta.',
-    transcript: '[ ˌɪndjʊəˈreɪʃən ]',
+    transcript: '[ˌɪndjʊəˈreɪʃən ]',
     favorite: false,
   ),
   Word(
@@ -4298,7 +4298,7 @@ List<Word> wordsList = [
         'An area of dead or dying tissue produced by lack of blood flow to or from that area.',
     uzDef:
         'O\'lik yoki o\'layotgan to\'qimalarning maydoni, bu hududga yoki undan qon oqimining etishmasligi natijasida hosil bo\'ladi.',
-    transcript: '[ ˈɪnfɑːkt ]',
+    transcript: '[ˈɪnfɑːkt ]',
     favorite: false,
   ),
   Word(
@@ -4308,7 +4308,7 @@ List<Word> wordsList = [
         'Causing disease, especially by the presence of foreign microorganisms in the body, including bacteria, viruses or parasites.',
     uzDef:
         'Ayniqsa, organizmda begona mikroorganizmlar, shu jumladan bakteriyalar, viruslar yoki parazitlar mavjudligi sababli kasallikni keltirib chiqaradi.',
-    transcript: '[ ɪnˈfekʃ(ə)n ]',
+    transcript: '[ɪnˈfekʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4316,7 +4316,7 @@ List<Word> wordsList = [
     uz: 'yuqumli kasallik',
     enDef: 'A disease that can be spread from one person to another.',
     uzDef: 'Bir odamdan boshqasiga yuqadigan kasallik.',
-    transcript: '[ ɪnˈfekʃəs dɪˈziːz ]',
+    transcript: '[ɪnˈfekʃəs dɪˈziːz ]',
     favorite: false,
   ),
   Word(
@@ -4324,7 +4324,7 @@ List<Word> wordsList = [
     uz: 'bepushtlik',
     enDef: 'Inability to produce children.',
     uzDef: 'Bolalarni tug\'dira olmaslik.',
-    transcript: '[ ˌɪnfɜːˈtɪlətɪ ]',
+    transcript: '[ˌɪnfɜːˈtɪlətɪ ]',
     favorite: false,
   ),
   Word(
@@ -4334,7 +4334,7 @@ List<Word> wordsList = [
         'Swelling, redness, warmth and pain. A body tissue’s protective response to injury.',
     uzDef:
         'Shishish, qizarish, issiqlik va og\'riq. Tana to\'qimalarining shikastlanishga himoya reaktsiyasi.',
-    transcript: '[ ɪnfləˈmeɪʃ(ə)n ]',
+    transcript: '[ɪnfləˈmeɪʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4344,7 +4344,7 @@ List<Word> wordsList = [
         'A contagious and infectious respiratory illness usually occurring in the winter.',
     uzDef:
         'Yuqumli va yuqumli respirator kasallik odatda qishda sodir bo\'ladi.',
-    transcript: '[ ɪnflʊˈenzə ]',
+    transcript: '[ɪnflʊˈenzə ]',
     favorite: false,
   ),
   Word(
@@ -4354,7 +4354,7 @@ List<Word> wordsList = [
         'Edges of the nail become trapped under the skin, causing inflammation and, sometimes, infection.',
     uzDef:
         'Tirnoqning qirralari teri ostiga tushib, yallig\'lanishni va ba\'zan infektsiyani keltirib chiqaradi.',
-    transcript: '[ ˈɪnɡrəʊn neɪl ]',
+    transcript: '[ˈɪnɡrəʊn neɪl ]',
     favorite: false,
   ),
   Word(
@@ -4362,7 +4362,7 @@ List<Word> wordsList = [
     uz: 'in\'ektsiya',
     enDef: 'A fluid introduced into the body by a syringe and needle.',
     uzDef: 'Shprits va igna bilan tanaga kiritilgan suyuqlik.',
-    transcript: '[ ɪnˈdʒekʃ(ə)n ]',
+    transcript: '[ɪnˈdʒekʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4370,7 +4370,7 @@ List<Word> wordsList = [
     uz: 'tug\'ma',
     enDef: 'Inborn, hereditary.',
     uzDef: 'Tug\'ma, irsiy.',
-    transcript: '[ ɪˈneɪt ]',
+    transcript: '[ɪˈneɪt ]',
     favorite: false,
   ),
   Word(
@@ -4380,7 +4380,7 @@ List<Word> wordsList = [
         'The injection of a disease agent into the body to cause a mild form of the disease and build immunity.',
     uzDef:
         'Kasallikning engil shaklini keltirib chiqarish va qurish uchun tanaga kasallik agentini yuborish.',
-    transcript: '[ ɪˌnɒkjʊˈleɪʃn ]',
+    transcript: '[ɪˌnɒkjʊˈleɪʃn ]',
     favorite: false,
   ),
   Word(
@@ -4388,7 +4388,7 @@ List<Word> wordsList = [
     uz: 'ish bermaydigan',
     enDef: 'Not curable through surgery.',
     uzDef: 'Jarrohlik yo\'li bilan davolash mumkin emas.',
-    transcript: '[ ɪnˈɒp(ə)rəb(ə)l ]',
+    transcript: '[ɪnˈɒp(ə)rəb(ə)l ]',
     favorite: false,
   ),
   Word(
@@ -4398,7 +4398,7 @@ List<Word> wordsList = [
         'Any form or degree of mental disturbance or unsoundness of mind, permanent or temporary, that makes a person incapable of...',
     uzDef:
         'Doimiy yoki vaqtinchalik ruhiy buzilishning har qanday shakli yoki darajasi, odamni qobiliyatsiz qiladigan...',
-    transcript: '[ ɪnˈsænətɪ ]',
+    transcript: '[ɪnˈsænətɪ ]',
     favorite: false,
   ),
   Word(
@@ -4406,7 +4406,7 @@ List<Word> wordsList = [
     uz: 'urug\'lantirish',
     enDef: 'To deposit sperm in the vagina.',
     uzDef: 'Vaginaga spermani joylashtiris.',
-    transcript: '[ ɪnsemɪˈneɪʃ(ə)n ]',
+    transcript: '[ɪnsemɪˈneɪʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4414,7 +4414,7 @@ List<Word> wordsList = [
     uz: 'uyqusizlik',
     enDef: 'An inability to fall asleep or to remain asleep.',
     uzDef: 'Uxlab qolmaslik yoki uxlab qolmaslik.',
-    transcript: '[ ɪnˈsɒmnɪə ]',
+    transcript: '[ɪnˈsɒmnɪə ]',
     favorite: false,
   ),
   Word(
@@ -4424,7 +4424,7 @@ List<Word> wordsList = [
         'The hormone produced by the pancreas for regulating carbohydrate metabolism. Used in the treatment of diabetes mellitus.',
     uzDef:
         'Ug\'ovod almashinuvini tartibga solish uchun oshqozon osti bezi tomonidan ishlab chiqariladigan gormon. Qandli diabetni davolashda ishlatiladi.',
-    transcript: '[ ˈɪnsjʊlɪn ]',
+    transcript: '[ˈɪnsjʊlɪn ]',
     favorite: false,
   ),
   Word(
@@ -4432,7 +4432,7 @@ List<Word> wordsList = [
     uz: 'integument',
     enDef: 'Skin.',
     uzDef: 'Teri.',
-    transcript: '[ ɪnˈteɡjʊmənt ]',
+    transcript: '[ɪnˈteɡjʊmənt ]',
     favorite: false,
   ),
   Word(
@@ -4442,7 +4442,7 @@ List<Word> wordsList = [
         'The exchange of communication between individuals. Sexual intercourse is the sexual joining of two people; coitus.',
     uzDef:
         'Shaxslar o\'rtasidagi aloqa almashinuvi. Jinsiy aloqa - ikki kishining jinsiy qo\'shilishi; jinsiy aloqa.',
-    transcript: '[ ˈɪntəkɔːs ]',
+    transcript: '[ˈɪntəkɔːs ]',
     favorite: false,
   ),
   Word(
@@ -4452,7 +4452,7 @@ List<Word> wordsList = [
         'The tube involved in digestion and extending from the stomach to the anus. Consists of the small intestine and the...',
     uzDef:
         'Ovqat hazm qilishda ishtirok etadigan va oshqozondan anusgacha cho\'zilgan naycha.',
-    transcript: '[ ɪnˈtestɪn ]',
+    transcript: '[ɪnˈtestɪn ]',
     favorite: false,
   ),
   Word(
@@ -4462,7 +4462,7 @@ List<Word> wordsList = [
         'Poisoning, or the state of being affected by a poisonous substance. Often used to describe drunkenness.',
     uzDef:
         'Zaharlanish yoki zaharli moddadan ta\'sirlanish holati. Ko\'pincha mastlikni tasvirlash uchun ishlatiladi.',
-    transcript: '[ ɪnˌtɒksɪˈkeɪʃn ]',
+    transcript: '[ɪnˌtɒksɪˈkeɪʃn ]',
     favorite: false,
   ),
   Word(
@@ -4470,7 +4470,7 @@ List<Word> wordsList = [
     uz: 'hujayra ichidagi',
     enDef: 'Within a cell.',
     uzDef: 'Hujayra ichida.',
-    transcript: '[ ˌɪntrəˈseljʊlə ]',
+    transcript: '[ˌɪntrəˈseljʊlə ]',
     favorite: false,
   ),
   Word(
@@ -4478,7 +4478,7 @@ List<Word> wordsList = [
     uz: 'intradermal',
     enDef: 'Within the skin.',
     uzDef: 'Teri ichida.',
-    transcript: '[ ˌɪntrəˈdɜːm(ə)l ]',
+    transcript: '[ˌɪntrəˈdɜːm(ə)l ]',
     favorite: false,
   ),
   Word(
@@ -4486,7 +4486,7 @@ List<Word> wordsList = [
     uz: 'mushak ichiga',
     enDef: 'Within the muscle.',
     uzDef: 'Mushak ichida.',
-    transcript: '[ ˌɪntrəˈmʌskjʊlə ]',
+    transcript: '[ˌɪntrəˈmʌskjʊlə ]',
     favorite: false,
   ),
   Word(
@@ -4494,7 +4494,7 @@ List<Word> wordsList = [
     uz: 'Intrauterine',
     enDef: 'Within the womb.',
     uzDef: 'Bachadon ichida.',
-    transcript: '[ ˌɪntrəˈjuːtəraɪn ]',
+    transcript: '[ˌɪntrəˈjuːtəraɪn ]',
     favorite: false,
   ),
   Word(
@@ -4504,7 +4504,7 @@ List<Word> wordsList = [
         'Within a vein. Intravenous infusion means to direct fluids through a needle or catheter directly into a vein.',
     uzDef:
         'Vena ichiga infuzion suyuqlikni igna yoki kateter orqali to\'g\'ridan-to\'g\'ri tomir ichiga yuborishni anglatadi.',
-    transcript: '[ ˌɪntrəˈviːnəs ]',
+    transcript: '[ˌɪntrəˈviːnəs ]',
     favorite: false,
   ),
   Word(
@@ -4512,7 +4512,7 @@ List<Word> wordsList = [
     uz: 'invajinatsiya',
     enDef: 'Telescoping a section of the intestine into an adjoining section.',
     uzDef: 'Ichakning bir qismini qo\'shni bo\'limga teleskoplash.',
-    transcript: '[ ˌɪntəsəˈsepʃ(ə)n ]',
+    transcript: '[ˌɪntəsəˈsepʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4522,7 +4522,7 @@ List<Word> wordsList = [
         'The colored portion of the eye. It’s a muscle that controls the amount of light entering the pupil.',
     uzDef:
         'Ko\'zning rangli qismi. Bu o\'quvchiga kiradigan yorug\'lik miqdorini boshqaradigan mushak.',
-    transcript: '[ ˈaɪərɪs ]',
+    transcript: '[ˈaɪərɪs ]',
     favorite: false,
   ),
   Word(
@@ -4530,7 +4530,7 @@ List<Word> wordsList = [
     uz: 'iritis',
     enDef: 'Inflammation of the iris.',
     uzDef: 'Irisning yallig\'lanishi.',
-    transcript: '[ aɪˈraɪtɪs ]',
+    transcript: '[aɪˈraɪtɪs ]',
     favorite: false,
   ),
   Word(
@@ -4538,7 +4538,7 @@ List<Word> wordsList = [
     uz: 'sug\'orish',
     enDef: 'Washing of a body cavity or wound with a stream of water.',
     uzDef: 'Tana bo\'shlig\'ini yoki yarani suv oqimi bilan yuvish.',
-    transcript: '[ ɪrɪˈɡeɪʃ(ə)n ]',
+    transcript: '[ɪrɪˈɡeɪʃ(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4546,7 +4546,7 @@ List<Word> wordsList = [
     uz: 'ishemiya',
     enDef: 'A lack of blood supply to a body part.',
     uzDef: 'Tananing bir qismiga qon ta\'minoti etishmasligi.',
-    transcript: '[ ˌɪˈskemɪə ]',
+    transcript: '[ˌɪˈskemɪə ]',
     favorite: false,
   ),
   Word(
@@ -4579,7 +4579,7 @@ List<Word> wordsList = [
     enDef:
         'Yellow discoloration of the skin and eyes caused by the buildup of bile in the blood.',
     uzDef: 'Qonda safro to\'planishi natijasida teri va ko\'zning sariq rangi.',
-    transcript: '[ ˈdʒɔːndɪs ]',
+    transcript: '[ˈdʒɔːndɪs ]',
     favorite: false,
   ),
   Word(
@@ -4589,7 +4589,7 @@ List<Word> wordsList = [
         'The middle part of the small intestine, located between the duodenum and ileum.',
     uzDef:
         'Ingichka ichakning o\'rta qismi, o\'n ikki barmoqli ichak va yonbosh ichak o\'rtasida joylashgan.',
-    transcript: '[ dʒɪˈdʒuːnəm ]',
+    transcript: '[dʒɪˈdʒuːnəm ]',
     favorite: false,
   ),
   Word(
@@ -4599,7 +4599,7 @@ List<Word> wordsList = [
         'The joining of two or more bones. In general, joints allow flexibility and mobility.',
     uzDef:
         'Ikki yoki undan ortiq suyaklarning birlashishi. Umuman olganda, bo\'g\'inlar moslashuvchanlik va harakatchanlikni ta\'minlaydi.',
-    transcript: '[ dʒɔɪnt ]',
+    transcript: '[dʒɔɪnt ]',
     favorite: false,
   ),
   Word(
@@ -4607,7 +4607,7 @@ List<Word> wordsList = [
     uz: 'bo\'yinbog\'',
     enDef: 'Of the neck or throat, as in jugular veins.',
     uzDef: 'Bo\'yin tomirlarida bo\'lgani kabi bo\'yin yoki tomoqning.',
-    transcript: '[ ˈdʒʌɡjʊlə ]',
+    transcript: '[ˈdʒʌɡjʊlə ]',
     favorite: false,
   ),
   Word(
@@ -4617,7 +4617,7 @@ List<Word> wordsList = [
         'Bluish nodules of the skin that often bleed. These frequently occur in people who have AIDS.',
     uzDef:
         'Ko’pincha qon ketadigan terining mavimsi-binafsha nodullari. Bular ko’pincha OITS bilan kasallangan odamlarda uchraydi.',
-    transcript: '[ Keposis særkœma ]',
+    transcript: '[Keposis særkœma ]',
     favorite: false,
   ),
   Word(
@@ -4625,7 +4625,7 @@ List<Word> wordsList = [
     uz: 'keloid',
     enDef: 'Excessive growth of scar tissue on the skin.',
     uzDef: 'Terida chandiq to’qimalarining haddan tashqari o’sishi.',
-    transcript: '[ ˈkēloid ]',
+    transcript: '[ˈkēloid ]',
     favorite: false,
   ),
   Word(
@@ -4633,7 +4633,7 @@ List<Word> wordsList = [
     uz: 'keratin',
     enDef: 'The main protein of skin, hair and nails.',
     uzDef: 'Teri, soch va tirnoqlarning  asosiy oqsili.',
-    transcript: '[ ˈkerədən ]',
+    transcript: '[ˈkerədən ]',
     favorite: false,
   ),
   Word(
@@ -4641,7 +4641,7 @@ List<Word> wordsList = [
     uz: 'keratit',
     enDef: 'Inflammation of the cornea of the eye.',
     uzDef: 'Ko’zning shox pardasining yallig’lanishi.',
-    transcript: '[ keratıtis ]',
+    transcript: '[keratıtis ]',
     favorite: false,
   ),
   Word(
@@ -4651,7 +4651,7 @@ List<Word> wordsList = [
         'A deformity of the cornea in which the cornea resembles the end of a football.',
     uzDef:
         'Shox pardasining deformatsiyasi, bunda shox parda fudbol uchiga o’xshaydi.',
-    transcript: '[ kerotokounus ]',
+    transcript: '[kerotokounus ]',
     favorite: false,
   ),
   Word(
@@ -4661,7 +4661,7 @@ List<Word> wordsList = [
         'The initial breakdown products of fatty acid metabolism. Unavailability of carbohydrates from starvation or uncontrolled diabetes mellitus increases the production…',
     uzDef:
         'Yog’ kislotalari almashinuvining dastlabki parchalanish mahsulotlari. Ochlikdan yoki nazoratsiz diabetdan uglevodlarning yetishmasligi ishlab chiqarishni oshiradi…',
-    transcript: '[ ketones ]',
+    transcript: '[ketones ]',
     favorite: false,
   ),
   Word(
@@ -4671,7 +4671,7 @@ List<Word> wordsList = [
         'A pair of organs in the upper abdominal cavity that separate the body’s water and waste products from the blood…',
     uzDef:
         'Qorin bo’shlig’ining yuqori  qismida tanadagi suv va chiqindilarni  qondan ajratib turqdigan bir juft organ…',
-    transcript: '[ kidne ]',
+    transcript: '[kidne ]',
     favorite: false,
   ),
   Word(
@@ -4681,7 +4681,7 @@ List<Word> wordsList = [
         'The complex hinge joint of the upper and lower leg involving the femur, tibia and patella.',
     uzDef:
         'Femur tibia va patella o’z ichiga  olgab yuqori va pastaki  oyoqning murakkab menteșe qo’shimchasi.',
-    transcript: '[ ni ]',
+    transcript: '[ni ]',
     favorite: false,
   ),
   Word(
@@ -4691,7 +4691,7 @@ List<Word> wordsList = [
         'A deformity in which the knees rub together or touch each other in walking.',
     uzDef:
         'Yurishda tizzalar bir-biriga ishqalanadigan yoki bir-biriga tegib turqdigan deformatsiya.',
-    transcript: '[ nok-ni ]',
+    transcript: '[nok-ni ]',
     favorite: false,
   ),
   Word(
@@ -4701,7 +4701,7 @@ List<Word> wordsList = [
         'Lip-shaped structures; often used to describe the outer folds of the female genitalia.',
     uzDef:
         'Dudak shaklidagi tuzilmalar; ko’pincha ayol jinsiy azolarining tashqi burmalarini  tasvirlash uchun ishlatiladi.',
-    transcript: '[ ˈlābēə ]',
+    transcript: '[ˈlābēə ]',
     favorite: false,
   ),
   Word(
@@ -4711,7 +4711,7 @@ List<Word> wordsList = [
         'The system of interconnecting canals and cavities in the inner ear. Plays an important role in hearing and in…',
     uzDef:
         'Ichki quloqdagi kanallar va bo’shliqlarni o’zaro bog’lash tizimi. Eshitishda muhim rol o’ynaydi.',
-    transcript: '[ ˈlab(ə)ˌrinTH ]',
+    transcript: '[ˈlab(ə)ˌrinTH ]',
     favorite: false,
   ),
   Word(
@@ -4721,7 +4721,7 @@ List<Word> wordsList = [
         'A wound caused by a cut from a sharp instrument or the tearing of body tissue.',
     uzDef:
         'O’tkir asbobning kesilishi yoki tana to’qimalarining yirtilishi natijasida hosil bo’lgan yara.',
-    transcript: '[ lesereșn ]',
+    transcript: '[lesereșn ]',
     favorite: false,
   ),
   Word(
@@ -4729,7 +4729,7 @@ List<Word> wordsList = [
     uz: 'lakrematsiya',
     enDef: 'Discharge of tears. “Watering” eyes.',
     uzDef: 'Ko’z yoshlari oqishi. Sug’orish ko’zlari.',
-    transcript: '[ lakrimeshn ]',
+    transcript: '[lakrimeshn ]',
     favorite: false,
   ),
   Word(
@@ -4739,7 +4739,7 @@ List<Word> wordsList = [
         'An enzyme that converts the milk sugar lactose into glucose and galactose.',
     uzDef:
         'Sut shakar laktozasini glyukoza va galaktozaga aylantiruvchi ferment.',
-    transcript: '[ ˈlaktās ]',
+    transcript: '[ˈlaktās ]',
     favorite: false,
   ),
   Word(
@@ -4747,7 +4747,7 @@ List<Word> wordsList = [
     uz: 'laktatsiya',
     enDef: 'Secretion of milk by the breasts.',
     uzDef: 'Ko’krak orqali sut sekretsiyasi.',
-    transcript: '[ lakteşn ]',
+    transcript: '[lakteşn ]',
     favorite: false,
   ),
   Word(
@@ -4755,7 +4755,7 @@ List<Word> wordsList = [
     uz: 'laktoza',
     enDef: 'Milk sugar.',
     uzDef: 'Sut shakar.',
-    transcript: '[ ˈlakˌtōs ]',
+    transcript: '[ˈlakˌtōs ]',
     favorite: false,
   ),
   Word(
@@ -4764,7 +4764,7 @@ List<Word> wordsList = [
     enDef:
         'Inflammation of the larynx, resulting in a temporary loss of voice.',
     uzDef: 'Tarmoqning yallig’lanishi, natijada ovozning vaqtincha yo’qilishi.',
-    transcript: '[ leringits ]',
+    transcript: '[leringits ]',
     favorite: false,
   ),
   Word(
@@ -4772,7 +4772,7 @@ List<Word> wordsList = [
     uz: 'halqum',
     enDef: 'The voice box.',
     uzDef: 'Ovoz qutisi.',
-    transcript: '[ leriniks ]',
+    transcript: '[leriniks ]',
     favorite: false,
   ),
   Word(
@@ -4780,7 +4780,7 @@ List<Word> wordsList = [
     uz: 'lateral',
     enDef: 'Toward the side, sideways.',
     uzDef: 'Yon tomonga.',
-    transcript: '[ ˈladərəl ]',
+    transcript: '[ˈladərəl ]',
     favorite: false,
   ),
   Word(
@@ -4788,7 +4788,7 @@ List<Word> wordsList = [
     uz: 'yuvish',
     enDef: 'Washing out of an organ, especially the stomach.',
     uzDef: 'Organni ayniqsa osbqozonni yuvish.',
-    transcript: '[ ləˈväZH ]',
+    transcript: '[ləˈväZH ]',
     favorite: false,
   ),
   Word(
@@ -4798,7 +4798,7 @@ List<Word> wordsList = [
         'A disease in which the blood supply to the femur is reduced, causing the bone to collapse.',
     uzDef:
         'Parthes kasalligi. Femurning qon bilan ta’minpanishi susayadigan kasallik, bu suyakning yiqilishiga olib keladi.',
-    transcript: '[ leg-selv pertsz desiz ]',
+    transcript: '[leg-selv pertsz desiz ]',
     favorite: false,
   ),
   Word(
@@ -4808,7 +4808,7 @@ List<Word> wordsList = [
         '1. A curved glass used to bring together or spread rays of light. 2. The transparent organ lying behind the…',
     uzDef:
         '1. Yorug’lik nurlarini birlashtirish yoki tarqatish uchun ishlatiladigan kavsli shisha. 2, orqasida yotgan shaffof organ.',
-    transcript: '[ lenz ]',
+    transcript: '[lenz ]',
     favorite: false,
   ),
   Word(
@@ -4818,7 +4818,7 @@ List<Word> wordsList = [
         'A progressive infectious disease that attacks the skin, flesh and nerves; characterized by nodules, ulcers, scaly scabs, deformities and the…',
     uzDef:
         'Teri, tana go’shti va nervlarga hujum qiladigan progressiv yuqumli kasallik; tugunlar, yaralar, qora qo’tirlar, deformatsiyalar va…',
-    transcript: '[ ˈleprəsē ]',
+    transcript: '[ˈleprəsē ]',
     favorite: false,
   ),
   Word(
@@ -4828,7 +4828,7 @@ List<Word> wordsList = [
         'Any damage to a tissue. Marks, spots, moles or other problems of the skin.',
     uzDef:
         'To’qimalarning har qanday shikastlanishi. Belgilar, dog’lar, mollar yoki terining boshqa muammolari.',
-    transcript: '[ ˈlēZHən ]',
+    transcript: '[ˈlēZHən ]',
     favorite: false,
   ),
   Word(
@@ -4836,7 +4836,7 @@ List<Word> wordsList = [
     uz: 'letargiya',
     enDef: 'A lack of energy; sluggishness, dullness or apathy.',
     uzDef: 'Energiya yetishmasligi; sustlik, xiralik yoki befarqlik.',
-    transcript: '[ ˈleTHərjē ]',
+    transcript: '[ˈleTHərjē ]',
     favorite: false,
   ),
   Word(
@@ -4844,7 +4844,7 @@ List<Word> wordsList = [
     uz: 'leykemiya',
     enDef: 'Cancer of the tissues in the bone marrow, spleen and lymph nodes.',
     uzDef: 'Suyak iligi, taloq va limfa tugunlaridagi to’qimalarning saratoni.',
-    transcript: '[ leykemia ]',
+    transcript: '[leykemia ]',
     favorite: false,
   ),
   Word(
@@ -4854,7 +4854,7 @@ List<Word> wordsList = [
         'White blood cells, the blood cells responsible for fighting infection.',
     uzDef:
         'Oq qon hujayralari, infeksiyaga qarshi kurashish uchun ma’sul qon hujayralari.',
-    transcript: '[ lekosits ]',
+    transcript: '[lekosits ]',
     favorite: false,
   ),
   Word(
@@ -4862,7 +4862,7 @@ List<Word> wordsList = [
     uz: 'leykopeniya',
     enDef: 'A lower than normal number of leukocytes in the blood.',
     uzDef: 'Qondagi leykositlar soni me’yoridan pastligi.',
-    transcript: '[ leukopenia ]',
+    transcript: '[leukopenia ]',
     favorite: false,
   ),
   Word(
@@ -4872,7 +4872,7 @@ List<Word> wordsList = [
         'Selective removal of the white blood cells from a donor’s blood. The other components of the blood are then returned…',
     uzDef:
         'Donorning qonidan oq qon hujayralarini tanlab olib tashlash. Keyin qonning boshqa tarkibiy qismlari qaytariladi…',
-    transcript: '[ leukoferezis ]',
+    transcript: '[leukoferezis ]',
     favorite: false,
   ),
   Word(
@@ -4880,7 +4880,7 @@ List<Word> wordsList = [
     uz: 'leykoplakiya',
     enDef: 'Thick, white patches in the mouth that may become malignant.',
     uzDef: 'Og’izda yomon asaorat qoldirishi mumkun bo’lgan qalin oq dog’lar.',
-    transcript: '[ ˌlo͞okəˈplākēə ]',
+    transcript: '[ˌlo͞okəˈplākēə ]',
     favorite: false,
   ),
   Word(
@@ -4890,7 +4890,7 @@ List<Word> wordsList = [
         'Any of various skin diseases characterized by sores and enlarged skin markings.',
     uzDef:
         'Yaralar va kattalashgan teri belgilari bilan tavsiflangan har xil teri kasalliklari.',
-    transcript: '[ ˈlīkən ]',
+    transcript: '[ˈlīkən ]',
     favorite: false,
   ),
   Word(
@@ -4900,7 +4900,7 @@ List<Word> wordsList = [
         'A tough band of connective tissue connecting bones or holding organs in place.',
     uzDef:
         'Suyaklarni birlashtiruvchi yoki organlarni joyida ushlab turadigan biriktiruvchi to’qimadan iborat.',
-    transcript: '[ ˈliɡəmənt ]',
+    transcript: '[ˈliɡəmənt ]',
     favorite: false,
   ),
   Word(
@@ -4910,7 +4910,7 @@ List<Word> wordsList = [
         'A wire or thread used to tie off blood vessels or to close incisions or wounds.',
     uzDef:
         'Qon tomirlarini bog’lash yoki kesma yoki yaralarni yopish uchun ishlatiladigan sim yoki ip.',
-    transcript: '[ ˈliɡəCHər ]',
+    transcript: '[ˈliɡəCHər ]',
     favorite: false,
   ),
   Word(
@@ -4920,7 +4920,7 @@ List<Word> wordsList = [
         'The feeling of decreased abdominal pressure during the last few weeks of pregnancy caused by the uterus dropping into the…',
     uzDef:
         'Homiladorlikning so’nggi bir necha haftalarida bachadonning qorin bo’shlig’igatushishi natijasida yuzaga keladigan qorin bosimining pasayishi hissi…',
-    transcript: '[ laytining ]',
+    transcript: '[laytining ]',
     favorite: false,
   ),
   Word(
@@ -4930,7 +4930,7 @@ List<Word> wordsList = [
         'Margin, or border. The margin of the cornea where it contacts the sclera.',
     uzDef:
         'Chegara yoki chet. Shox pardaning sklera bilan aloqa qiladigan cheti.',
-    transcript: '[ limbus ]',
+    transcript: '[limbus ]',
     favorite: false,
   ),
   Word(
@@ -4938,7 +4938,7 @@ List<Word> wordsList = [
     uz: 'til',
     enDef: 'Tongue',
     uzDef: 'Til',
-    transcript: '[ lingua ]',
+    transcript: '[lingua ]',
     favorite: false,
   ),
   Word(
@@ -4946,7 +4946,7 @@ List<Word> wordsList = [
     uz: 'lipid',
     enDef: 'Cholesterol, triglycerides and related substances.',
     uzDef: 'Xolestirin, triglitseridlar va tegishli moddalar.',
-    transcript: '[ ‘lipid ]',
+    transcript: '[‘lipid ]',
     favorite: false,
   ),
   Word(
@@ -4954,7 +4954,7 @@ List<Word> wordsList = [
     uz: 'yog’li shish',
     enDef: 'A fat cell.',
     uzDef: 'Yog’li shish.',
-    transcript: '[ lɪpəˌsaɪt ]',
+    transcript: '[lɪpəˌsaɪt ]',
     favorite: false,
   ),
   Word(
@@ -4962,7 +4962,7 @@ List<Word> wordsList = [
     uz: 'lipoliz',
     enDef: 'The splitting up, or destruction, of fat.',
     uzDef: 'Yog’ning bo’linishi yoki parchalnishi.',
-    transcript: '[ liˈpäləsis ]',
+    transcript: '[liˈpäləsis ]',
     favorite: false,
   ),
   Word(
@@ -4970,7 +4970,7 @@ List<Word> wordsList = [
     uz: 'lipoma',
     enDef: 'Fatty tumor.',
     uzDef: 'Yog’li shish.',
-    transcript: '[ liˈpōmə ]',
+    transcript: '[liˈpōmə ]',
     favorite: false,
   ),
   Word(
@@ -4980,7 +4980,7 @@ List<Word> wordsList = [
         'Any of a group of proteins combined with a lipid that allow lipids to be transported in the circulatory…',
     uzDef:
         'Qon aylanish tizimida lipidlarni tashish imkonini beruvchi lipid bilan birlashtirilgan oqsillar guruhining har qanday…',
-    transcript: '[ lipoproteyn ]',
+    transcript: '[lipoproteyn ]',
     favorite: false,
   ),
   Word(
@@ -4990,7 +4990,7 @@ List<Word> wordsList = [
         'A surgical procedure that changes body shape by removing fat cells.',
     uzDef:
         'Yog’ hujayralarini olib tashlash orqali tana shaklini o’zgartiradigan jarrohlik amaliyoti.',
-    transcript: '[ ˈlipōˌsəkSH(ə)n ]',
+    transcript: '[ˈlipōˌsəkSH(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -4998,7 +4998,7 @@ List<Word> wordsList = [
     uz: 'litoliz',
     enDef: 'Breaking up of a stone, such as a gallstone.',
     uzDef: 'O’t pufagidagi tosh kabi toshni sindirish.',
-    transcript: '[ litoliys ]',
+    transcript: '[litoliys ]',
     favorite: false,
   ),
   Word(
@@ -5008,7 +5008,7 @@ List<Word> wordsList = [
         'A procedure to break up kidney stones into smaller pieces that can more easily pass out of the body.',
     uzDef:
         'Buyrak toshlarini tanadan osonroq o’tishi mumkun bo’lgan mayda bo’laklarga bo’lish tartibi.',
-    transcript: '[ litotripsi ]',
+    transcript: '[litotripsi ]',
     favorite: false,
   ),
   Word(
@@ -5018,7 +5018,7 @@ List<Word> wordsList = [
         'The large organ in the upper right abdomen that functions in digestion and storage of food, disposal of worn-out red…',
     uzDef:
         'Qorinning o’ng yuqori qismidagi katta organ bo’lib u ovqat hazm qilish va saqlash, eskirgan qizilni yo’q qilish…',
-    transcript: '[ luve: ]',
+    transcript: '[luve: ]',
     favorite: false,
   ),
   Word(
@@ -5028,7 +5028,7 @@ List<Word> wordsList = [
         '1.The fleshy lower part of the ear. 2. A well-defined portion of an organ.',
     uzDef:
         '1.Quloqning go’shtli pastgi qismi. 2. Organning aniq belgilangan qismi.',
-    transcript: '[ lōb ]',
+    transcript: '[lōb ]',
     favorite: false,
   ),
   Word(
@@ -5036,7 +5036,7 @@ List<Word> wordsList = [
     uz: 'lobektomiya',
     enDef: 'Surgical removal of the lobe of an organ.',
     uzDef: 'Organning lobini jarrohlik yo’lib bilan olib tashalash.',
-    transcript: '[ lobektomi ]',
+    transcript: '[lobektomi ]',
     favorite: false,
   ),
   Word(
@@ -5046,7 +5046,7 @@ List<Word> wordsList = [
         'A surgical operation in which a lobe of the brain, especially the frontal lobe of the cerebrum, is cut into…',
     uzDef:
         'Miyyaning bir bo’lagi, ayniqsa bosh miyyaning old qismi kesilgan jarrohlik operatsiyasi…',
-    transcript: '[ lobotomi ]',
+    transcript: '[lobotomi ]',
     favorite: false,
   ),
   Word(
@@ -5055,7 +5055,7 @@ List<Word> wordsList = [
     enDef:
         'The discharge from the vagina that occurs for several days to weeks after childbirth.',
     uzDef: 'Tug’ilgandan keyin bir necha haftagacha bo’lgan vaginadan oqindi.',
-    transcript: '[ lochia ]',
+    transcript: '[lochia ]',
     favorite: false,
   ),
   Word(
@@ -5063,7 +5063,7 @@ List<Word> wordsList = [
     uz: 'qulflash',
     enDef: 'Tetanus infection.',
     uzDef: 'Tetanoz infeksiyasi.',
-    transcript: '[ lokyou ]',
+    transcript: '[lokyou ]',
     favorite: false,
   ),
   Word(
@@ -5071,7 +5071,7 @@ List<Word> wordsList = [
     uz: 'bel',
     enDef: 'The portion of the back between the rib cage and pelvis.',
     uzDef: 'Orqa tomonning qovurg’a va tos suyagi orasidagi qismi.',
-    transcript: '[ loyns ]',
+    transcript: '[loyns ]',
     favorite: false,
   ),
   Word(
@@ -5079,7 +5079,7 @@ List<Word> wordsList = [
     uz: 'lordoz',
     enDef: 'Forward curvature of the spine, producing a hollow in the back.',
     uzDef: 'Orqa miyaning oldinga egriligi, orqada bo’shliq hosil qiladi.',
-    transcript: '[ lordosis ]',
+    transcript: '[lordosis ]',
     favorite: false,
   ),
   Word(
@@ -5087,7 +5087,7 @@ List<Word> wordsList = [
     uz: 'LSD',
     enDef: 'Lysergic acid diethylamide. A hallucinogenic drug.',
     uzDef: 'Lizergik kislota dietilamid. Gallyutsinogen dori.',
-    transcript: '[ el.es,di ]',
+    transcript: '[el.es,di ]',
     favorite: false,
   ),
   Word(
@@ -5095,7 +5095,7 @@ List<Word> wordsList = [
     uz: 'lambago',
     enDef: 'Pain in the lower back.',
     uzDef: 'Pastki orqa qismda og’riq.',
-    transcript: '[ lambago ]',
+    transcript: '[lambago ]',
     favorite: false,
   ),
   Word(
@@ -5103,7 +5103,7 @@ List<Word> wordsList = [
     uz: 'bel',
     enDef: 'Having to do with the lower back, the loins.',
     uzDef: 'Pastki orqa, bel bilan qilish kerak.',
-    transcript: '[ lamber ]',
+    transcript: '[lamber ]',
     favorite: false,
   ),
   Word(
@@ -5113,7 +5113,7 @@ List<Word> wordsList = [
         'The main respiratory organs in the chest where blood is oxygenated.',
     uzDef:
         'Qon kislorod bilan ta’minlangan ko’krak qafasidagi asosiy nafas olish organlari.',
-    transcript: '[ langs ]',
+    transcript: '[langs ]',
     favorite: false,
   ),
   Word(
@@ -5123,7 +5123,7 @@ List<Word> wordsList = [
         'A usually chronic inflammatory disease that causes abnormalities of blood vessels and connective tissue in various parts of the…',
     uzDef:
         'Odatda surunkali yallig’lanish kasalligi bo’lib, qon tomirlari va bitiktiruvchi to’qimalarning turli qismlarida anormalliklarga olib keladi.',
-    transcript: '[ ˌlo͞opəs ˌerəˌTHēməˌtōsəs ]',
+    transcript: '[ˌlo͞opəs ˌerəˌTHēməˌtōsəs ]',
     favorite: false,
   ),
   Word(
@@ -5133,7 +5133,7 @@ List<Word> wordsList = [
         'A hormone secreted by the anterior pituitary gland, responsible for stimulating ovulation in the female and testosterone production in the…',
     uzDef:
         'Oldingi gipofiz bezidan ajralib chiqadigan, ayollarda ovulyatsiyani va testesteron ishlab chiqarishni rag’batlantirish uchun javob beradigan garmon…',
-    transcript: '[ ˌlo͞odēəˌnīziNG ˈhôrmōn ]',
+    transcript: '[ˌlo͞odēəˌnīziNG ˈhôrmōn ]',
     favorite: false,
   ),
   Word(
@@ -5143,7 +5143,7 @@ List<Word> wordsList = [
         'A disease spread by deer ticks characterized at first by a skin rash, headache and fever, and later by arthritis…',
     uzDef:
         'Kiyik shomillari tomonidan tarqaladigan kasallik, dastlab teri toshmasi, bosh og’rig’i va isitma, keyin esa artrit bilan tavsiflanadi…',
-    transcript: '[ ˈlīm dəˌzēz ]',
+    transcript: '[ˈlīm dəˌzēz ]',
     favorite: false,
   ),
   Word(
@@ -5153,7 +5153,7 @@ List<Word> wordsList = [
         'Consists primarily of a clear, yellowish fluid and white blood cells. Found in the lymphatic system.',
     uzDef:
         'U asosan shaffof, sarg’ish suyuqlik va qon hujayralridan iborat. Limfa tizimidan topilgan.',
-    transcript: '[ limf ]',
+    transcript: '[limf ]',
     favorite: false,
   ),
   Word(
@@ -5163,7 +5163,7 @@ List<Word> wordsList = [
         'Any of many small, compact structures lying in groups along the course of the lymphatic vessels and producing lymphocytes.',
     uzDef:
         'Limfa tomirlari bo’ylab guruh bo’lib yotgan va limfositlarni ishlab chiqaradigan ko’plab kichik, ixcham tuzilmalar ing har biri.',
-    transcript: '[ limf nod ]',
+    transcript: '[limf nod ]',
     favorite: false,
   ),
   Word(
@@ -5171,7 +5171,7 @@ List<Word> wordsList = [
     uz: 'limfadenit',
     enDef: 'Inflammation of the lymph nodes.',
     uzDef: 'Limfa tugunlarining yallig’lanishi.',
-    transcript: '[ limfadenits ]',
+    transcript: '[limfadenits ]',
     favorite: false,
   ),
   Word(
@@ -5179,7 +5179,7 @@ List<Word> wordsList = [
     uz: 'limfangit',
     enDef: 'Inflammation of a lymphatic vessel.',
     uzDef: 'Limfatik tomirning yallig’lanishi.',
-    transcript: '[ ˌlimˌfanˈjīdəs ]',
+    transcript: '[ˌlimˌfanˈjīdəs ]',
     favorite: false,
   ),
   Word(
@@ -5189,7 +5189,7 @@ List<Word> wordsList = [
         'The vessels and structures involved in carrying lymph from the tissues to the blood.',
     uzDef:
         'Limfani to’qimalardan qonga o’tkazishda ishtirok etadigan tomirlar va tuzilmalar.',
-    transcript: '[ limˈfadik ˌsistəm ]',
+    transcript: '[limˈfadik ˌsistəm ]',
     favorite: false,
   ),
   Word(
@@ -5198,7 +5198,7 @@ List<Word> wordsList = [
     enDef: 'Swelling of tissue because of the buildup of too much lymph fluid.',
     uzDef:
         'Limfa suyuqliging ko’p to’planishi tufayli to’qimalarning shishishi.',
-    transcript: '[ ˌlimfəˈdēmə ]',
+    transcript: '[ˌlimfəˈdēmə ]',
     favorite: false,
   ),
   Word(
@@ -5208,7 +5208,7 @@ List<Word> wordsList = [
         'A type of leukocyte (white blood cell) involved in the production of antibodies and the development of immunity.',
     uzDef:
         'Antikorlarni ishlab chiqarish va immunitetni rivojlantorishda ishtirok etadigan leykositlarning bir turi(oq qon tanchalri).',
-    transcript: '[ ˈlimfəˌsīt ]',
+    transcript: '[ˈlimfəˌsīt ]',
     favorite: false,
   ),
   Word(
@@ -5216,7 +5216,7 @@ List<Word> wordsList = [
     uz: 'limfoma',
     enDef: 'A malignant tumor of the lymphoid tissues.',
     uzDef: 'Limfoid to’qimalarning xavfli o’smasi.',
-    transcript: '[ limˈfōmə ]',
+    transcript: '[limˈfōmə ]',
     favorite: false,
   ),
   Word(
@@ -5224,7 +5224,7 @@ List<Word> wordsList = [
     uz: 'makrofag',
     enDef: 'A large cell that engulfs and digests foreign material.',
     uzDef: 'Begona moddalrni yutib, hazm qiladigan hujayra.',
-    transcript: '[ ˈmakrəˌfāj ]',
+    transcript: '[ˈmakrəˌfāj ]',
     favorite: false,
   ),
   Word(
@@ -5234,7 +5234,7 @@ List<Word> wordsList = [
         'The central part of the retina with the highest density of light receptors. Responsible for detailed vision.',
     uzDef:
         'Yorug’lik retsepttorlarining eng yuqoti zichligi bilan retinaning markaziy qismi. Batafsil ko’rish uchun javobgar.',
-    transcript: '[ makula ]',
+    transcript: '[makula ]',
     favorite: false,
   ),
   Word(
@@ -5242,7 +5242,7 @@ List<Word> wordsList = [
     uz: 'makyol',
     enDef: 'A discolored, flat spot of skin.',
     uzDef: 'Terining rangsiz, tekis joyi.',
-    transcript: '[ makyol ]',
+    transcript: '[makyol ]',
     favorite: false,
   ),
   Word(
@@ -5250,7 +5250,7 @@ List<Word> wordsList = [
     uz: 'kasallik',
     enDef: 'Illness.',
     uzDef: 'Kasallik',
-    transcript: '[ ˈmalədē ]',
+    transcript: '[ˈmalədē ]',
     favorite: false,
   ),
   Word(
@@ -5260,7 +5260,7 @@ List<Word> wordsList = [
         'An infectious disease of the tropics characterized by high fever and chills. The fever typically recurs every third day.',
     uzDef:
         'Yuqori isitma va titroq bilan tavsiflangan tropiklarning yuqumli kasalligi. Odatda isitma har uchunchi kunda takrorlanadi.',
-    transcript: '[ malaria ]',
+    transcript: '[malaria ]',
     favorite: false,
   ),
   Word(
@@ -5270,7 +5270,7 @@ List<Word> wordsList = [
         'A tendency to worsen to a more serious illness or death. Commonly used to describe cancer.',
     uzDef:
         'Og’irroq kasallik yoki o’limga qadar yomonlashish tendentsiyasi. Ko’pincha saraton kasalligini tasvirlash uchun ishlatiladi.',
-    transcript: '[ malignensy ]',
+    transcript: '[malignensy ]',
     favorite: false,
   ),
   Word(
@@ -5280,7 +5280,7 @@ List<Word> wordsList = [
         'Deliberate exaggeration of the symptoms of an illness or injury for gain. For example, pretending to be ill in order…',
     uzDef:
         'Foyda olish uchun kasallik yoki jarohat belgilarini qasddan oshirib yuborish. Misol uchun, tartib bilan kasal bo’lib ko’rsatish…',
-    transcript: '[ malingering ]',
+    transcript: '[malingering ]',
     favorite: false,
   ),
   Word(
@@ -5288,7 +5288,7 @@ List<Word> wordsList = [
     uz: 'Malleola',
     enDef: 'The rounded bony prominence on either side of the ankle.',
     uzDef: 'Oyoq bilagi zo’r ikki tomonida yumaloq suyak chiqishi.',
-    transcript: '[ məˈliːələs ]',
+    transcript: '[məˈliːələs ]',
     favorite: false,
   ),
   Word(
@@ -5296,7 +5296,7 @@ List<Word> wordsList = [
     uz: 'Malleus',
     enDef: 'A small bone in the middle ear, often called the hammer.',
     uzDef: 'O’rta quloqdagi kichik suyak, ko’pincha bolg’a deb ataladi.',
-    transcript: '[ mæliəs ]',
+    transcript: '[mæliəs ]',
     favorite: false,
   ),
   Word(
@@ -5305,7 +5305,7 @@ List<Word> wordsList = [
     enDef: 'Poor nourishment resulting from an inadequate or improper diet.',
     uzDef:
         'Noto’g’ri yoki noto’g’ri ovqatlanish natijasida kelib chiqadigan yomon ovqatlanish.',
-    transcript: '[ ˌmaln(y)o͞oˈtriSH(ə)n ]',
+    transcript: '[ˌmaln(y)o͞oˈtriSH(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -5313,7 +5313,7 @@ List<Word> wordsList = [
     uz: 'malokluziya',
     enDef: 'Improper meeting of the upper and lower teeth.',
     uzDef: 'Yuqori va pastki tishlarning noto’g’ri uchrashishi.',
-    transcript: '[ ˌmaləˈklo͞oZHən ]',
+    transcript: '[ˌmaləˈklo͞oZHən ]',
     favorite: false,
   ),
   Word(
@@ -5321,7 +5321,7 @@ List<Word> wordsList = [
     uz: 'melunion',
     enDef: 'Improper healing of the pieces of a broken bone.',
     uzDef: 'Singan suyak qismlarini noto’g’ri davolash.',
-    transcript: '[ melunion ]',
+    transcript: '[melunion ]',
     favorite: false,
   ),
   Word(
@@ -5329,7 +5329,7 @@ List<Word> wordsList = [
     uz: 'sut bezlari',
     enDef: 'Having to do with the breast.',
     uzDef: 'Ko’krak bilan bog’liq.',
-    transcript: '[ ˈmam(ə)rē ]',
+    transcript: '[ˈmam(ə)rē ]',
     favorite: false,
   ),
   Word(
@@ -5337,7 +5337,7 @@ List<Word> wordsList = [
     uz: 'mandibula',
     enDef: 'The lower jaw.',
     uzDef: 'Pastki jag’.',
-    transcript: '[ mandibl ]',
+    transcript: '[mandibl ]',
     favorite: false,
   ),
   Word(
@@ -5346,7 +5346,7 @@ List<Word> wordsList = [
     enDef: 'A mental disorder. Characterized by extreme excitement and energy.',
     uzDef:
         'Ruhiy buzilish. Haddan tashqari hayajon va energiya bilan tavsiflanadi.',
-    transcript: '[ ˈmānēə ]',
+    transcript: '[ˈmānēə ]',
     favorite: false,
   ),
   Word(
@@ -5356,7 +5356,7 @@ List<Word> wordsList = [
         'A mental disorder marked by alternating periods of excitability and depression. Also called bipolar affective disorder.',
     uzDef:
         'Qo’zg’aluvchanlik va tushkunlik davrlarining o’zgarishi bilan ajralib turadigan ruhiy kasallik. Bipolyar affektiv buzilish deb ham ataladi.',
-    transcript: '[ manik-depresiv ]',
+    transcript: '[manik-depresiv ]',
     favorite: false,
   ),
   Word(
@@ -5366,7 +5366,7 @@ List<Word> wordsList = [
         'A drug derived from the leaves of the Cannabis sativa plant. Makes the user feel euphoric.',
     uzDef:
         'Cannabis sativa o’simligining barglaridan olingan dori. Foydalnuvchini eyforiyasi his qiladi.',
-    transcript: '[ ˌmerəˈ(h)wänə ]',
+    transcript: '[ˌmerəˈ(h)wänə ]',
     favorite: false,
   ),
   Word(
@@ -5374,7 +5374,7 @@ List<Word> wordsList = [
     uz: 'ilik',
     enDef: 'The soft, sponge-like material inside the bones.',
     uzDef: 'Suyaklar ichidagi yumshoq, shimhichga o’xshash material.',
-    transcript: '[ ˈmerō ]',
+    transcript: '[ˈmerō ]',
     favorite: false,
   ),
   Word(
@@ -5382,7 +5382,7 @@ List<Word> wordsList = [
     uz: 'maskulinizeshn',
     enDef: 'Development of male sex characteristics in a female.',
     uzDef: 'Ayolda erkak jinsiy xususiyatlarining rivojlanishi.',
-    transcript: '[ maskulinizeshn ]',
+    transcript: '[maskulinizeshn ]',
     favorite: false,
   ),
   Word(
@@ -5390,7 +5390,7 @@ List<Word> wordsList = [
     uz: 'mazoxizm',
     enDef: 'Pleasure from personal, psychological or physical pain.',
     uzDef: 'Shaxsiy, psixologik yoki jismoniy og’riqdan zavqlanish.',
-    transcript: '[ ˈmasəˌkizəm ]',
+    transcript: '[ˈmasəˌkizəm ]',
     favorite: false,
   ),
   Word(
@@ -5398,7 +5398,7 @@ List<Word> wordsList = [
     uz: 'mastektomiya',
     enDef: 'Surgical removal of the breast.',
     uzDef: 'Ko’krakni jarrohlik yo’li bilan olib tashlash.',
-    transcript: '[ maˈstektəmē ]',
+    transcript: '[maˈstektəmē ]',
     favorite: false,
   ),
   Word(
@@ -5406,7 +5406,7 @@ List<Word> wordsList = [
     uz: 'mastit',
     enDef: 'Inflammation of the breast.',
     uzDef: 'Ko’krakning yallig’lanishi.',
-    transcript: '[ maˈstīdəs ]',
+    transcript: '[maˈstīdəs ]',
     favorite: false,
   ),
   Word(
@@ -5415,7 +5415,7 @@ List<Word> wordsList = [
     enDef: 'A bony, rounded projection of the skull located behind each ear.',
     uzDef:
         'Har bir quloq orqasida joylashgan bosh suyagining suyak, yumaloq proektsiyasi.',
-    transcript: '[ ˈmastoid ]',
+    transcript: '[ˈmastoid ]',
     favorite: false,
   ),
   Word(
@@ -5425,7 +5425,7 @@ List<Word> wordsList = [
         'An infection of the mastoid bone that can cause redness, warmth, swelling and pain behind the ear, sometimes with drainage…',
     uzDef:
         'Quloq orqasida qizarish, issiqlik, shishis va og’riqni keltirib chiqaradigan mastoid suyagi infeksiyasi, ba’zan drenj bilan..',
-    transcript: '[ ˌmastoiˈdīdəs ]',
+    transcript: '[ˌmastoiˈdīdəs ]',
     favorite: false,
   ),
   Word(
@@ -5433,7 +5433,7 @@ List<Word> wordsList = [
     uz: 'onanizm',
     enDef: 'Sexual self-stimulation.',
     uzDef: 'Jinsiy o’z-o’zini rag’batlantirish.',
-    transcript: '[ ˌmastərˈbāSHən ]',
+    transcript: '[ˌmastərˈbāSHən ]',
     favorite: false,
   ),
   Word(
@@ -5441,7 +5441,7 @@ List<Word> wordsList = [
     uz: 'maxillae',
     enDef: 'The pair of bones forming the upper jaw.',
     uzDef: 'Yuqori jag’ni hosil qiluvchi juft suyak.',
-    transcript: '[ maxiale ]',
+    transcript: '[maxiale ]',
     favorite: false,
   ),
   Word(
@@ -5451,7 +5451,7 @@ List<Word> wordsList = [
         'A highly contagious viral disease occurring most frequently in childhood and characterized by small, red spots on the skin, high…',
     uzDef:
         'Ko’pincha bolalik davrida uchraydigan o’ta yuqumli virusli kasallik va terida mayda qizil dog’lar, balnd…',
-    transcript: '[ ˈmēzəlz ]',
+    transcript: '[ˈmēzəlz ]',
     favorite: false,
   ),
   Word(
@@ -5460,7 +5460,7 @@ List<Word> wordsList = [
     enDef: 'A sac that may form in the small intestine, present at birth.',
     uzDef:
         'Tug’ilganda mavjud bo’lgan ingichka ichakda paydo bo’lishi mumkun bo’lgan qop.',
-    transcript: '[ mekkel divertikulum ]',
+    transcript: '[mekkel divertikulum ]',
     favorite: false,
   ),
   Word(
@@ -5470,7 +5470,7 @@ List<Word> wordsList = [
         'The greenish fecal matter in a fetus, forming the first bowel movement of a newborn infant.',
     uzDef:
         'Yangi tug’ulgan chaqaloqning birinchi ichak harakatini hosil qiluvchi homiladagi yashil rangdagi najas.',
-    transcript: '[ məˈkōnēəm ]',
+    transcript: '[məˈkōnēəm ]',
     favorite: false,
   ),
   Word(
@@ -5479,7 +5479,7 @@ List<Word> wordsList = [
     enDef:
         'The nerve that stimulates some of the muscles of the hand and wrist.',
     uzDef: 'Qo’l va bilakning ba’zi mushakparini qo’zg’atadigan asab.',
-    transcript: '[ median nerv ]',
+    transcript: '[median nerv ]',
     favorite: false,
   ),
   Word(
@@ -5489,7 +5489,7 @@ List<Word> wordsList = [
         'The tissues and organs located directly behind the sternum between the lungs. Contains the heart and its large vessels, the…',
     uzDef:
         'Ro’qimalar va organlar to’g’ridan to’g’ri o’pka o’rtasida sternum orqasida joylashgan. Yurak va uning katta tomirlarini o’z ichiga oladi…',
-    transcript: '[ ˌmēdēəˈstīnəm ]',
+    transcript: '[ˌmēdēəˈstīnəm ]',
     favorite: false,
   ),
   Word(
@@ -5499,7 +5499,7 @@ List<Word> wordsList = [
         'The inner part of an organ. The adrenal medulla is the center of the adrenal gland where epinephrine (adrenaline) is…',
     uzDef:
         'Organning ichki qismi. Buyrak usti medullasi buyrak usti bezining markazi bo’lib, epinefrin(adrenalin)…',
-    transcript: '[ məˈdələ ]',
+    transcript: '[məˈdələ ]',
     favorite: false,
   ),
   Word(
@@ -5509,7 +5509,7 @@ List<Word> wordsList = [
         'The part of the brain just above the spinal cord that includes the control centers for breathing, circulation and…',
     uzDef:
         'Miyaning orqa miya ustidagi qismi nafas olsih, qon aylanish va boshqariladigan markazlarni o’z ichiga oladi…',
-    transcript: '[ məˌdələ äˌblôNGˈɡädə ]',
+    transcript: '[məˌdələ äˌblôNGˈɡädə ]',
     favorite: false,
   ),
   Word(
@@ -5519,7 +5519,7 @@ List<Word> wordsList = [
         'A type of gland of the eyelid’s inner surface. Inflammation of a meibomian gland can produce a swelling called a…',
     uzDef:
         'Ko’z qovog’ining ichki yuzasi bezining bir turi. Meibomiya bezining yallig’lanishi shish paydo bo’lishiga olib kelishi mumkun…',
-    transcript: '[ meobian gland ]',
+    transcript: '[meobian gland ]',
     favorite: false,
   ),
   Word(
@@ -5529,7 +5529,7 @@ List<Word> wordsList = [
         'A mental state characterized by extreme sadness. A severe form of depression.',
     uzDef:
         'Haddan tashqari qayg’u bilan tavsiflangan ruhiy holat. Depressiyaning og’ir shakli.',
-    transcript: '[ ˌmelənˈkōlēə ]',
+    transcript: '[ˌmelənˈkōlēə ]',
     favorite: false,
   ),
   Word(
@@ -5539,7 +5539,7 @@ List<Word> wordsList = [
         'A brownish-black pigment normally found in skin, hair and parts of the eye.',
     uzDef:
         'Jigarrang-qora pigment odatda teri, soch va ko’zning qismlarida topiladi.',
-    transcript: '[ ˈmelənən ]',
+    transcript: '[ˈmelənən ]',
     favorite: false,
   ),
   Word(
@@ -5549,7 +5549,7 @@ List<Word> wordsList = [
         'A dark-colored tumor, especially malignant melanoma, that is a form of skin cancer that can spread from one part of…',
     uzDef:
         'To’q rangli o’simta, ayniqsa malign melanoma, bu teri saratonining bir shakli bo’lib, teining bir qismidan tarqalishi mumkun…',
-    transcript: '[ ˌmeləˈnōmə ]',
+    transcript: '[ˌmeləˈnōmə ]',
     favorite: false,
   ),
   Word(
@@ -5559,7 +5559,7 @@ List<Word> wordsList = [
         'Dark coloring of the skin often seen during pregnancy and at menopause. Also occurs in Addison’s disease.',
     uzDef:
         'Ko’pincha homiladorlik paytida va menopauzada terining quyuq rangi kuzatiladi. Addision kasalligida ham uchraydi.',
-    transcript: '[ melazma ]',
+    transcript: '[melazma ]',
     favorite: false,
   ),
   Word(
@@ -5567,7 +5567,7 @@ List<Word> wordsList = [
     uz: 'Melena',
     enDef: 'Black-colored feces caused by the presence of blood.',
     uzDef: 'Qon borligidan kelib chiqqan qora rangli najas.',
-    transcript: '[ məˈlēnə ]',
+    transcript: '[məˈlēnə ]',
     favorite: false,
   ),
   Word(
@@ -5575,7 +5575,7 @@ List<Word> wordsList = [
     uz: 'Membrana',
     enDef: 'A thin layer of tissue covering an organ.',
     uzDef: 'Organni qoplaudigan yupqa to’qima qatlami.',
-    transcript: '[ ˈmemˌbrān ]',
+    transcript: '[ˈmemˌbrān ]',
     favorite: false,
   ),
   Word(
@@ -5583,7 +5583,7 @@ List<Word> wordsList = [
     uz: 'Hayz ko’rish',
     enDef: 'A woman’s first menstrual period.',
     uzDef: 'Ayolning birinchi hayz ko’rishi.',
-    transcript: '[ məˈnärkē ]',
+    transcript: '[məˈnärkē ]',
     favorite: false,
   ),
   Word(
@@ -5593,7 +5593,7 @@ List<Word> wordsList = [
         'A disorder of the inner ear characterized by dizziness, ringing in the ears and progressive hearing loss.',
     uzDef:
         'Bosh aylanishi, quloqlarda jiringlash va progressiv eshitish halokati bilan tavsiflangan ichki quloqning buzilishi.',
-    transcript: '[ menieres sindrom ]',
+    transcript: '[menieres sindrom ]',
     favorite: false,
   ),
   Word(
@@ -5601,7 +5601,7 @@ List<Word> wordsList = [
     uz: 'Meninges',
     enDef: 'The three membranes covering the brain and spinal cord.',
     uzDef: 'Miya va orqa miyani qoplaydigan uchta membrana.',
-    transcript: '[ məˈninjēz ]',
+    transcript: '[məˈninjēz ]',
     favorite: false,
   ),
   Word(
@@ -5609,7 +5609,7 @@ List<Word> wordsList = [
     uz: 'Meningioma',
     enDef: 'Tumor of the meninges, usually benign and slow-growing.',
     uzDef: 'Meniks o’smasi, odatda yaxshi va sekin o’sadi.',
-    transcript: '[ məˌninjēˈōmə ]',
+    transcript: '[məˌninjēˈōmə ]',
     favorite: false,
   ),
   Word(
@@ -5619,7 +5619,7 @@ List<Word> wordsList = [
         'Inflammation of the meninges as the result of infection by bacteria or viruses. Symptoms include high fever, headache, stiff neck…',
     uzDef:
         'Bakterialar yoki viruslar tomonidan yuqtirish natijasid miya pardasining yallig’lanishi. Alomatlar orasida  yuqori isitma , bosh og’rig’i va qattiq bo’yin…',
-    transcript: '[ ˌmenənˈjīdəs ]',
+    transcript: '[ˌmenənˈjīdəs ]',
     favorite: false,
   ),
   Word(
@@ -5627,7 +5627,7 @@ List<Word> wordsList = [
     uz: 'Meniskus',
     enDef: 'The cartilage in the knee joint.',
     uzDef: 'Tizza bo’g’imidagi xaftaga.',
-    transcript: '[ məˈniskəs ]',
+    transcript: '[məˈniskəs ]',
     favorite: false,
   ),
   Word(
@@ -5637,7 +5637,7 @@ List<Word> wordsList = [
         'The time at which the menstrual cycle gradually stops. Sometimes referred to as the “change of life.”',
     uzDef:
         'Menstrul  siklus asta-sekin to’xtaydigan vaqt. Ba’zan hayotning o’zgarishi  deb ataladi.',
-    transcript: '[ ˈmenəˌpôz ]',
+    transcript: '[ˈmenəˌpôz ]',
     favorite: false,
   ),
   Word(
@@ -5645,7 +5645,7 @@ List<Word> wordsList = [
     uz: 'Menorragiya',
     enDef: 'Heavy bleeding during menstruation.',
     uzDef: 'Hayz ko’rish paytida kuchli qon ketish.',
-    transcript: '[ ˌmenəˈrāj(ē)ə ]',
+    transcript: '[ˌmenəˈrāj(ē)ə ]',
     favorite: false,
   ),
   Word(
@@ -5655,7 +5655,7 @@ List<Word> wordsList = [
         'The periodic discharge of blood and tissues from the uterus. This usually occurs about every four weeks in a woman…',
     uzDef:
         'Bachadondan qon va to’qimalarning davriy oqishi. Bu odatda har to’rt haftadq bir ayolda sodir bo’ladi…',
-    transcript: '[ ˌmenstro͞oˈāSH(ə)n ]',
+    transcript: '[ˌmenstro͞oˈāSH(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -5665,7 +5665,7 @@ List<Word> wordsList = [
         'The chemical and physical processes involved in building up, storing and using materials required for life.',
     uzDef:
         'Hayot uchun zarur bo’lgan materiallarni qurish, saqlash  va ishlatish bilan bog’liq kimyoviy va fizik jarayonlar.',
-    transcript: '[ məˈtabəˌlizəm ]',
+    transcript: '[məˈtabəˌlizəm ]',
     favorite: false,
   ),
   Word(
@@ -5675,7 +5675,7 @@ List<Word> wordsList = [
         'Any of the five bones that make up the hand and join the wrist to the fingers.',
     uzDef:
         'Qo’lni tashkil etuvchi va bilakni barmoqlarga qo’shadigan beshta suyakdan har biri.',
-    transcript: '[ ˌmedəˈkärpəl ]',
+    transcript: '[ˌmedəˈkärpəl ]',
     favorite: false,
   ),
   Word(
@@ -5685,7 +5685,7 @@ List<Word> wordsList = [
         'The wider portion at the end of a long bone where growth occurs in infants and children.',
     uzDef:
         'Go’daklar va bolalarda o’sish sodir bo’ladigan uzun suyakning oxiridagi kengroq qismi.',
-    transcript: '[ metapfiz ]',
+    transcript: '[metapfiz ]',
     favorite: false,
   ),
   Word(
@@ -5695,7 +5695,7 @@ List<Word> wordsList = [
         'The spread of a disease from its primary site in the body to another location in the body. Usually refers…',
     uzDef:
         'Kasallikning tanadagi asosiy joyidan bowhqa joyga tarqalishi. Odatda…',
-    transcript: '[ məˈtastəsəs ]',
+    transcript: '[məˈtastəsəs ]',
     favorite: false,
   ),
   Word(
@@ -5705,7 +5705,7 @@ List<Word> wordsList = [
         'Any of the five bones of the foot directly jointed to each of the toes.',
     uzDef:
         'Oyoqning beshta suyagidan har biri to’g’ridan to’g’ri barmoqlarning har biriga bog’langan.',
-    transcript: '[ ˌmedəˈtärs(ə)l ]',
+    transcript: '[ˌmedəˈtärs(ə)l ]',
     favorite: false,
   ),
   Word(
@@ -5713,7 +5713,7 @@ List<Word> wordsList = [
     uz: 'Metr',
     enDef: 'Uterus.',
     uzDef: 'Bachadon.',
-    transcript: '[ metra ]',
+    transcript: '[metra ]',
     favorite: false,
   ),
   Word(
@@ -5721,7 +5721,7 @@ List<Word> wordsList = [
     uz: 'Eritmalar',
     enDef: 'Inflammation of the uterus.',
     uzDef: 'Bachadonning yallig’lanishi.',
-    transcript: '[ etritims ]',
+    transcript: '[etritims ]',
     favorite: false,
   ),
   Word(
@@ -5731,7 +5731,7 @@ List<Word> wordsList = [
         'Uterine bleeding, usually of normal amount occurring at irregular intervals.',
     uzDef:
         'Bachadondan qon ketish , odatda tartibsiz vaqt oralig’ida sodir bo’ladigan normal miqdorda.',
-    transcript: '[ ˌmētrəˈrājēə ]',
+    transcript: '[ˌmētrəˈrājēə ]',
     favorite: false,
   ),
   Word(
@@ -5739,7 +5739,7 @@ List<Word> wordsList = [
     uz: 'Mikrob',
     enDef: 'A microorganism, such as bacterium.',
     uzDef: 'Mikroorganizm, masalan, bakteriya.',
-    transcript: '[ ˈmīˌkrōb ]',
+    transcript: '[ˈmīˌkrōb ]',
     favorite: false,
   ),
   Word(
@@ -5749,7 +5749,7 @@ List<Word> wordsList = [
         'The study of living microbes, including bacteria, protozoa and molds.',
     uzDef:
         'Tirik mikroblarni, shu jumladan bakteriyalarni, protozoalarni va mog’orlarni o’rganish.',
-    transcript: '[ ˌmīkrōˌbīˈäləjē ]',
+    transcript: '[ˌmīkrōˌbīˈäləjē ]',
     favorite: false,
   ),
   Word(
@@ -5757,7 +5757,7 @@ List<Word> wordsList = [
     uz: 'Mikroensefali',
     enDef: 'Having an abnormally small brain.',
     uzDef: 'Anormal darajada kichik miyaga ega bo’lish.',
-    transcript: '[ mikroensefali ]',
+    transcript: '[mikroensefali ]',
     favorite: false,
   ),
   Word(
@@ -5765,7 +5765,7 @@ List<Word> wordsList = [
     uz: 'Mikroorganizm',
     enDef: 'A microscopic plant or animal.',
     uzDef: 'Mikroskopik o’simlik yoki hayvon.',
-    transcript: '[ ˌmīkrōˈôrɡənizəm ]',
+    transcript: '[ˌmīkrōˈôrɡənizəm ]',
     favorite: false,
   ),
   Word(
@@ -5775,7 +5775,7 @@ List<Word> wordsList = [
         'A person who helps women at childbirth, but who isn’t a nurse or physician.',
     uzDef:
         'Tug’ish paytida ayollarga yordam beradigan , ammo hamshira yoki shifokor bo’lmagan odam.',
-    transcript: '[ ˈmidˌwīf ]',
+    transcript: '[ˈmidˌwīf ]',
     favorite: false,
   ),
   Word(
@@ -5785,7 +5785,7 @@ List<Word> wordsList = [
         'A group of symptoms that includes a severe headache, usually on one side of the head, and often accompanied by…',
     uzDef:
         'Odatda boshining bir tomonida kuchli bosh og’rig’ini o’z ichiga olgan simptomlar guruhi va ko’pincha…',
-    transcript: '[ ˈmīˌɡrān ]',
+    transcript: '[ˈmīˌɡrān ]',
     favorite: false,
   ),
   Word(
@@ -5795,7 +5795,7 @@ List<Word> wordsList = [
         'Pinhead-sized whitish skin lesions found on the face or trunk of some newborn infants.',
     uzDef:
         'Ba’zi yangi tug’ilgan chaqaloqlarning yuzida yoki tanasida topilgan  pinhead o’lchamdagi oq rangli teri jarohatlari.',
-    transcript: '[ milia ]',
+    transcript: '[milia ]',
     favorite: false,
   ),
   Word(
@@ -5805,7 +5805,7 @@ List<Word> wordsList = [
         'Prickly heat or “heat rash” as a result of inflammation of the sweat glands and characterized by small, white or…',
     uzDef:
         '“Issiqlik toahmasi” ter bezlarining yallig’lanishi natijasida kivhik, oq yoki…',
-    transcript: '[ ˌmilēˈerēə ]',
+    transcript: '[ˌmilēˈerēə ]',
     favorite: false,
   ),
   Word(
@@ -5815,7 +5815,7 @@ List<Word> wordsList = [
         'Natural loss of a fetus from the womb before it is sufficiently developed to survive. Also called spontaneous abortion.',
     uzDef:
         'Homilaning omon qolishi uchun etqrlicha rivojlanganidan oldin uning tabiiy yo’qolishi. Spontan abort deb ham ataladi.',
-    transcript: '[ ˈmisˌkerij ]',
+    transcript: '[ˈmisˌkerij ]',
     favorite: false,
   ),
   Word(
@@ -5825,7 +5825,7 @@ List<Word> wordsList = [
         'The valve of the heart between the left atrium and left ventricle that prevents the flow of blood back into…',
     uzDef:
         'Yurakning chap atrium va chap qorincha orasidagi klapan bo’lib, qonning orqasiga qaytilishiga to’sqinlik qiladi…',
-    transcript: '[ ˈmītrəl ˌvalv ]',
+    transcript: '[ˈmītrəl ˌvalv ]',
     favorite: false,
   ),
   Word(
@@ -5835,7 +5835,7 @@ List<Word> wordsList = [
         'Pelvic pain between periods, corresponding to the release of an ovum (egg) by an ovary.',
     uzDef:
         'Tuxumdonning tuxumdon(tuxum) chiqarishiga to’g’ri keladigan hayz davrlari orasidagi tos og’rig’i.',
-    transcript: '[ mitelshemerz ]',
+    transcript: '[mitelshemerz ]',
     favorite: false,
   ),
   Word(
@@ -5845,7 +5845,7 @@ List<Word> wordsList = [
         '1. A fleshy, pigmented skin blemish. 2. A mass of uterine tissue formed by a failure of the normal fertilization…',
     uzDef:
         '1. Go’shtli, pigmentli teri dog’i. 2. Oddiy urug’lanishning buzilishi natijasida hosil bo’lgan bachadon to’qimalarining massasi…',
-    transcript: '[ moʻl ]',
+    transcript: '[moʻl ]',
     favorite: false,
   ),
   Word(
@@ -5855,7 +5855,7 @@ List<Word> wordsList = [
         'A viral infection of the skin characterized by lesions with depressed centers containing a curd-like substance.',
     uzDef:
         'Terining virusli imfesksiyasi, o’z ichiga tvorogga o’xshash moddani o’z ichiga olgan depressiv markazlarga ega bo’lgan shikastlanishlar bilan tavsiflanadi.',
-    transcript: '[ mäˌləskəm kənˌtājēˈōsəm ]',
+    transcript: '[mäˌləskəm kənˌtājēˈōsəm ]',
     favorite: false,
   ),
   Word(
@@ -5865,7 +5865,7 @@ List<Word> wordsList = [
         'A condition present at birth characterized by mental deficiency, a broad face and slanting eyes. Also called Down syndrome.',
     uzDef:
         'Tug’ilganda aqliy zaiflik, keng  yuz va qiya ko’zlar bilan tavsiflangan holat. Down sindromi deb ham ataladi.',
-    transcript: '[ mongolizm ]',
+    transcript: '[mongolizm ]',
     favorite: false,
   ),
   Word(
@@ -5873,7 +5873,7 @@ List<Word> wordsList = [
     uz: 'Monotsit',
     enDef: 'A large white blood cell leukocyte.',
     uzDef: 'Katta oq qon hujayralarileykositlari.',
-    transcript: '[ ˈmänəˌsīt ]',
+    transcript: '[ˈmänəˌsīt ]',
     favorite: false,
   ),
   Word(
@@ -5881,7 +5881,7 @@ List<Word> wordsList = [
     uz: 'Mononuklyoz',
     enDef: 'An infection with Epstein-Barr virus. Also called “mono.”',
     uzDef: 'Epstein-Barr virusi bilan infektsiya. Shuningdek “mono”.',
-    transcript: '[ ˌmänōˌn(y)o͞oklēˈōsəs ]',
+    transcript: '[ˌmänōˌn(y)o͞oklēˈōsəs ]',
     favorite: false,
   ),
   Word(
@@ -5891,7 +5891,7 @@ List<Word> wordsList = [
         '1. Pathologic or abnormal. 2. Having to do with, or characterized by, disease…',
     uzDef:
         '1. Patalogik yoki anormal. 2. Kasallik bilan bog’liq yoki xarakterli…',
-    transcript: '[ ˈmôrbəd ]',
+    transcript: '[ˈmôrbəd ]',
     favorite: false,
   ),
   Word(
@@ -5899,7 +5899,7 @@ List<Word> wordsList = [
     uz: 'Erralab kasallik',
     enDef: 'Nausea and vomiting occurring during pregnancy.',
     uzDef: 'Homiladorlik paytida ko’ngil aynishi va qayt qilish.',
-    transcript: '[ ˈmôrniNG ˌsiknis ]',
+    transcript: '[ˈmôrniNG ˌsiknis ]',
     favorite: false,
   ),
   Word(
@@ -5907,7 +5907,7 @@ List<Word> wordsList = [
     uz: 'MRI',
     enDef: 'Magnetic resonance imaging.',
     uzDef: 'Magnit-rezonans  tomografiyasi.',
-    transcript: '[ ˌemˌärˈī ]',
+    transcript: '[ˌemˌärˈī ]',
     favorite: false,
   ),
   Word(
@@ -5917,7 +5917,7 @@ List<Word> wordsList = [
         'The membrane covering canals and cavities that open on the outside of the body, such as the gastrointestinal tract and…',
     uzDef:
         'Tananing tashqarisida  ochiladigan kanallar va bo’shliqlarni qoplaydigan membrana, masalan, oshqozon -ichak trakti va …',
-    transcript: '[ myo͞oˈkōzə ]',
+    transcript: '[myo͞oˈkōzə ]',
     favorite: false,
   ),
   Word(
@@ -5927,7 +5927,7 @@ List<Word> wordsList = [
         'A viral disease of childhood characterized by swelling of the parotid (salivary) glands and fever.',
     uzDef:
         'Parotid (tupuk) bezlarining shishishi va isitma bilan tavsiflangan bolalikdagi virusli kasallik.',
-    transcript: '[ məmps ]',
+    transcript: '[məmps ]',
     favorite: false,
   ),
   Word(
@@ -5936,7 +5936,7 @@ List<Word> wordsList = [
     enDef: 'An extra heart sound that may be normal or abnormal.',
     uzDef:
         'Oddiy yoki g’ayritabiiy bo’lishi mumkun bo’lgan qo’shimcha yurak tovushi.',
-    transcript: '[ ˈmərmər ]',
+    transcript: '[ˈmərmər ]',
     favorite: false,
   ),
   Word(
@@ -5946,7 +5946,7 @@ List<Word> wordsList = [
         'Tissue made up of bundles of long, slender cells that contract when stimulated.',
     uzDef:
         'To’qimalar rag’batlantirilganda qisqaradigan uzun, ingichka hujayralar to’plamparidan iborat.',
-    transcript: '[ ˈməsəl ]',
+    transcript: '[ˈməsəl ]',
     favorite: false,
   ),
   Word(
@@ -5955,7 +5955,7 @@ List<Word> wordsList = [
     enDef: 'A damaged gene that may produce a disease or deficiency.',
     uzDef:
         'Kasallik yoki yetishmovchilikni keltirib chiqarishi mumkun bo’lgan shikastlangan gen.',
-    transcript: '[ myo͞oˈtāSH(ə)n ]',
+    transcript: '[myo͞oˈtāSH(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -5963,7 +5963,7 @@ List<Word> wordsList = [
     uz: 'Ovozsiz',
     enDef: 'An inability or unwillingness to speak.',
     uzDef: 'Gapirishga qodir emaslik yoki istamaslik.',
-    transcript: '[ myo͞ot ]',
+    transcript: '[myo͞ot ]',
     favorite: false,
   ),
   Word(
@@ -5971,7 +5971,7 @@ List<Word> wordsList = [
     uz: 'Miyalji',
     enDef: 'Muscle pain.',
     uzDef: 'Mushak og’rig’i.',
-    transcript: '[ mīˈalj(ē)ə ]',
+    transcript: '[mīˈalj(ē)ə ]',
     favorite: false,
   ),
   Word(
@@ -5980,7 +5980,7 @@ List<Word> wordsList = [
     enDef: 'A chronic disease characterized by muscular weakness and fatigue.',
     uzDef:
         'Mushaklar zaifligi va charchoq bilan tavsiflangan surunkali kasallik.',
-    transcript: '[ miyastenia gravis ]',
+    transcript: '[miyastenia gravis ]',
     favorite: false,
   ),
   Word(
@@ -5988,7 +5988,7 @@ List<Word> wordsList = [
     uz: 'Miyelin',
     enDef: 'The fat-like substance that insulates certain nerve fibers.',
     uzDef: 'Ba’zj nerv tolalarini izolyatsiya qiluvchi yog’ga o’xshash modda.',
-    transcript: '[ ˈmīələn ]',
+    transcript: '[ˈmīələn ]',
     favorite: false,
   ),
   Word(
@@ -5996,7 +5996,7 @@ List<Word> wordsList = [
     uz: 'Miyokardit',
     enDef: 'Inflammation of the heart muscle.',
     uzDef: 'Yurak mushaglarini yallig’lanishi.',
-    transcript: '[ ˌmīōˌkärˈdīdəs ]',
+    transcript: '[ˌmīōˌkärˈdīdəs ]',
     favorite: false,
   ),
   Word(
@@ -6004,7 +6004,7 @@ List<Word> wordsList = [
     uz: 'Mioma',
     enDef: 'A tumor of muscle cells.',
     uzDef: 'Mushak hujayralarini o’smasi',
-    transcript: '[ myoma ]',
+    transcript: '[myoma ]',
     favorite: false,
   ),
   Word(
@@ -6012,7 +6012,7 @@ List<Word> wordsList = [
     uz: 'Miyopi',
     enDef: 'Nearsightedness.',
     uzDef: 'Yaqindan ko’rish.',
-    transcript: '[ mīˈōpēə ]',
+    transcript: '[mīˈōpēə ]',
     favorite: false,
   ),
   Word(
@@ -6020,7 +6020,7 @@ List<Word> wordsList = [
     uz: 'Miyozit',
     enDef: 'Inflammation of a muscle.',
     uzDef: 'Mushakning yallig’lanishi.',
-    transcript: '[ ˌmīōˈsīdəs ]',
+    transcript: '[ˌmīōˈsīdəs ]',
     favorite: false,
   ),
   Word(
@@ -6028,7 +6028,7 @@ List<Word> wordsList = [
     uz: 'Miringotomiya',
     enDef: 'An incision in the eardrum to relieve pressure or release fluid.',
     uzDef: 'Bosim yoki suyuqlikni chiqarish uchun quloq pardasidagi kesma.',
-    transcript: '[ ˌmirənˈɡädəmē ]',
+    transcript: '[ˌmirənˈɡädəmē ]',
     favorite: false,
   ),
   Word(
@@ -6036,7 +6036,7 @@ List<Word> wordsList = [
     uz: 'Narsistik',
     enDef: 'Self-centered, being “in love” with oneself.',
     uzDef: 'O’zini o’ylash, o’ziga “sevgida” bo’lish',
-    transcript: '[ ˌnärsəˈsistik ]',
+    transcript: '[ˌnärsəˈsistik ]',
     favorite: false,
   ),
   Word(
@@ -6044,7 +6044,7 @@ List<Word> wordsList = [
     uz: 'Narkolepsiya',
     enDef: 'Frequent and uncontrolled desire for sleep.',
     uzDef: 'Tez-tez va nazoratsiz uyqu istagi.',
-    transcript: '[ ˈnärkəˌlepsē ]',
+    transcript: '[ˈnärkəˌlepsē ]',
     favorite: false,
   ),
   Word(
@@ -6053,7 +6053,7 @@ List<Word> wordsList = [
     enDef:
         'A feeling of sickness in the stomach, sometimes followed by the urge to vomit.',
     uzDef: 'Oshqozonda kasallik hissi, ba’zida qusish istagi paydo bo’ladi.',
-    transcript: '[ ˈnôzēə ]',
+    transcript: '[ˈnôzēə ]',
     favorite: false,
   ),
   Word(
@@ -6061,7 +6061,7 @@ List<Word> wordsList = [
     uz: 'Nebulizer',
     enDef: 'A device that produces a very fine vapor to be inhaled.',
     uzDef: 'Nafas olish uchun juda nozik bug’ hosil qiluvchi qurilma.',
-    transcript: '[ ˈnebyəˌlīzər ]',
+    transcript: '[ˈnebyəˌlīzər ]',
     favorite: false,
   ),
   Word(
@@ -6069,7 +6069,7 @@ List<Word> wordsList = [
     uz: 'Nekroz',
     enDef: 'Death of a cell or tissue.',
     uzDef: 'Hujayra yoki to’qimalarning o’limi.',
-    transcript: '[ neˈkrōsəs ]',
+    transcript: '[neˈkrōsəs ]',
     favorite: false,
   ),
   Word(
@@ -6078,7 +6078,7 @@ List<Word> wordsList = [
     enDef: 'A roundworm that may infest the digestive tract of humans.',
     uzDef:
         'Odamning ovqat hazm qilish tizimiga zarar yetkazishi mumkin bo’lgan yumaloq qurt.',
-    transcript: '[ ˈnēməˌtōd ]',
+    transcript: '[ˈnēməˌtōd ]',
     favorite: false,
   ),
   Word(
@@ -6086,7 +6086,7 @@ List<Word> wordsList = [
     uz: 'Neoplazma',
     enDef: 'A new growth, tumor.',
     uzDef: 'Yangi o’sish, shish.',
-    transcript: '[ ˈnēəˌplazəm ]',
+    transcript: '[ˈnēəˌplazəm ]',
     favorite: false,
   ),
   Word(
@@ -6094,7 +6094,7 @@ List<Word> wordsList = [
     uz: 'Nefrektomiya',
     enDef: 'Surgical removal of a kidney.',
     uzDef: 'Burakni jarrohlik yo’lib bilan olib tashlash.',
-    transcript: '[ nəˈfrektəmē ]',
+    transcript: '[nəˈfrektəmē ]',
     favorite: false,
   ),
   Word(
@@ -6102,7 +6102,7 @@ List<Word> wordsList = [
     uz: 'Nefrit',
     enDef: 'Inflammation of a kidney.',
     uzDef: 'Buyrakning yallig’lanishi.',
-    transcript: '[ nəˈfrīdəs ]',
+    transcript: '[nəˈfrīdəs ]',
     favorite: false,
   ),
   Word(
@@ -6110,7 +6110,7 @@ List<Word> wordsList = [
     uz: 'Nefropatiya',
     enDef: 'Disease of the kidneys. Swelling or breakdown of the kidney.',
     uzDef: 'Buyraklar kasalligi. Buyrakning shishishi yoki buzilishi.',
-    transcript: '[ nefropaty ]',
+    transcript: '[nefropaty ]',
     favorite: false,
   ),
   Word(
@@ -6120,7 +6120,7 @@ List<Word> wordsList = [
         'A disease of the kidney that causes malfunction but no inflammation. Also called nephrotic syndrome.',
     uzDef:
         'Buyrakning noto’g’ri ishlashiga olib keladigan, ammo yallig’lanishsiz kasallik. Nefrotik sindrom deb ham ataladi.',
-    transcript: '[ nəˈfrōsəs ]',
+    transcript: '[nəˈfrōsəs ]',
     favorite: false,
   ),
   Word(
@@ -6130,7 +6130,7 @@ List<Word> wordsList = [
         'A cord-like structure made up of special tissue for carrying electrical impulses from one part of the body to another.',
     uzDef:
         'Elektr impulslarini tananing bir qismidan o’tkazish uchun maxsus to’qimadan iborat shnursimon tuzilma…',
-    transcript: '[ nərv ]',
+    transcript: '[nərv ]',
     favorite: false,
   ),
   Word(
@@ -6138,7 +6138,7 @@ List<Word> wordsList = [
     uz: 'Nevralogiya',
     enDef: 'Pain along the course of a nerve.',
     uzDef: 'Nerv yo’nalishi bo’ylab og’riq.',
-    transcript: '[ n(y)o͝oˈralj(ē)ə ]',
+    transcript: '[n(y)o͝oˈralj(ē)ə ]',
     favorite: false,
   ),
   Word(
@@ -6146,7 +6146,7 @@ List<Word> wordsList = [
     uz: 'Nevrit',
     enDef: 'Inflammation of a nerve.',
     uzDef: 'Nervning yallig’lanishi.',
-    transcript: '[ ˌn(y)o͝oˈrīdəs ]',
+    transcript: '[ˌn(y)o͝oˈrīdəs ]',
     favorite: false,
   ),
   Word(
@@ -6156,7 +6156,7 @@ List<Word> wordsList = [
         'An inherited disorder that causes dark spots on the skin and tumors of the skin, peripheral, optic and acoustic nerves.',
     uzDef:
         'Terida qora dog’lar va teri, periferik, optik va akustik o’smalarni keltirib chiqaradigan irsiy kasallik…',
-    transcript: '[ ˌn(y)o͝orōˌfībrəməˈtōsəs ]',
+    transcript: '[ˌn(y)o͝orōˌfībrəməˈtōsəs ]',
     favorite: false,
   ),
   Word(
@@ -6164,7 +6164,7 @@ List<Word> wordsList = [
     uz: 'Nevrologiya',
     enDef: 'The branch of medicine that pertains to the nervous system.',
     uzDef: 'Tiibbiyotning asab tizimiga tegishli bo’limi.',
-    transcript: '[ n(y)o͝oˈräləjē ]',
+    transcript: '[n(y)o͝oˈräləjē ]',
     favorite: false,
   ),
   Word(
@@ -6172,7 +6172,7 @@ List<Word> wordsList = [
     uz: 'Nevroma',
     enDef: 'A benign but sometimes painful tumor growing on a nerve.',
     uzDef: 'Nervda o’sadigan yaxshi, ammo ba’zida og’riqli o’sma.',
-    transcript: '[ ˌn(y)o͝oˈrōmə ]',
+    transcript: '[ˌn(y)o͝oˈrōmə ]',
     favorite: false,
   ),
   Word(
@@ -6180,7 +6180,7 @@ List<Word> wordsList = [
     uz: 'Neyron',
     enDef: 'A nerve cell.',
     uzDef: 'Nerv hujayrasi.',
-    transcript: '[ ˈn(y)o͝orän ]',
+    transcript: '[ˈn(y)o͝orän ]',
     favorite: false,
   ),
   Word(
@@ -6188,7 +6188,7 @@ List<Word> wordsList = [
     uz: 'Neyropatiya',
     enDef: 'Disease of the nervous system or of an individual nerve.',
     uzDef: 'Asab tizimining yoki individual nervlarning kasalligi.',
-    transcript: '[ ˌn(y)o͝oˈräpəTHē ]',
+    transcript: '[ˌn(y)o͝oˈräpəTHē ]',
     favorite: false,
   ),
   Word(
@@ -6198,7 +6198,7 @@ List<Word> wordsList = [
         'An emotional disorder that can interfere with a person’s ability to lead a normal life.',
     uzDef:
         'Insonning normal hayot kechirishiga xalaqit berqdigan hissiy buzuqlik.',
-    transcript: '[ n(y)o͝oˈrōsəs ]',
+    transcript: '[n(y)o͝oˈrōsəs ]',
     favorite: false,
   ),
   Word(
@@ -6206,7 +6206,7 @@ List<Word> wordsList = [
     uz: 'Neytrofil',
     enDef: 'A mature white blood cell with a three- to five-lobed nucleus.',
     uzDef: 'Uchdan besh bo’lakli yadroli etuk oq qon hujayralari.',
-    transcript: '[ ˈn(y)o͞otrəfil ]',
+    transcript: '[ˈn(y)o͞otrəfil ]',
     favorite: false,
   ),
   Word(
@@ -6214,7 +6214,7 @@ List<Word> wordsList = [
     uz: 'Nevus',
     enDef: 'A mole or other colored spot on the skin.',
     uzDef: 'Teridagi mol yoki boshqa rangli nuqta.',
-    transcript: '[ ˈnēvəs ]',
+    transcript: '[ˈnēvəs ]',
     favorite: false,
   ),
   Word(
@@ -6224,7 +6224,7 @@ List<Word> wordsList = [
         'A highly toxic and addictive component of tobacco. While the amounts obtained from smoking may not be enough to be…',
     uzDef:
         'Tamaki juda zaharli va o’ziga qaramlik qiluvchi komponent. Chekishdan olingan miqdorlar yetarli bo’lmasligi mumkin…',
-    transcript: '[ ˈnikəˌtēn ]',
+    transcript: '[ˈnikəˌtēn ]',
     favorite: false,
   ),
   Word(
@@ -6234,7 +6234,7 @@ List<Word> wordsList = [
         'A reduced ability to see in dim light. May be caused by a vitamin-A deficiency or glaucoma.',
     uzDef:
         'Xira yrug’likda ko’rish qobiliyatining pasayishi. A vitamini yetishmovchiligi yoki glaukoma sabab bo’lishi mumkin.',
-    transcript: '[ nīt ˈblīn(d)nis ]',
+    transcript: '[nīt ˈblīn(d)nis ]',
     favorite: false,
   ),
   Word(
@@ -6242,7 +6242,7 @@ List<Word> wordsList = [
     uz: 'Nit',
     enDef: 'The egg of a louse.',
     uzDef: 'Bitning tuxum.',
-    transcript: '[ nit ]',
+    transcript: '[nit ]',
     favorite: false,
   ),
   Word(
@@ -6250,7 +6250,7 @@ List<Word> wordsList = [
     uz: 'Nokturiya',
     enDef: 'Excessive urination at night.',
     uzDef: 'Kechasi ortiqcha siyish.',
-    transcript: '[ nokturiya ]',
+    transcript: '[nokturiya ]',
     favorite: false,
   ),
   Word(
@@ -6258,7 +6258,7 @@ List<Word> wordsList = [
     uz: 'Tugun',
     enDef: 'A swelling, knot or knob.',
     uzDef: 'Shishish, tugun yoki tugma.',
-    transcript: '[ nōd ]',
+    transcript: '[nōd ]',
     favorite: false,
   ),
   Word(
@@ -6266,7 +6266,7 @@ List<Word> wordsList = [
     uz: 'Birlashmaslik',
     enDef: 'Failure of the ends of a broken bone to mend.',
     uzDef: 'Singan suyakning uchlarini tikmaslik.',
-    transcript: '[ nänˈyo͞onyən ]',
+    transcript: '[nänˈyo͞onyən ]',
     favorite: false,
   ),
   Word(
@@ -6276,7 +6276,7 @@ List<Word> wordsList = [
         'A hormone produced by the adrenal medulla and certain sympathetic nerve fibers.',
     uzDef:
         'Buyrak uati bezi medullasi va ma’lum simpatik nerv tolalari tkmonidan ishlab chiqarilgan gormon.',
-    transcript: '[ ˌnôrepəˈnefrən ]',
+    transcript: '[ˌnôrepəˈnefrən ]',
     favorite: false,
   ),
   Word(
@@ -6286,7 +6286,7 @@ List<Word> wordsList = [
         'Having to do with the hospital. For example, an nosocomial infection is one that’s acquired during hospitalization.',
     uzDef:
         'Kasalxona bilan bog’liq. Masalan, kasalxonaga yotqizish paytida olingan nazakomial infeksia.',
-    transcript: '[ ˌnōzōˈkōmēəl ]',
+    transcript: '[ˌnōzōˈkōmēəl ]',
     favorite: false,
   ),
   Word(
@@ -6296,7 +6296,7 @@ List<Word> wordsList = [
         'Having too much body fat. A weight more than 20% above the normal range.',
     uzDef:
         'Tana yog’ining haddan tashqari ko’p bo’lishi. Oddiy diapazondan 20% dan ortiq vazn.',
-    transcript: '[ ōˈbēsədē ]',
+    transcript: '[ōˈbēsədē ]',
     favorite: false,
   ),
   Word(
@@ -6304,7 +6304,7 @@ List<Word> wordsList = [
     uz: 'Ta’qib qilish',
     enDef: 'An ongoing preoccupation with an idea.',
     uzDef: 'G’oya bilan doimiy mashg’ullik.',
-    transcript: '[ əbˈseSHən ]',
+    transcript: '[əbˈseSHən ]',
     favorite: false,
   ),
   Word(
@@ -6314,7 +6314,7 @@ List<Word> wordsList = [
         'Marked by a need to repeatedly perform certain behaviors or rituals.',
     uzDef:
         'Muayyan hatti-harakatlar yoki marosimlarni qayta qayta bajarish zarurati bilan belgiilanadi.',
-    transcript: '[ obseziv kompulsiv ]',
+    transcript: '[obseziv kompulsiv ]',
     favorite: false,
   ),
   Word(
@@ -6324,7 +6324,7 @@ List<Word> wordsList = [
         'The branch of medicine that deals with the care and treatment of women during pregnancy and childbirth.',
     uzDef:
         'Homiladorlik va tug’ish davrida ayollarni parvarish qilish va davolash bilan shug’ullanadigan tibbiyot sohasi.',
-    transcript: '[ əbˈstetriks ]',
+    transcript: '[əbˈstetriks ]',
     favorite: false,
   ),
   Word(
@@ -6332,7 +6332,7 @@ List<Word> wordsList = [
     uz: 'Oksiput',
     enDef: 'The back of the head.',
     uzDef: 'Boshning orqa qismi.',
-    transcript: '[ ˈäksəpət ]',
+    transcript: '[ˈäksəpət ]',
     favorite: false,
   ),
   Word(
@@ -6340,7 +6340,7 @@ List<Word> wordsList = [
     uz: 'Okkultiv',
     enDef: 'Hidden from view.',
     uzDef: 'Ko’zdan yashirilgan.',
-    transcript: '[ əˈkəlt ]',
+    transcript: '[əˈkəlt ]',
     favorite: false,
   ),
   Word(
@@ -6349,7 +6349,7 @@ List<Word> wordsList = [
     enDef: 'Any illness caused or aggravated by a person’s job.',
     uzDef:
         'Insonning ishi tufayli kelib chiqqan yoki kuchaygan har qanday kasallik.',
-    transcript: '[ okupeshnal illnes ]',
+    transcript: '[okupeshnal illnes ]',
     favorite: false,
   ),
   Word(
@@ -6359,7 +6359,7 @@ List<Word> wordsList = [
         'Teaching useful skills to sick or handicapped people to promote rehabilitation and healing.',
     uzDef:
         'Kasal yoki nogiron kishilarga reabilitatsiya va davolanishni rivojlantirish uchun foydali ko’nikmalarni o’rgatish.',
-    transcript: '[ okupeshnal terapy ]',
+    transcript: '[okupeshnal terapy ]',
     favorite: false,
   ),
   Word(
@@ -6367,7 +6367,7 @@ List<Word> wordsList = [
     uz: 'Ko’z',
     enDef: 'Having to do with the eye.',
     uzDef: 'Ko’z bilan bog’liq.',
-    transcript: '[ ˈäkyələr ]',
+    transcript: '[ˈäkyələr ]',
     favorite: false,
   ),
   Word(
@@ -6375,7 +6375,7 @@ List<Word> wordsList = [
     uz: 'Odontalgiya',
     enDef: 'Toothache.',
     uzDef: 'Tish og’rig’i.',
-    transcript: '[ odontalgiya ]',
+    transcript: '[odontalgiya ]',
     favorite: false,
   ),
   Word(
@@ -6384,7 +6384,7 @@ List<Word> wordsList = [
     enDef:
         'The projection of the ulna (the larger of the two bones in the forearm) at the elbow.',
     uzDef: 'Tirsakda ulna (bilakdagi ikkita suyakdan kattaroq) proyeksiyasi.',
-    transcript: '[ ōˈlekrənän ]',
+    transcript: '[ōˈlekrənän ]',
     favorite: false,
   ),
   Word(
@@ -6392,7 +6392,7 @@ List<Word> wordsList = [
     uz: 'Hidlash',
     enDef: 'Having to do with the sense of smell.',
     uzDef: 'Hid hissi bilan bog’liq.',
-    transcript: '[ älˈfakt(ə)rē ]',
+    transcript: '[älˈfakt(ə)rē ]',
     favorite: false,
   ),
   Word(
@@ -6400,7 +6400,7 @@ List<Word> wordsList = [
     uz: 'Oligomenoreya',
     enDef: 'Light menstrual flow.',
     uzDef: 'Yengil hayz ko’rish.',
-    transcript: '[ ˌɒlɪɡoʊˌmɛnəˈriːə ]',
+    transcript: '[ˌɒlɪɡoʊˌmɛnəˈriːə ]',
     favorite: false,
   ),
   Word(
@@ -6408,7 +6408,7 @@ List<Word> wordsList = [
     uz: 'Oligospermiya',
     enDef: 'A low number of sperm in the semen.',
     uzDef: 'Spermada kam miqdordagi sperma.',
-    transcript: '[ oligospermiya ]',
+    transcript: '[oligospermiya ]',
     favorite: false,
   ),
   Word(
@@ -6416,7 +6416,7 @@ List<Word> wordsList = [
     uz: 'Oliguriya',
     enDef: 'A condition characterized by an abnormally small output of urine.',
     uzDef: 'Anormap darajada kichik siydik chiqishi bilan tavsiflangan holat.',
-    transcript: '[ ˌäləˈɡo͝orēə ]',
+    transcript: '[ˌäləˈɡo͝orēə ]',
     favorite: false,
   ),
   Word(
@@ -6424,7 +6424,7 @@ List<Word> wordsList = [
     uz: 'Onkologiya',
     enDef: 'The study of tumors.',
     uzDef: 'Shishlarni o’rganish.',
-    transcript: '[ änˈkäləjē ]',
+    transcript: '[änˈkäləjē ]',
     favorite: false,
   ),
   Word(
@@ -6432,7 +6432,7 @@ List<Word> wordsList = [
     uz: 'Ooferaktomiya',
     enDef: 'The surgical removal of an ovary.',
     uzDef: 'Tuxumdonni jarrohlik yo’lib bilan olib tashlash.',
-    transcript: '[ ˌōəfəˈrektəmē ]',
+    transcript: '[ˌōəfəˈrektəmē ]',
     favorite: false,
   ),
   Word(
@@ -6440,7 +6440,7 @@ List<Word> wordsList = [
     uz: 'Oftalmologiya',
     enDef: 'The branch of medicine that pertains to the eye and its diseases.',
     uzDef: 'Tibbiyotning ko’z va uning kasqlliklariga tegishli bo’limi.',
-    transcript: '[ ˌäfTHə(l)ˈmäləjē ]',
+    transcript: '[ˌäfTHə(l)ˈmäləjē ]',
     favorite: false,
   ),
   Word(
@@ -6450,7 +6450,7 @@ List<Word> wordsList = [
         'Inflammation of the optic nerve, which connects the eye to the brain. Symptoms include pain with eye movement, blurred vision…',
     uzDef:
         'Ko’zni miya bian bog’laydigan optik asabning yallig’lanishi. Alomatlar orasida ko’z harakati bilan og’riq, loyqa ko’rish…',
-    transcript: '[ optik neurit ]',
+    transcript: '[optik neurit ]',
     favorite: false,
   ),
   Word(
@@ -6458,7 +6458,7 @@ List<Word> wordsList = [
     uz: 'Optik',
     enDef: 'Having to do with vision.',
     uzDef: 'Ko’rish bilan bog’liq.',
-    transcript: '[ ˈäptək(ə)l ]',
+    transcript: '[ˈäptək(ə)l ]',
     favorite: false,
   ),
   Word(
@@ -6466,7 +6466,7 @@ List<Word> wordsList = [
     uz: 'Optometriya',
     enDef: 'The practice of eye and vision care.',
     uzDef: 'Ko’z va ko’rishni parvarish qilish amaliyoti.',
-    transcript: '[ äpˈtämətrē ]',
+    transcript: '[äpˈtämətrē ]',
     favorite: false,
   ),
   Word(
@@ -6474,7 +6474,7 @@ List<Word> wordsList = [
     uz: 'Orbita',
     enDef: 'The bony cavity containing the eyeball. Eye socket.',
     uzDef: 'Ko’z olmasini o’z ichiga olgan suyak bo’shlig’i . Ko’z bo’shlig’i.',
-    transcript: '[ ˈôrbət ]',
+    transcript: '[ˈôrbət ]',
     favorite: false,
   ),
   Word(
@@ -6484,7 +6484,7 @@ List<Word> wordsList = [
         'The surgical removal of one or both testicles. Also called castration.',
     uzDef:
         'Bir yoki ikkala moyakni jarrohlik yo’li bilan olib tashlash. Kastratsiya deb ham ataladi.',
-    transcript: '[ ˌôrkēˈektəmē ]',
+    transcript: '[ˌôrkēˈektəmē ]',
     favorite: false,
   ),
   Word(
@@ -6494,7 +6494,7 @@ List<Word> wordsList = [
         'A structural unit of an animal or plant that serves a specific function.',
     uzDef:
         'Hayvon yoki o’simlikning muayyan vazifani bajaradigan tarkibiy birligi.',
-    transcript: '[ ˈôrɡən ]',
+    transcript: '[ˈôrɡən ]',
     favorite: false,
   ),
   Word(
@@ -6502,7 +6502,7 @@ List<Word> wordsList = [
     uz: 'Organik',
     enDef: 'Having to do with substances derived from living organisms.',
     uzDef: 'Tirik organizmlardan olingan moddalar bilan bog’liq.',
-    transcript: '[ ôrˈɡanik ]',
+    transcript: '[ôrˈɡanik ]',
     favorite: false,
   ),
   Word(
@@ -6510,7 +6510,7 @@ List<Word> wordsList = [
     uz: 'Orgazm',
     enDef: 'Sexual climax.',
     uzDef: 'Jinsiy avj.',
-    transcript: '[ ˈôrˌɡazəm ]',
+    transcript: '[ˈôrˌɡazəm ]',
     favorite: false,
   ),
   Word(
@@ -6518,7 +6518,7 @@ List<Word> wordsList = [
     uz: 'Orifice',
     enDef: 'The entrance or outlet of a body cavity.',
     uzDef: 'Tana bo\'shlig\'ining kirish yoki chiqish joyi.',
-    transcript: '[ ˈôrəfəs ]',
+    transcript: '[ˈôrəfəs ]',
     favorite: false,
   ),
   Word(
@@ -6526,7 +6526,7 @@ List<Word> wordsList = [
     uz: 'Orafarenks',
     enDef: 'The part of the pharynx behind the mouth and tongue.',
     uzDef: 'Farenksning og’iz va til orqasidagi qismi.',
-    transcript: '[ ˌôrōˈferiNGks ]',
+    transcript: '[ˌôrōˈferiNGks ]',
     favorite: false,
   ),
   Word(
@@ -6536,7 +6536,7 @@ List<Word> wordsList = [
         'The branch of dentistry that deals with the correction of irregularities of the teeth and related facial problems.',
     uzDef:
         'Tishlardagi nosimmetrikliklar va ular bilan bog’liq yuz muammolarini tuzatish bilan shug’ullanadigan stomotologiya bo’limi.',
-    transcript: '[ ˌôrTHəˈdän(t)iks ]',
+    transcript: '[ˌôrTHəˈdän(t)iks ]',
     favorite: false,
   ),
   Word(
@@ -6546,7 +6546,7 @@ List<Word> wordsList = [
         'The branch of medicine that deals with the treatment of deformities, diseases and injuries of the bones, joints and…',
     uzDef:
         'Suyaklar, bo’g’imlar va deformatsiyalar , kasalliklar va shikastlanishlarni davolash bilan shug’ullanadigan tibbiyot sohasi. ..',
-    transcript: '[ ˌôrTHəˈpēdiks ]',
+    transcript: '[ˌôrTHəˈpēdiks ]',
     favorite: false,
   ),
   Word(
@@ -6554,7 +6554,7 @@ List<Word> wordsList = [
     uz: 'Ortopnea',
     enDef: 'Difficulty breathing when lying flat.',
     uzDef: 'Yassi yotganda nafas olish qiyinlashuvi.',
-    transcript: '[ ortopneya ]',
+    transcript: '[ortopneya ]',
     favorite: false,
   ),
   Word(
@@ -6562,7 +6562,7 @@ List<Word> wordsList = [
     uz: 'Tebranish',
     enDef: 'A back-and-forth motion; vibration.',
     uzDef: 'Oldinga va orqaga harakat; tebranish.',
-    transcript: '[ ˌäsəˈlāSH(ə)n ]',
+    transcript: '[ˌäsəˈlāSH(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -6572,7 +6572,7 @@ List<Word> wordsList = [
         'Inflammation of the bone and cartilage of the shin bone, just below the knee.',
     uzDef:
         'Shisha suyagining suyagi va xaftaga yallig’lanishi, tizzadan biroz pastroq.',
-    transcript: '[ Osgod-Sshlater dezis ]',
+    transcript: '[Osgod-Sshlater dezis ]',
     favorite: false,
   ),
   Word(
@@ -6580,7 +6580,7 @@ List<Word> wordsList = [
     uz: 'Suyak suyagi',
     enDef: 'A small bone.',
     uzDef: 'Kichik suyak.',
-    transcript: '[ ˈäsək(ə)l ]',
+    transcript: '[ˈäsək(ə)l ]',
     favorite: false,
   ),
   Word(
@@ -6590,7 +6590,7 @@ List<Word> wordsList = [
         'A slowly progressive form of arthritis, usually found in older people. Characterized by deterioration of bone cartilage.',
     uzDef:
         'Artritning asta-sekin o’sib boruvchi shakli, odatda keksa odamlarda uchraydi. Suyak xaftaga tushishi bilan tavsiflanadi.',
-    transcript: '[ ˌästēōärˈTHrīdəs ]',
+    transcript: '[ˌästēōärˈTHrīdəs ]',
     favorite: false,
   ),
   Word(
@@ -6598,7 +6598,7 @@ List<Word> wordsList = [
     uz: 'Osteoma',
     enDef: 'A bony tumor',
     uzDef: 'Suyak shishi.',
-    transcript: '[ oateoma ]',
+    transcript: '[oateoma ]',
     favorite: false,
   ),
   Word(
@@ -6607,7 +6607,7 @@ List<Word> wordsList = [
     enDef: 'Softening of the bones resulting from deficient bone calcium.',
     uzDef:
         'Suyak kaltsiyining yetishmasligi natijasida suyaklarning yumshashi.',
-    transcript: '[ ˌästēōməˈlāSH(ē)ə ]',
+    transcript: '[ˌästēōməˈlāSH(ē)ə ]',
     favorite: false,
   ),
   Word(
@@ -6615,7 +6615,7 @@ List<Word> wordsList = [
     uz: 'Osteomiyelit',
     enDef: 'Infection of a bone.',
     uzDef: 'Suyak infeksiyasi.',
-    transcript: '[ ˌästēōˌmīəˈlīdəs ]',
+    transcript: '[ˌästēōˌmīəˈlīdəs ]',
     favorite: false,
   ),
   Word(
@@ -6625,7 +6625,7 @@ List<Word> wordsList = [
         'A system of therapy emphasizing primary medical care and the importance of body mechanics and manipulation to correct abnormalities.',
     uzDef:
         'Birlqmchi tibbiy yordam va anormalliklarni tuzatish uchun tana mexanikasi va manipulatsiya muhimligini ta’kidlaydigan terapiya tizimi.',
-    transcript: '[ ˌästēˈäpəTHē ]',
+    transcript: '[ˌästēˈäpəTHē ]',
     favorite: false,
   ),
   Word(
@@ -6635,7 +6635,7 @@ List<Word> wordsList = [
         'A bone disorder characterized by a reduction in bone density, chiefly found in women who have passed menopause and the…',
     uzDef:
         'Suyak zichligini pasayishi bilan tavsiflangan suyak kasalligi , asosan menopauzadan o’tgan ayollarda va …',
-    transcript: '[ ˌästēōpəˈrōsəs ]',
+    transcript: '[ˌästēōpəˈrōsəs ]',
     favorite: false,
   ),
   Word(
@@ -6645,7 +6645,7 @@ List<Word> wordsList = [
         'A procedure done to make a passageway for waste. A colostomy is an example.',
     uzDef:
         'Chiqindilarga o’tish yo’lini qilish uchun qilingan protsedura. Kolostomiya bunga misol bo’la oladi.',
-    transcript: '[ ˈästəmi ]',
+    transcript: '[ˈästəmi ]',
     favorite: false,
   ),
   Word(
@@ -6653,7 +6653,7 @@ List<Word> wordsList = [
     uz: 'Otik',
     enDef: 'Having to do with the ear.',
     uzDef: 'Quloq bilan bog’liq.',
-    transcript: '[ ˈōdik ]',
+    transcript: '[ˈōdik ]',
     favorite: false,
   ),
   Word(
@@ -6663,7 +6663,7 @@ List<Word> wordsList = [
         'Inflammation of the ear. Otitis externa (inflammation of the ear canal) is also called swimmer’s ear, while otitis media is…',
     uzDef:
         'Quloqning yallig’lanishi. Tashqi otit (eshitish kanalining yallig’lanish) suzuvchi qulog’i deb ham ataladi, o’rta otit esa…',
-    transcript: '[ ōˈtīdəs ]',
+    transcript: '[ōˈtīdəs ]',
     favorite: false,
   ),
   Word(
@@ -6671,7 +6671,7 @@ List<Word> wordsList = [
     uz: 'Tuxumdon',
     enDef: 'The female sex gland that contains ova, or eggs.',
     uzDef: 'Tuxum yoki tuxumni o’z ichiga olgan ayol jinsiy bezi.',
-    transcript: '[ ˈōv(ə)rē ]',
+    transcript: '[ˈōv(ə)rē ]',
     favorite: false,
   ),
   Word(
@@ -6679,7 +6679,7 @@ List<Word> wordsList = [
     uz: 'Ovulyatsiya',
     enDef: 'The process in which an ovum is released from the ovary.',
     uzDef: 'Tuxumdonning tuxumdondan chiqishi jarayoni.',
-    transcript: '[ ˌōvyəˈlāSHən ]',
+    transcript: '[ˌōvyəˈlāSHən ]',
     favorite: false,
   ),
   Word(
@@ -6687,7 +6687,7 @@ List<Word> wordsList = [
     uz: 'Tuxum hujayrasi',
     enDef: 'Egg; the female reproductive element.',
     uzDef: 'Tuxum; ayol jinsiy elementlari.',
-    transcript: '[ ˈōvəm ]',
+    transcript: '[ˈōvəm ]',
     favorite: false,
   ),
   Word(
@@ -6696,7 +6696,7 @@ List<Word> wordsList = [
     enDef: 'A device for determining the oxygen saturation level of the blood.',
     uzDef:
         'Qonning kislorod bilan to’yinganlik darajasini aniqlash uchun qurilma.',
-    transcript: '[ äkˈsimidər ]',
+    transcript: '[äkˈsimidər ]',
     favorite: false,
   ),
   Word(
@@ -6704,7 +6704,7 @@ List<Word> wordsList = [
     uz: 'Kislorod',
     enDef: 'A chemical element essential for sustaining life.',
     uzDef: 'Hayotni saqlab qolish uchun zarur bo’lgan kimyoviy element.',
-    transcript: '[ ˈäksəjən ]',
+    transcript: '[ˈäksəjən ]',
     favorite: false,
   ),
   Word(
@@ -6714,7 +6714,7 @@ List<Word> wordsList = [
         'A pituitary hormone that encourages the pregnant uterus to contract and is sometimes used to induce labor. It also encourages…',
     uzDef:
         'Homilador bachadonning qisqariahini rag’batlantiradigan va ba’zida tug’ilish i qo’zg’atish uchun ishlatiladigan gipofiz gormoniz. Bu ham rag’batlantiradi…',
-    transcript: '[ ˌäksəˈtōs(ə)n ]',
+    transcript: '[ˌäksəˈtōs(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -6724,7 +6724,7 @@ List<Word> wordsList = [
         'A type of cancer usually involving the breast’s larger ducts, areola and nipples. 2. A disease characterized by weakened…',
     uzDef:
         'Odatda ko\'krakning katta kanallari, areola va nipellarni o\'z ichiga olgan saraton turi.  2. Zaiflashish  bilan xarakterlanadigan kasallik.',
-    transcript: '[ paj′ĭts dɪˈziːz ]',
+    transcript: '[paj′ĭts dɪˈziːz ]',
     favorite: false,
   ),
   Word(
@@ -9321,7 +9321,7 @@ List<Word> wordsList = [
     uz: 'Ichki  yara, teri yarasi',
     enDef: 'A localized sore in the skin or mucous surfaces.',
     uzDef: 'Teri yoki shilliq qavatdagi mahalliy yara.',
-    transcript: '[ ˈəlsər ]',
+    transcript: '[ˈəlsər ]',
     favorite: false,
   ),
   Word(
@@ -9331,7 +9331,7 @@ List<Word> wordsList = [
         'A chronic inflammatory disease of the large intestine characterized by bloody diarrhea.',
     uzDef:
         'Yo\'g\'on ichakning surunkali yallig\'lanish kasalligi, qonli diareya bilan tavsiflanadi',
-    transcript: '[ˈəl-sə-ˌrā-tiv ] [  kō-ˈlī-təs ]',
+    transcript: '[ˈəl-sə-ˌrā-tiv ] [ kō-ˈlī-təs ]',
     favorite: false,
   ),
   Word(
@@ -9339,7 +9339,7 @@ List<Word> wordsList = [
     uz: 'Tirsak suyagi',
     enDef: 'The larger of the two bones of the forearm.',
     uzDef: 'Bilakning ikkita suyagidan kattasi.',
-    transcript: '[ ˈəlnə ]',
+    transcript: '[ˈəlnə ]',
     favorite: false,
   ),
   Word(
@@ -9349,7 +9349,7 @@ List<Word> wordsList = [
         'A tough, cord-like structure connecting the fetus to the placenta for nourishment.',
     uzDef:
         'Xomilani oziqlantirish uchun platsenta bilan bog\'laydigan qattiq, shnurga o\'xshash tuzilma.',
-    transcript: '[ ˌəmˈbilək(ə)l ˌkôrd ]',
+    transcript: '[ˌəmˈbilək(ə)l ˌkôrd ]',
     favorite: false,
   ),
   Word(
@@ -9358,7 +9358,7 @@ List<Word> wordsList = [
     enDef:
         'The scar at the site of attachment of the umbilical cord. The navel or belly button.',
     uzDef: 'Kindik bog\'lanish joyidagi chandiq.  Kindik yoki qorin tugmasi.',
-    transcript: '[ ˌəmˈbilikəs ]',
+    transcript: '[ˌəmˈbilikəs ]',
     favorite: false,
   ),
   Word(
@@ -9366,7 +9366,7 @@ List<Word> wordsList = [
     uz: 'Noaniq',
     enDef: 'Having to do with the nails.',
     uzDef: 'Tirnoqlar bilan bog’liq.',
-    transcript: '[ ˈəNGɡ(yə)wəl ]',
+    transcript: '[ˈəNGɡ(yə)wəl ]',
     favorite: false,
   ),
   Word(
@@ -9376,7 +9376,7 @@ List<Word> wordsList = [
         'The buildup in the blood of substances normally eliminated in the urine.',
     uzDef:
         'Odatda siydik bilan chiqariladigan moddalarning qonda to\'planishi.',
-    transcript: '[ yo͝oˈrēmēə ]',
+    transcript: '[yo͝oˈrēmēə ]',
     favorite: false,
   ),
   Word(
@@ -9384,7 +9384,7 @@ List<Word> wordsList = [
     uz: 'Siydik chiqarish kanali',
     enDef: 'A narrow tube that transfers urine from the kidney to the bladder.',
     uzDef: 'Siydikni buyrakdan siydik pufagiga o\'tkazadigan tor naycha.',
-    transcript: '[ ‘yo͝orədər ]',
+    transcript: '[‘yo͝orədər ]',
     favorite: false,
   ),
   Word(
@@ -9392,7 +9392,7 @@ List<Word> wordsList = [
     uz: 'Uretra',
     enDef: 'The tube that allows the bladder to empty outside the body.',
     uzDef: 'Quviqni tanadan tashqarida bo\'shatish imkonini beruvchi naycha.',
-    transcript: '[ yo͝oˈrēTHrə ]',
+    transcript: '[yo͝oˈrēTHrə ]',
     favorite: false,
   ),
   Word(
@@ -9400,7 +9400,7 @@ List<Word> wordsList = [
     uz: 'Uretraning torayishi',
     enDef: 'A narrow area of the urethra that blocks the flow of urine.',
     uzDef: 'Siydik chiqarishni to\'sib qo\'yadigan uretraning tor maydoni.',
-    transcript: '[ yu̇-ˈrē-thrəl  ˈstrik-chər ]',
+    transcript: '[yu̇-ˈrē-thrəl  ˈstrik-chər ]',
     favorite: false,
   ),
   Word(
@@ -9418,7 +9418,7 @@ List<Word> wordsList = [
         'The organ that serves as a temporary storage place for urine. Also called the bladder.',
     uzDef:
         'Siydikni vaqtincha saqlash joyi bo\'lib xizmat qiladigan organ.  Quviq deb ham ataladi.',
-    transcript: '[  ˈyər-ə-ˌner-ē   ˈbla-dər ]',
+    transcript: '[ ˈyər-ə-ˌner-ē   ˈbla-dər ]',
     favorite: false,
   ),
   Word(
@@ -9436,7 +9436,7 @@ List<Word> wordsList = [
     uz: 'Urogenital',
     enDef: 'Having to do with the urinary system and genitals.',
     uzDef: 'Siydik chiqarish tizimi va jinsiy a\'zolar bilan bog\'liq.',
-    transcript: '[ ˌyo͝orōˈjenədl ]',
+    transcript: '[ˌyo͝orōˈjenədl ]',
     favorite: false,
   ),
   Word(
@@ -9446,7 +9446,7 @@ List<Word> wordsList = [
         'The branch of medicine that deals with the urinary system in women and the urogenital system in men.',
     uzDef:
         'Ayollarda siydik chiqarish tizimi va erkaklarda urogenital tizim bilan shug\'ullanadigan tibbiyot sohasi.',
-    transcript: '[ yu̇-ˈrä-lə-jē ]',
+    transcript: '[yu̇-ˈrä-lə-jē ]',
     favorite: false,
   ),
   Word(
@@ -9456,7 +9456,7 @@ List<Word> wordsList = [
         'A hollow muscular organ in women where the ovum (egg) is deposited and the embryo and fetus are developed.',
     uzDef:
         'Tuxum (tuxum) yotqizilgan va embrion va homila rivojlangan ayollardagi ichi bo\'sh mushak organi.',
-    transcript: '[ ˈyo͞odərəs ]',
+    transcript: '[ˈyo͞odərəs ]',
     favorite: false,
   ),
   Word(
@@ -9466,7 +9466,7 @@ List<Word> wordsList = [
         'The fleshy mass hanging down from the soft palate above the back of the tongue.',
     uzDef:
         'Tilning orqa qismidagi yumshoq tanglaydan pastga osilgan go\'shtli massa.',
-    transcript: '[  ˈyü-vyə-lə ]',
+    transcript: '[ ˈyü-vyə-lə ]',
     favorite: false,
   ),
   Word(
@@ -9476,7 +9476,7 @@ List<Word> wordsList = [
         'Inoculation with weakened or dead microorganisms to develop immunity and prevent disease caused by the regular strain of that…',
     uzDef:
         'Immunitetni rivojlantirish va ularning muntazam shtammidan kelib chiqadigan kasallikning oldini olish uchun zaiflashgan yoki o\'lik mikroorganizmlar bilan emlash ...',
-    transcript: '[ ˌvaksəˈnāSH(ə)n ]',
+    transcript: '[ˌvaksəˈnāSH(ə)n ]',
     favorite: false,
   ),
   Word(
@@ -9496,7 +9496,7 @@ List<Word> wordsList = [
         'The muscular canal in women between the vulva and the uterus. It serves as the entry for spermatozoa and as…',
     uzDef:
         'Ayollarda vulva va bachadon o\'rtasidagi mushak kanali.  U spermatozoidlarning kirish joyi bo\'lib xizmat qiladi va ...',
-    transcript: '[ vəˈjīnə ]',
+    transcript: '[vəˈjīnə ]',
     favorite: false,
   ),
   Word(
@@ -9504,7 +9504,7 @@ List<Word> wordsList = [
     uz: 'Vaginizm',
     enDef: 'Painful spasm of the vagina.',
     uzDef: 'Vaginaning og\'riqli spazmi.',
-    transcript: '[ ˌvajəˈnizməs ]',
+    transcript: '[ˌvajəˈnizməs ]',
     favorite: false,
   ),
   Word(
@@ -9522,7 +9522,7 @@ List<Word> wordsList = [
     uz: 'Varikoz tomirlari',
     enDef: 'Swollen, distended veins especially visible in the legs.',
     uzDef: 'Shishgan, kengaygan tomirlar ayniqsa oyoqlarda ko\'rinadi.',
-    transcript: '[ ˈverəˌkōs vāns ]',
+    transcript: '[ˈverəˌkōs vāns ]',
     favorite: false,
   ),
   Word(
@@ -9532,7 +9532,7 @@ List<Word> wordsList = [
         'The duct through which sperm travels from the testicle to the urethra of the penis.',
     uzDef:
         'Spermatozoidlar moyakdan jinsiy olatni uretrasiga o\'tkazadigan kanal.',
-    transcript: '[ ˌvas ˈdefərənz ]',
+    transcript: '[ˌvas ˈdefərənz ]',
     favorite: false,
   ),
   Word(
@@ -9540,7 +9540,7 @@ List<Word> wordsList = [
     uz: 'qon tomir',
     enDef: 'Of or having vessels, particularly the blood vessels.',
     uzDef: 'Tomirlardan, xususan, qon tomirlaridan.',
-    transcript: '[ ˈvaskyələr ]',
+    transcript: '[ˈvaskyələr ]',
     favorite: false,
   ),
   Word(
@@ -9548,7 +9548,7 @@ List<Word> wordsList = [
     uz: 'vaskulit',
     enDef: 'Inflammation of the walls of the small blood vessels.',
     uzDef: 'Kichik qon tomirlari devorlarining yallig\'lanishi.',
-    transcript: '[ ˌvaskyəˈlīdəs ]',
+    transcript: '[ˌvaskyəˈlīdəs ]',
     favorite: false,
   ),
   Word(
@@ -9558,7 +9558,7 @@ List<Word> wordsList = [
         'Surgical removal or tying of the vas deferens to prevent the passing of sperm. Used as a form of birth control.',
     uzDef:
         'Spermatozoidlarning o\'tishini oldini olish uchun vas deferensni jarrohlik yo\'li bilan olib tashlash yoki bog\'lash.  Tug\'ilish shakli sifatida ishlatiladi ...',
-    transcript: '[ vəˈsektəmē ]',
+    transcript: '[vəˈsektəmē ]',
     favorite: false,
   ),
   Word(
@@ -9595,7 +9595,7 @@ List<Word> wordsList = [
     enDef:
         'A vessel that carries blood from the various parts of the body to the heart.',
     uzDef: 'Tananing turli qismlaridan yurakka qon olib boradigan tomir.',
-    transcript: '[ vān ]',
+    transcript: '[vān ]',
     favorite: false,
   ),
   Word(

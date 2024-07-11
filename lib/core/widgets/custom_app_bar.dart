@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
+import 'package:share_plus/share_plus.dart';
 
 import '../../features/word/bloc/word_bloc.dart';
 import '../../features/word/models/word.dart';
@@ -40,17 +41,32 @@ class CustomAppBar extends StatelessWidget {
                   )
                 : null,
           ),
-          const Spacer(),
-          Text(
-            title,
-            style: const TextStyle(
-              color: AppColors.white,
-              fontSize: 24,
-              fontWeight: FontWeight.w700,
-              fontFamily: 'BarlowB',
+          Expanded(
+            child: Center(
+              child: Text(
+                word != null ? '' : title,
+                style: const TextStyle(
+                  color: AppColors.white,
+                  fontSize: 22,
+                  fontWeight: FontWeight.w600,
+                  fontFamily: 'Barlow',
+                ),
+              ),
             ),
           ),
-          const Spacer(),
+          // const Spacer(),
+          word != null
+              ? CupertinoButton(
+                  onPressed: () {
+                    Share.share(word!.en);
+                  },
+                  padding: EdgeInsets.zero,
+                  child: const Icon(
+                    Icons.share,
+                    color: Colors.white,
+                  ),
+                )
+              : Container(),
           BlocBuilder<WordBloc, WordState>(
             builder: (context, state) {
               return SizedBox(
@@ -62,6 +78,7 @@ class CustomAppBar extends StatelessWidget {
                               .read<WordBloc>()
                               .add(AddFavoriteEvent(word: word!));
                         },
+                        padding: EdgeInsets.zero,
                         child: Icon(
                           word!.favorite
                               ? Icons.favorite
