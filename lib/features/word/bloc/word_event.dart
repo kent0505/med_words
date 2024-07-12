@@ -20,3 +20,5 @@ class AddLastWordEvent extends WordEvent {
   final Word word;
   AddLastWordEvent({required this.word});
 }
+
+class ReloadWordsEvent extends WordEvent {}

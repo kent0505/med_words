@@ -28,16 +28,25 @@ class HomePage extends StatelessWidget {
             padding: EdgeInsets.only(
               top: MediaQuery.of(context).viewPadding.top,
             ),
-            child: BlocBuilder<HomeBloc, HomeState>(
-              builder: (context, state) {
-                if (state is HomeFavorite) return const FavoritesPage();
-
-                if (state is HomeRecent) return const RecentPage();
-
-                if (state is HomeSettings) return const SettingsPage();
-
-                return const _Home();
+            child: BlocListener<HomeBloc, HomeState>(
+              listener: (context, state) {
+                if (state is HomeFavorite ||
+                    state is HomeRecent ||
+                    state is HomeSettings) {
+                  context.read<WordBloc>().add(ReloadWordsEvent());
+                }
               },
+              child: BlocBuilder<HomeBloc, HomeState>(
+                builder: (context, state) {
+                  if (state is HomeFavorite) return const FavoritesPage();
+
+                  if (state is HomeRecent) return const RecentPage();
+
+                  if (state is HomeSettings) return const SettingsPage();
+
+                  return const _Home();
+                },
+              ),
             ),
           ),
           const NavBar(),
@@ -56,12 +65,6 @@ class _Home extends StatefulWidget {
 
 class _HomeState extends State<_Home> {
   final controller = TextEditingController();
-
-  @override
-  void initState() {
-    super.initState();
-    // context.read<WordBloc>().add(GetWordsEvent());
-  }
 
   @override
   void dispose() {

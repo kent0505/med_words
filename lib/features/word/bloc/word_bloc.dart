@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../models/word.dart';
@@ -12,6 +14,7 @@ class WordBloc extends Bloc<WordEvent, WordState> {
 
   WordBloc() : super(WordInitial()) {
     on<GetWordsEvent>((event, emit) async {
+      log('GetWordsEvent');
       _words = await _service.getWords();
       emit(WordsLoadedState(words: _words));
     });
@@ -27,6 +30,7 @@ class WordBloc extends Bloc<WordEvent, WordState> {
     });
 
     on<SearchWordEvent>((event, emit) async {
+      log('SearchWordEvent');
       List<Word> suggestionList = event.text.isEmpty
           ? _service.words
           : _service.words.where((item) {
@@ -55,6 +59,11 @@ class WordBloc extends Bloc<WordEvent, WordState> {
       }
       _service.lastwords = newLastWords;
       await _service.updateLastWords();
+    });
+
+    on<ReloadWordsEvent>((event, emit) {
+      log('ReloadWordsEvent');
+      emit(WordsLoadedState(words: _words));
     });
   }
 }

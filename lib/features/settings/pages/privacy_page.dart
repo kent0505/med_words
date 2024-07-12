@@ -97,7 +97,7 @@ class PrivacyPage extends StatelessWidget {
                   'We reserve the right to modify these Terms and Conditions at any time. We will notify you of any changes by posting the new Terms and Conditions on this page. Your continued use of the app after any such changes constitutes your acceptance of the new Terms and Conditions.',
                   style: TextStyle(
                     color: Colors.black,
-                    fontSize: 14,
+                    fontSize: 12,
                     fontWeight: FontWeight.w500,
                     fontFamily: 'BarlowM',
                   ),
