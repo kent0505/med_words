@@ -83,7 +83,9 @@ class CustomAppBar extends StatelessWidget {
                           word!.favorite
                               ? Icons.favorite
                               : Icons.favorite_outline,
-                          color: AppColors.white,
+                          color: word!.favorite
+                              ? Colors.redAccent
+                              : AppColors.white,
                         ),
                       )
                     : null,
