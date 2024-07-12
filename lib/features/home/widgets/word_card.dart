@@ -44,6 +44,23 @@ class WordCard extends StatelessWidget {
                 fontFamily: 'BarlowI',
               ),
             ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Container(
+                alignment: Alignment.centerRight,
+                child: Text(
+                  word.uz,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(
+                    color: Colors.black,
+                    fontSize: 12,
+                    fontFamily: 'BarlowI',
+                  ),
+                ),
+              ),
+            ),
+            const SizedBox(width: 16),
           ],
         ),
       ),

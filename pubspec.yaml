@@ -37,3 +37,6 @@ flutter:
     - family: BarlowI
       fonts:
         - asset: assets/fonts/Barlow-Italic.ttf
+    - family: Doulos
+      fonts:
+        - asset: assets/fonts/DoulosSILR.ttf

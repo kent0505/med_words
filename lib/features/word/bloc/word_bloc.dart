@@ -30,7 +30,8 @@ class WordBloc extends Bloc<WordEvent, WordState> {
       List<Word> suggestionList = event.text.isEmpty
           ? _service.words
           : _service.words.where((item) {
-              return item.en.toLowerCase().contains(event.text.toLowerCase());
+              return item.en.toLowerCase().contains(event.text.toLowerCase()) ||
+                  item.uz.toLowerCase().contains(event.text.toLowerCase());
             }).toList();
       emit(WordsLoadedState(words: suggestionList));
     });

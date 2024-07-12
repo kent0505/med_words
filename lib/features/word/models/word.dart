@@ -58,7 +58,7 @@ List<Word> wordsList = [
     uz: 'Qorin',
     enDef: 'The part of the body between the chest and pelvis.',
     uzDef: 'Tananing ko\'krak va tos suyagi orasidagi qismi.',
-    transcript: '[ə\'bænd(ə)n]',
+    transcript: '[ˈæbdəmən]',
     favorite: false,
   ),
   Word(
@@ -137,7 +137,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Acne (n)',
-    uz: 'husnbuzar, bo\'jama',
+    uz: 'Husnbuzar, bo\'jama',
     enDef: 'A skin disorder usually found in adolescents and young adults.',
     uzDef: 'Teri kasalligi odatda o\'smirlar va yoshlarda uchraydi.',
     transcript: '[\'akni ]',
@@ -163,7 +163,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Actinic keratosis (n)',
-    uz: 'aktinik keratoz',
+    uz: 'Aktinik keratoz',
     enDef:
         'Scaly, pink, gray or tan patches or bumps on the face or scalp, or on the back of the hands…',
     uzDef:
@@ -212,7 +212,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adenitis (n)',
-    uz: 'adenit',
+    uz: 'Adenit',
     enDef: 'Swelling of a gland.',
     uzDef: 'Bezning shishishi.',
     transcript: '[ædəˈnaɪtɪs]',
@@ -220,7 +220,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adenoids (n)',
-    uz: 'adenoidlar',
+    uz: 'Adenoidlar',
     enDef:
         'Glandular tissue in the back of the throat that may swell, especially during childhood, obstruct breathing and speaking, and lead…',
     uzDef:
@@ -230,7 +230,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adenoma (n)',
-    uz: 'adenoma',
+    uz: 'Adenoma',
     enDef: 'A noncancerous tumor of glandular tissue.',
     uzDef: 'Glandular to\'qimalarning saratonsiz o\'smasi.',
     transcript: '[ædɪˈnəʊmə]',
@@ -238,7 +238,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adenovirus (n)',
-    uz: 'adenovirus',
+    uz: 'Adenovirus',
     enDef: 'One of the viruses that cause the common cold.',
     uzDef: 'Umumiy sovuqni keltirib chiqaradigan viruslardan biri.',
     transcript: '[ædɪ.nəʊvaɪərəs]',
@@ -256,7 +256,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adhesion (n)',
-    uz: 'yopishqoqlik',
+    uz: 'Yopishqoqlik',
     enDef:
         'The sticking of one surface to another. This can occur when scar tissue causes organs or loops of intestine to…',
     uzDef:
@@ -266,7 +266,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adipose fatty cells (n)',
-    uz: 'yog\'li yog \'hujayralari',
+    uz: 'Yog\'li yog \'hujayralari',
     enDef:
         'Special cells in which fat is stored when a person’s caloric intake is greater than that required by one’s…',
     uzDef:
@@ -276,7 +276,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adrenal glands (n)',
-    uz: 'buyrak usti bezlari',
+    uz: 'Buyrak usti bezlari',
     enDef:
         'Located on top of the kidneys, these glands produce hormones helpful in regulating the body’s metabolism.',
     uzDef:
@@ -286,7 +286,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Adrenaline (n)',
-    uz: 'adrenalin',
+    uz: 'Adrenalin',
     enDef:
         'Epinephrine. One of several hormones produced by the adrenal glands.',
     uzDef:
@@ -296,7 +296,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aerobic (adj)',
-    uz: 'aerobik',
+    uz: 'Aerobik',
     enDef:
         'Requiring the use of oxygen. Exercise that conditions the heart and lungs by increasing the efficiency of oxygen intake by…',
     uzDef:
@@ -306,7 +306,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Afterbirth (n)',
-    uz: 'tug\'ilgandan keyin',
+    uz: 'Tug\'ilgandan keyin',
     enDef:
         'The placenta, which is attached to the fetus by the umbilical cord and must be delivered after the baby.',
     uzDef:
@@ -326,7 +326,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Airway (n)',
-    uz: 'havo yo\'li',
+    uz: 'Havo yo\'li',
     enDef: 'The passage by which air enters and exits the lungs.',
     uzDef: 'Havoning o\'pkaga kirish va chiqish yo\'li.',
     transcript: '[ˈɛrweɪ]',
@@ -334,7 +334,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Albinism (n)',
-    uz: 'albinizm',
+    uz: 'Albinizm',
     enDef:
         'The absence of all normal body pigmentation at birth, a condition that can occur in all races.',
     uzDef:
@@ -344,7 +344,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Albino (n)',
-    uz: 'albinos',
+    uz: 'Albinos',
     enDef: 'A person with albinism.',
     uzDef: 'Albinizm bilan kasallangan odam.',
     transcript: '[ælˈbiːnoʊ]',
@@ -352,7 +352,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Albumin (n)',
-    uz: 'albumin',
+    uz: 'Albumin',
     enDef:
         'A water-soluble protein found in milk, egg, muscle, blood and many vegetable tissues and fluids.',
     uzDef:
@@ -362,7 +362,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aldosteronism (n)',
-    uz: 'aldosteronizm',
+    uz: 'Aldosteronizm',
     enDef:
         'A condition resulting when the adrenal glands produce too much of the hormone aldosterone, which regulates fluids and salt in…',
     uzDef:
@@ -372,7 +372,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Alimentary (adj)',
-    uz: 'ovqat hazm qilish',
+    uz: 'Ovqat hazm qilish',
     enDef:
         'Having to do with food or nutrition. The alimentary tract is the digestive tract.',
     uzDef:
@@ -382,7 +382,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Allergen (n)',
-    uz: 'allergen',
+    uz: 'Allergen',
     enDef: 'A substance capable of producing an allergic reaction.',
     uzDef: 'Allergiya reaktsiyasini keltirib chiqarishga qodir modda.',
     transcript: '[ˈælərdʒən]',
@@ -390,7 +390,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Allergy (n)',
-    uz: 'allergiya',
+    uz: 'Allergiya',
     enDef: 'An exaggerated immune response to substances in the environment.',
     uzDef: 'Atrof-muhitdagi moddalarga bo\'rttirilgan immunitet reaktsiyasi.',
     transcript: '[ælərdʒi]',
@@ -398,7 +398,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Alopecia (n)',
-    uz: 'alopesiya',
+    uz: 'Alopesiya',
     enDef: 'Hair loss, especially of the head.',
     uzDef: 'Soch to\'kilishi, ayniqsa boshning.',
     transcript: '[æləˈpiːʃiə]',
@@ -406,7 +406,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Alpha1-antitrypsin deficiency (n)',
-    uz: 'alfa1-antitripsin yetishmovchiligi',
+    uz: 'Alfa1-antitripsin yetishmovchiligi',
     enDef:
         'Congenital lack of an enzyme that leads to cirrhosis of the liver and obstructive lung disease.',
     uzDef:
@@ -416,7 +416,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Altitude sickness (n)',
-    uz: 'balandlik kasalligi',
+    uz: 'Balandlik kasalligi',
     enDef:
         'A potentially fatal illness caused by being at altitudes high enough to reduce the amount of oxygen available to the…',
     uzDef:
@@ -426,7 +426,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Alveoli (n)',
-    uz: 'alveolalar',
+    uz: 'Alveolalar',
     enDef:
         'The sacs in the lungs at the ends of the smallest airways where oxygen is exchanged for carbon dioxide in…',
     uzDef:
@@ -436,7 +436,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Amblyopia (n)',
-    uz: 'ambliyopiya',
+    uz: 'Ambliyopiya',
     enDef: 'Impaired vision without an apparent cause.',
     uzDef: 'Aniq sababsiz ko\'rishning buzilishi.',
     transcript: '[æmblɪˈoʊpiə]',
@@ -444,7 +444,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ambulatory (adj)',
-    uz: 'ambulatoriya',
+    uz: 'Ambulatoriya',
     enDef: 'Able to walk. Not confined to bed.',
     uzDef: 'Yurishga qodir. To\'shak bilan chegaralanmagan.',
     transcript: '[æmˈbjʊlətɔri]',
@@ -452,7 +452,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Amenorrhea (n)',
-    uz: 'amenoreya',
+    uz: 'Amenoreya',
     enDef: 'Absence of menstrual periods.',
     uzDef: 'Menstrüel davrlarning yo\'qligi.',
     transcript: '[eɪˌmɛnəˈriːə]',
@@ -460,7 +460,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Amnesia (n)',
-    uz: 'amneziya',
+    uz: 'Amneziya',
     enDef:
         'Partial or total loss of memory, usually as the result of psychological trauma or stress, or physical damage to the…',
     uzDef:
@@ -470,7 +470,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Amnion (n)',
-    uz: 'amnion',
+    uz: 'Amnion',
     enDef:
         'The membrane enclosing a developing fetus; it’s filled with a protective liquid called amniotic fluid.',
     uzDef:
@@ -480,7 +480,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Amputation (n)',
-    uz: 'amputatsiya',
+    uz: 'Amputatsiya',
     enDef:
         'The surgical removal of a limb or other appendage because of damage by trauma or as a treatment for a…',
     uzDef:
@@ -490,7 +490,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anaerobic exercise (n)',
-    uz: 'anaerob mashqlar',
+    uz: 'Anaerob mashqlar',
     enDef:
         'Brief, intense exercise that leads to an oxygen debt in a certain area of tissue. Weight lifting is an…',
     uzDef:
@@ -500,7 +500,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anaphylaxis (n)',
-    uz: 'anafilaksi',
+    uz: 'Anafilaksi',
     enDef:
         'The most severe form of allergy, in which the person’s heart and lungs are unable to keep working, and death…',
     uzDef:
@@ -510,7 +510,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Androgen (n)',
-    uz: 'androgen',
+    uz: 'Androgen',
     enDef:
         'Any substance that produces male characteristics. Testosterone and androsterone are natural androgens.',
     uzDef:
@@ -520,7 +520,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anemia (n)',
-    uz: 'anemiya',
+    uz: 'Anemiya',
     enDef:
         'A decreased ability of the blood to carry oxygen because of a reduction in either the number or quality of…',
     uzDef:
@@ -530,7 +530,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anesthesia (n)',
-    uz: 'behushlik',
+    uz: 'Behushlik',
     enDef: 'Drug-induced loss of feeling or sensation.',
     uzDef: 'Giyohvand moddalar bilan bog\'liq his-tuyg\'ularni yo\'qotish.',
     transcript: '[ænəsˈθiʒiə]',
@@ -538,7 +538,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anesthetic (n)',
-    uz: 'anestetik',
+    uz: 'Anestetik',
     enDef: 'An agent used to produce anesthesia.',
     uzDef: 'Anesteziya ishlab chiqarish uchun ishlatiladigan vosita.',
     transcript: '[ænəsˈθɛtɪk]',
@@ -546,7 +546,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aneurysm (n)',
-    uz: 'anevrizma',
+    uz: 'Anevrizma',
     enDef:
         'A thin sac caused by a weakened area in the walls of blood vessels or the heart. As an aneurysm…',
     uzDef:
@@ -556,7 +556,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Angina pectoris (n)',
-    uz: 'angina pektoris',
+    uz: 'Angina pektoris',
     enDef:
         'Chest pain caused by decreased oxygen delivery to the heart muscle.',
     uzDef:
@@ -566,7 +566,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Angioma (n)',
-    uz: 'angioma',
+    uz: 'Angioma',
     enDef: 'A noncancerous tumor made up of many blood vessels.',
     uzDef: 'Ko\'p qon tomirlaridan tashkil topgan saratonsiz o\'simta.',
     transcript: '[ændʒiˈoʊmə]',
@@ -574,7 +574,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anhidrosis (n)',
-    uz: 'anhidroz',
+    uz: 'Anhidroz',
     enDef:
         'Absence of sweating. An inability to sweat greatly interferes with the body’s ability to control its internal temperature.',
     uzDef:
@@ -584,7 +584,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ankylosis (n)',
-    uz: 'ankiloz',
+    uz: 'Ankiloz',
     enDef: 'Abnormal stiffening of a joint.',
     uzDef: 'Qo\'shimchaning g\'ayritabiiy qattiqlashishi.',
     transcript: '[æŋkəˈloʊsɪs]',
@@ -592,7 +592,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anomaly (n)',
-    uz: 'anomaliya',
+    uz: 'Anomaliya',
     enDef: 'Deviation from normal.',
     uzDef: 'Oddiydan chetga chiqish.',
     transcript: '[əˈnɒməli]',
@@ -600,7 +600,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anaphylaxis (n)',
-    uz: 'anorxizm',
+    uz: 'Anorxizm',
     enDef: 'Congenital absence of both testes.',
     uzDef: 'Ikkala moyakning tug\'ma yo\'qligi.',
     transcript: '[ænˈɔrkɪzəm]',
@@ -608,7 +608,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anorexia nervosa (n)',
-    uz: 'anoreksiya nervoza',
+    uz: 'Anoreksiya nervoza',
     enDef:
         'An eating disorder manifested primarily by a loss of desire or willingness to eat for a variety of psychological…',
     uzDef:
@@ -618,7 +618,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anosmia (n)',
-    uz: 'anosmiya',
+    uz: 'Anosmiya',
     enDef: 'Loss of the sense of smell.',
     uzDef: 'Hid hissini yo\'qotish.',
     transcript: '[ænˈɒzmiə]',
@@ -626,7 +626,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Antepartum (adj)',
-    uz: 'antepartum',
+    uz: 'Antepartum',
     enDef: 'Occurring before delivery of a baby.',
     uzDef: 'Bola tug\'ilishidan oldin sodir bo\'ladi.',
     transcript: '[æntiˈpɑrtəm]',
@@ -634,7 +634,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Antibody (n)',
-    uz: 'antikor',
+    uz: 'Antikor',
     enDef:
         'A protein produced by the body to neutralize an invading foreign agent or antigen, such as a virus.',
     uzDef:
@@ -644,7 +644,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Antidote (n)',
-    uz: 'antidot',
+    uz: 'Antidot',
     enDef: 'An agent used to counteract a poison.',
     uzDef: 'Zaharga qarshi kurashda ishlatiladigan vosita.',
     transcript: '[ˈæntidot]',
@@ -652,7 +652,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Antigen (n)',
-    uz: 'antigen',
+    uz: 'Antigen',
     enDef:
         'A foreign agent capable of starting an immune response or causing the body to produce antibodies.',
     uzDef:
@@ -662,7 +662,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Antiserum (n)',
-    uz: 'antiserum',
+    uz: 'Antiserum',
     enDef:
         'A serum that contains antibodies. Serum from a person or animal with immunity to a certain disease can, in some…',
     uzDef:
@@ -672,7 +672,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anus (n)',
-    uz: 'anus',
+    uz: 'Anus',
     enDef: 'The opening of the rectum.',
     uzDef: 'To\'g\'ri ichakning ochilishi.',
     transcript: '[ˈeɪnəs]',
@@ -680,7 +680,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Anxiety (n)',
-    uz: 'tashvish',
+    uz: 'Tashvish',
     enDef: 'A feeling of nervousness, uneasiness, apprehension or dread.',
     uzDef: 'Asabiylashish, bezovtalik, qo\'rquv yoki qo\'rquv hissi.',
     transcript: '[æŋˈzaɪəti]',
@@ -688,7 +688,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aorta (n)',
-    uz: 'aorta',
+    uz: 'Aorta',
     enDef:
         'The large artery that carries blood from the heart to the rest of the body.',
     uzDef:
@@ -698,7 +698,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Apathy (n)',
-    uz: 'befarqlik',
+    uz: 'Befarqlik',
     enDef: 'Lack of emotions.',
     uzDef: 'Hissiyotlarning etishmasligi.',
     transcript: '[ˈæpəθi]',
@@ -716,7 +716,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aphagia (n)',
-    uz: 'afagiya',
+    uz: 'Afagiya',
     enDef: 'Inability to swallow.',
     uzDef: 'Yuta olmaslik.',
     transcript: '[əˈfeɪdʒiə]',
@@ -724,7 +724,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aphasia (n)',
-    uz: 'afazi',
+    uz: 'Afazi',
     enDef: 'A partial or total loss of the power to use or understand words.',
     uzDef:
         'So\'zlarni ishlatish yoki tushunish qobiliyatining qisman yoki to\'liq yo\'qolishi.',
@@ -733,7 +733,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aphthous ulcers (n)',
-    uz: 'aft yaralari',
+    uz: 'Aft yaralari',
     enDef: 'A painful sore in the mouth. Also called a canker sore.',
     uzDef: 'Og\'izda og\'riqli yara. Bundan tashqari, saraton yarasi deyiladi.',
     transcript: '[ˈæfθəs ˈʌlsərz]',
@@ -741,15 +741,15 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Apnea (n)',
-    uz: 'apnea',
+    uz: 'Apnea',
     enDef: 'Temporary pause in breathing.',
     uzDef: 'Nafas olishda vaqtinchalik pauza.',
     transcript: '[æpˈniə]',
     favorite: false,
   ),
   Word(
-    en: 'appendectomy antibody (n)',
-    uz: 'appendektomiya antikor antikorantikor',
+    en: 'Appendectomy antibody (n)',
+    uz: 'Appendektomiya antikor antikorantikor',
     enDef: 'Surgical removal of the appendix.',
     uzDef: 'Yo\'g\'on ochishning jarrohlik olib tashlanishi.',
     transcript: '[ˌæpɛndɛkˈtɔmi æn.tiˌbɒd.i ]',
@@ -757,7 +757,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Appendix (n)',
-    uz: 'ilova',
+    uz: 'Ilova',
     enDef:
         'A finger-like appendage near the junction of the large intestine and the small intestine.',
     uzDef:
@@ -767,7 +767,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Areola (n)',
-    uz: 'areola',
+    uz: 'Areola',
     enDef: 'The dark area of the breast surrounding the nipple.',
     uzDef: 'Ko\'krakning nipelni o\'rab turgan qorong\'u maydoni.',
     transcript: '[əriːˈoʊlə]',
@@ -775,7 +775,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Arteriosclerosis (n)',
-    uz: 'ateroskleroz',
+    uz: 'Ateroskleroz',
     enDef:
         'Commonly called “hardening of the arteries.” An abnormal thickening and loss of elasticity of the wall of the arteries.',
     uzDef:
@@ -785,7 +785,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Arteriovenous malformation (n)',
-    uz: 'arteriovenoz malformatsiya',
+    uz: 'Arteriovenoz malformatsiya',
     enDef:
         'Abnormal group of dilated blood vessels, most often occurring in the brain.',
     uzDef:
@@ -795,7 +795,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Artery (n)',
-    uz: 'arteriya',
+    uz: 'Arteriya',
     enDef:
         'A vessel that carries blood away from the heart to various parts of the body.',
     uzDef: 'Qonni yurakdan tananing turli qismlariga olib boradigan tomir.',
@@ -804,7 +804,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Arthralgia (n)',
-    uz: 'artralgiya',
+    uz: 'Artralgiya',
     enDef: 'Pain in a joint.',
     uzDef: 'Qo\'shimchadagi og\'riq.',
     transcript: '[ɑːˈθɹæl.dʒi.ə]',
@@ -812,7 +812,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Arthritis (n)',
-    uz: 'artrit',
+    uz: 'Artrit',
     enDef: 'Inflammation of a joint.',
     uzDef: 'Qo\'shimchaning yallig\'lanishi.',
     transcript: '[ɑːˈθraɪ.tɪs]',
@@ -820,7 +820,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Asbestos (n)',
-    uz: 'asbest',
+    uz: 'Asbest',
     enDef:
         'A fibrous material used to make fireproof materials, electrical insulation, roofing and filters. Asbestos has been linked to a type…',
     uzDef:
@@ -830,7 +830,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ascites (n)',
-    uz: 'astsitlar',
+    uz: 'Astsitlar',
     enDef: 'Abnormal buildup of fluid in the abdomen that causes distention.',
     uzDef:
         'Qorin bo\'shlig\'ida g\'ayritabiiy suyuqlik to\'planishi, bu esa distansiyani keltirib chiqaradi.',
@@ -839,7 +839,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ascorbic acid (n)',
-    uz: 'askorbin kislotasi',
+    uz: 'Askorbin kislotasi',
     enDef: 'Vitamin C.',
     uzDef: 'S vitamini.',
     transcript: '[əˌskɔː.bɪk ˈæs.ɪd]',
@@ -847,7 +847,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Asthma (n)',
-    uz: 'astma',
+    uz: 'Astma',
     enDef:
         'A chronic disorder characterized by shortness of breath, wheezing, coughing and tightness of the chest.',
     uzDef:
@@ -857,7 +857,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Astigmatism (n)',
-    uz: 'astigmatizm',
+    uz: 'Astigmatizm',
     enDef:
         'An irregularity in the curvature of the lens of the eye, resulting in a blurry or distorted image.',
     uzDef:
@@ -867,7 +867,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Atelectasis (n)',
-    uz: 'atelektaz',
+    uz: 'Atelektaz',
     enDef:
         'Collapsed lung. May occur following surgery or after a rib fracture.',
     uzDef:
@@ -877,7 +877,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Atherosclerosis (n)',
-    uz: 'ateroskleroz',
+    uz: 'Ateroskleroz',
     enDef:
         'A form of arteriosclerosis caused by fatty deposits in the arteries.',
     uzDef:
@@ -887,7 +887,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Athlete\'s foot (n)',
-    uz: 'sportchi oyog\'i',
+    uz: 'Aportchi oyog\'i',
     enDef: 'A fungal infection of the skin of the feet.',
     uzDef: 'Oyoq terisining qo\'ziqorin infektsiyasi.',
     transcript: '[ˌæθ.liːts ˈfʊt]',
@@ -895,7 +895,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Atopy (n)',
-    uz: 'atopiya',
+    uz: 'Atopiya',
     enDef:
         'A predisposition to allergy that’s inherited from parents. Included disorders are asthma, hay fever and eczema.',
     uzDef:
@@ -905,7 +905,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Atria (n)',
-    uz: 'atriya',
+    uz: 'Atriya',
     enDef:
         'The upper chambers of the heart that receive blood from the veins and pass it to the lower chambers of the heart.',
     uzDef:
@@ -915,7 +915,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Atrophy (n)',
-    uz: 'atrofiya',
+    uz: 'Atrofiya',
     enDef: 'A decrease in the normal size of an organ. Wasting away.',
     uzDef: 'Organning normal hajmining pasayishi. Isrof qilish.',
     transcript: '[ˈæt.ɹə.fi]',
@@ -923,7 +923,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Aura (n)',
-    uz: 'aura',
+    uz: 'Aura',
     enDef:
         'A peculiar sensation that occurs before other symptoms. An example is the sensation of flashing lights before a migraine...',
     uzDef:
@@ -933,7 +933,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Autoimmune disease (n)',
-    uz: 'otoimmün kasallik',
+    uz: 'Otoimmün kasallik',
     enDef: 'A condition in which antibodies form against one’s own cells.',
     uzDef: 'O\'z hujayralariga qarshi antikorlar paydo bo\'ladigan holat.',
     transcript: '[ɔː.təʊ.ɪˈmjuːn dɪˌziːz]',
@@ -941,7 +941,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Autotransfusion (n)',
-    uz: 'avtotransfüzyon',
+    uz: 'Avtotransfüzyon',
     enDef: 'A transfusion using the patient’s own blood.',
     uzDef: 'Bemorning o\'z qoni yordamida qon quyish.',
     transcript: '[ˈɔː.təʊ trænsˈfjuː.ʒən]',
@@ -949,7 +949,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Axilla (n)',
-    uz: 'aksilla',
+    uz: 'Aksilla',
     enDef: 'The armpit.',
     uzDef: 'Qo\'ltiq.',
     transcript: '[ækˈsɪl.ə]',
@@ -957,7 +957,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bacteremia (n)',
-    uz: 'bakteriemiya',
+    uz: 'Bakteriemiya',
     enDef: 'The presence of bacteria in the blood.',
     uzDef: 'Qonda bakteriyalar mavjudligi.',
     transcript: '[bæk təˈ rimiə]',
@@ -965,7 +965,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bacteria (n)',
-    uz: 'bakteriyalar',
+    uz: 'Bakteriyalar',
     enDef:
         'Single-celled microorganisms with one of three basic shapes: rod-like (bacilli), spherical (cocci) and spiral (spirilla).',
     uzDef:
@@ -975,7 +975,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bacteriuria (n)',
-    uz: 'bakteriuriya',
+    uz: 'Bakteriuriya',
     enDef: 'The presence of bacteria in the urine.',
     uzDef: 'Siydikda bakteriyalar mavjudligi.',
     transcript: '[bak tuh roor ee-uh]',
@@ -993,7 +993,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ballism (n)',
-    uz: 'ballizm',
+    uz: 'Ballizm',
     enDef: 'Quick, jerking movements that occur in people with chorea.',
     uzDef: 'Xoreya bilan og\'rigan odamlarda tez, chayqaladigan harakatlar.',
     transcript: '[bal iz-uh m]',
@@ -1001,7 +1001,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Barium (n)',
-    uz: 'bariy',
+    uz: 'Bariy',
     enDef:
         'A chalky substance used in x-ray studies of the digestive tract to highlight abnormalities.',
     uzDef:
@@ -1011,7 +1011,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Barotrauma (n)',
-    uz: 'barotravma',
+    uz: 'Barotravma',
     enDef:
         'Injury caused by pressure differences between the atmosphere and the air-filled spaces in the body.',
     uzDef:
@@ -1040,7 +1040,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bedsore (n)',
-    uz: 'yotoq og\'rig\'i',
+    uz: 'Yotoq og\'rig\'i',
     enDef:
         'An ulcer caused by chafing or by the pressure of the body against the bed.',
     uzDef: 'Ishqalanish yoki tananing yotoqqa bosimidan kelib chiqqan yara.',
@@ -1059,7 +1059,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bends (n)',
-    uz: 'egiladilar',
+    uz: 'Egiladilar',
     enDef:
         'A condition that results from rapidly decreasing atmospheric pressure on the body. Symptoms include joint pain, chest pain, shortness of...',
     uzDef:
@@ -1069,7 +1069,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Benign (adj)',
-    uz: 'yaxshi xulqli',
+    uz: 'Yaxshi xulqli',
     enDef: 'A nonlife-threatening condition. Not malignant. Not cancerous.',
     uzDef: 'Hayot uchun xavfli bo\'lmagan holat. Xatarli emas. Saraton emas.',
     transcript: '[bɪˈnaɪn]',
@@ -1077,7 +1077,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Benign familial tremor (n)',
-    uz: 'yaxshi oilaviy tremor',
+    uz: 'Yaxshi oilaviy tremor',
     enDef:
         'An inherited disorder that causes a slow tremor in the hands, head and voice. It may affect only one side...',
     uzDef:
@@ -1087,7 +1087,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Beriberi (n)',
-    uz: 'beriberi',
+    uz: 'Beriberi',
     enDef:
         'A deficiency disease caused by dietary insufficiency of vitamin B1 (thiamine). Symptoms include general weakness and painful rigidity.',
     uzDef:
@@ -1097,7 +1097,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Biceps (n)',
-    uz: 'biceps',
+    uz: 'Biceps',
     enDef:
         'A muscle having two heads. The most familiar is the large muscle in the front of the upper arm responsible...',
     uzDef:
@@ -1107,7 +1107,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bicuspid (n)',
-    uz: 'ikki tomonlama',
+    uz: 'Ikki tomonlama',
     enDef: 'A tooth named for the two-pointed projections on the crown.',
     uzDef: 'Tojdagi ikki burchakli proektsiyalar uchun nomlangan tish.',
     transcript: '[baɪˈkʌs.pɪd]',
@@ -1115,7 +1115,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bifocals (n)',
-    uz: 'bifokallar',
+    uz: 'Bifokallar',
     enDef:
         'Eyeglasses with divided lenses. The two parts of each lens have different strengths, allowing the wearer to focus the eye...',
     uzDef:
@@ -1125,7 +1125,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bile (n)',
-    uz: 'safro',
+    uz: 'Safro',
     enDef:
         'A clear yellow fluid produced by the liver and stored in the gallbladder. Aids in digestion.',
     uzDef:
@@ -1135,7 +1135,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bilirubin (n)',
-    uz: 'bilirubin',
+    uz: 'Bilirubin',
     enDef:
         'A pigment produced in the liver by the breakdown of hemoglobin from old red blood cells. Bilirubin is normally eliminated…',
     uzDef:
@@ -1145,7 +1145,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Binocular vision (n)',
-    uz: 'binokulyar ko\'rish',
+    uz: 'Binokulyar ko\'rish',
     enDef:
         'Using both eyes at the same time. Binocular vision is the most important element of depth perception.',
     uzDef:
@@ -1155,7 +1155,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Biopsy (n)',
-    uz: 'biopsiya',
+    uz: 'Biopsiya',
     enDef:
         'Removal and exam of a tissue sample taken from a living body. This procedure helps determine if the tissue is…',
     uzDef:
@@ -1165,7 +1165,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bipolar affective disorder (n)',
-    uz: 'bipolyar affektiv buzilish',
+    uz: 'Bipolyar affektiv buzilish',
     enDef:
         'A psychiatric disorder in which the affected person has both depressed and happy, energetic (manic) episodes. This is a newer…',
     uzDef:
@@ -1175,7 +1175,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Blackhead (n)',
-    uz: 'qora nuqta',
+    uz: 'Qora nuqta',
     enDef:
         'A dark-topped plug of fatty material in the opening of a hair follicle. The color is the result of exposure…',
     uzDef:
@@ -1185,7 +1185,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Blackout (n)',
-    uz: 'qorayish',
+    uz: 'Qorayish',
     enDef:
         '1. Short-term loss of vision and consciousness. 2. In an alcoholic person, loss of memory for a period of…',
     uzDef:
@@ -1195,7 +1195,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bladder (n)',
-    uz: 'siydik pufagi',
+    uz: 'Siydik pufagi',
     enDef:
         'The organ that temporarily stores a substance. Commonly used in reference to the urinary bladder, which holds urine until it’s…',
     uzDef:
@@ -1205,7 +1205,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Blepharitis (n)',
-    uz: 'blefarit',
+    uz: 'Blefarit',
     enDef: 'Inflammation of the eyelid.',
     uzDef: 'Ko\'z qovog\'ining yallig\'lanishi.',
     transcript: '[blɛfəɹˈaɪtɪs]',
@@ -1213,7 +1213,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bronchi (n)',
-    uz: 'bronxlar',
+    uz: 'Bronxlar',
     enDef:
         'The tubular passages, also called bronchial tubes, that carry air into the lungs.',
     uzDef:
@@ -1223,7 +1223,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bronchiolitis (n)',
-    uz: 'bronxiolit',
+    uz: 'Bronxiolit',
     enDef: 'An infection of the bronchioles, the tiny air tubes in the lungs.',
     uzDef:
         'Bronxiolalarning, o\'pkadagi mayda havo naychalarining infektsiyasi.',
@@ -1232,7 +1232,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bronchitis (n)',
-    uz: 'bronxit',
+    uz: 'Bronxit',
     enDef: 'Inflammation of the bronchi.',
     uzDef: 'Bronxlarning yallig\'lanishi.',
     transcript: '[brɒŋˈkaɪ.tɪs]',
@@ -1240,7 +1240,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bronchospasm (n)',
-    uz: 'bronxospazm',
+    uz: 'Bronxospazm',
     enDef: 'Contraction of the muscle in the walls of the bronchi.',
     uzDef: 'Bronxlar devoridagi mushakning qisqarishi.',
     transcript: '[ˈbrɔn.xɔ ˈspæz.əm]',
@@ -1248,7 +1248,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bronze diabetes (n)',
-    uz: 'bronza diabet',
+    uz: 'Bronza diabet',
     enDef:
         'A disorder of iron metabolism resulting in iron pigment deposits in the skin and other body tissues that causes a…',
     uzDef:
@@ -1258,7 +1258,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Brucellosis (n)',
-    uz: 'brutsellyoz',
+    uz: 'Brutsellyoz',
     enDef:
         'An infection characterized by fluctuating fever, headache, anemia and vague physical discomfort that’s transmitted to humans from domesticated goats, pigs…',
     uzDef:
@@ -1278,7 +1278,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bruxism (n)',
-    uz: 'bruksizm',
+    uz: 'Bruksizm',
     enDef: 'Grinding of the teeth.',
     uzDef: 'Tishlarni silliqlash.',
     transcript: '[ˈbrʌksɪzəm]',
@@ -1286,7 +1286,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bubo (n)',
-    uz: 'bubo',
+    uz: 'Bubo',
     enDef:
         'A swollen, infected lymph node (especially in the groin). The node may enlarge enough that it begins to drain through.',
     uzDef:
@@ -1306,7 +1306,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bulimia (n)',
-    uz: 'bulimiya',
+    uz: 'Bulimiya',
     enDef:
         'An eating disorder characterized by binge eating followed by vomiting or use of laxatives. Usually caused by a variety of…',
     uzDef:
@@ -1316,7 +1316,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bunion (n)',
-    uz: 'bunyon',
+    uz: 'Bunyon',
     enDef: 'Localized swelling of the big toe at its joint with the foot.',
     uzDef: 'Bosh barmog\'ining oyoq bilan qo\'shilishida lokalize shishishi.',
     transcript: '[ˈbʌnjən]',
@@ -1324,7 +1324,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bursa (n)',
-    uz: 'bursa',
+    uz: 'Bursa',
     enDef:
         'A small, fluid-filled sac that allows one part of a joint to move freely over another part.',
     uzDef:
@@ -1334,7 +1334,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Bursitis (n)',
-    uz: 'bursit',
+    uz: 'Bursit',
     enDef: 'Inflammation of a bursa.',
     uzDef: 'Bursaning yallig\'lanishi.',
     transcript: '[bɜrˈsaɪtɪs]',
@@ -1342,7 +1342,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cachexia (n)',
-    uz: 'kaxeksiya',
+    uz: 'Kaxeksiya',
     enDef: 'A generally weakened, emaciated condition of the body.',
     uzDef: 'Tananing umuman zaiflashgan, zaiflashgan holati.',
     transcript: '[kəˈkɛksiə]',
@@ -1350,7 +1350,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Caffeine (n)',
-    uz: 'kofein',
+    uz: 'Kofein',
     enDef:
         'A bitter-tasting, water-soluble compound that acts as a central nervous system stimulant and has a mild diuretic (increasing urination)…',
     uzDef:
@@ -1360,7 +1360,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Calciferol (n)',
-    uz: 'kalsiferol',
+    uz: 'Kalsiferol',
     enDef: 'Vitamin D.',
     uzDef: 'D vitamini.',
     transcript: '[kælˈsɪfərɒl]',
@@ -1368,7 +1368,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Calcification (n)',
-    uz: 'kalsifikatsiya',
+    uz: 'Kalsifikatsiya',
     enDef: 'Calcium salt deposits in soft tissues.',
     uzDef: 'Yumshoq to\'qimalarda kaltsiy tuzining to\'planishi.',
     transcript: '[kælsɪfɪˈkeɪʃən]',
@@ -1376,7 +1376,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Calculus (n)',
-    uz: 'hisob',
+    uz: 'Hisob',
     enDef:
         'A small, hard mass or stone formed in the body, as in a kidney or gallbladder, or a hard coating…',
     uzDef:
@@ -1386,7 +1386,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Callus (n)',
-    uz: 'kallus',
+    uz: 'Kallus',
     enDef:
         '1. Localized thickening of the skin. 2. A fibrous band formed around the site of a fracture that seals the…',
     uzDef:
@@ -1396,7 +1396,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Calorie (n)',
-    uz: 'kaloriya',
+    uz: 'Kaloriya',
     enDef:
         'The amount of energy needed to raise the temperature of one kilogram of water one degree. Commonly used to express…',
     uzDef:
@@ -1406,7 +1406,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Carrier (n)',
-    uz: 'tashuvchi',
+    uz: 'Tashuvchi',
     enDef:
         'Someone who’s capable of transmitting a disease (especially an infectious or genetic disorder) to another person but who usually has…',
     uzDef:
@@ -1416,7 +1416,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cartilage (n)',
-    uz: 'xaftaga',
+    uz: 'Xaftaga',
     enDef:
         'Elastic connective tissue on the joint surfaces of bone and some parts of the skeleton, including the nose and…',
     uzDef:
@@ -1426,7 +1426,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Castor oil (n)',
-    uz: 'kastor yog\'i',
+    uz: 'Kastor yog\'i',
     enDef:
         'An oil extracted from the castor bean plant that’s irritating to the intestine and promotes bowel movements.',
     uzDef:
@@ -1436,7 +1436,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Castration (n)',
-    uz: 'kastratsiya',
+    uz: 'Kastratsiya',
     enDef:
         'To remove the gonads, such as the testicles, making the male unable to have children.',
     uzDef:
@@ -1446,7 +1446,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'cat-scratch fever (n)',
-    uz: 'mushuk tirnalgan isitmasi',
+    uz: 'Mushuk tirnalgan isitmasi',
     enDef:
         'A bacterial infection acquired through the scratch of a cat or other animal.',
     uzDef:
@@ -1456,7 +1456,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Catalepsy (n)',
-    uz: 'katalepsiya',
+    uz: 'Katalepsiya',
     enDef:
         'A condition in which the body and limbs stay in the position in which they’re placed.',
     uzDef:
@@ -1466,7 +1466,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cataract (n)',
-    uz: 'katarakt',
+    uz: 'Katarakt',
     enDef: 'An opaque area in the lens of the eye.',
     uzDef: 'Ko\'zning linzalaridagi shaffof bo\'lmagan joy.',
     transcript: '[ˈkætəˌrækt]',
@@ -1474,7 +1474,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Catheter (n)',
-    uz: 'kateter',
+    uz: 'Kateter',
     enDef: 'A tube used to drain or inject fluids.',
     uzDef: 'Suyuqlikni to\'kish yoki quyish uchun ishlatiladigan naycha.',
     transcript: '[ˈkæθətər]',
@@ -1482,7 +1482,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cauliflower ear (n)',
-    uz: 'gulkaram qulog\'i',
+    uz: 'Gulkaram qulog\'i',
     enDef:
         'A trauma-induced deformity of the ear caused by repeated cartilage and soft-tissue injury.',
     uzDef:
@@ -1492,7 +1492,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Caustic (adj)',
-    uz: 'kaustik',
+    uz: 'Kaustik',
     enDef: 'A chemical that can cause burns.',
     uzDef: 'Kuyishga olib kelishi mumkin bo\'lgan kimyoviy.',
     transcript: '[ˈkɔstɪk]',
@@ -1500,7 +1500,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cauterize (v)',
-    uz: 'kuydirmoq',
+    uz: 'Kuydirmoq',
     enDef:
         'To purposely burn with a hot instrument or caustic substance to destroy tissue, such as a wart.',
     uzDef:
@@ -1510,7 +1510,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cavity (n)',
-    uz: 'bo\'shliq',
+    uz: 'Bo\'shliq',
     enDef: 'A hollow place or hole within the body.',
     uzDef: 'Tana ichidagi bo\'sh joy yoki teshik.',
     transcript: '[ˈkævəti]',
@@ -1526,7 +1526,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cecum (n)',
-    uz: 'ko\'r ichak',
+    uz: 'Ko\'r ichak',
     enDef:
         'The first part of the large intestine just below the small intestine or ileum.',
     uzDef:
@@ -1536,7 +1536,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Celiac (adj)',
-    uz: 'çölyak',
+    uz: 'Cölyak',
     enDef: 'Having to do with the abdomen.',
     uzDef: 'Qorin bo\'shlig\'i bilan bog\'liq.',
     transcript: '[ˈsiːliæk]',
@@ -1544,7 +1544,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cell (n)',
-    uz: 'hujayra',
+    uz: 'Hujayra',
     enDef: 'The basic unit of organization of all living organisms.',
     uzDef: 'Barcha tirik organizmlarni tashkil qilishning asosiy birligi.',
     transcript: '[sɛl]',
@@ -1552,7 +1552,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cellulitis (n)',
-    uz: 'selülit',
+    uz: 'Selülit',
     enDef: 'Infection of the skin.',
     uzDef: 'Terining infektsiyasi.',
     transcript: '[ˌsɛljuˈlaɪtɪs]',
@@ -1560,7 +1560,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cellulose (n)',
-    uz: 'tsellyuloza',
+    uz: 'Tsellyuloza',
     enDef:
         'A complex carbohydrate. Cellulose is a source of dietary fiber because it can’t be digested.',
     uzDef:
@@ -1570,7 +1570,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cephalalgia (n)',
-    uz: 'sefalhalgiya',
+    uz: 'Sefalhalgiya',
     enDef: 'Headache.',
     uzDef: 'Bosh og\'rig\'i.',
     transcript: '[sɛfəˈlældʒiə]',
@@ -1578,7 +1578,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cerebellum (n)',
-    uz: 'serebellum',
+    uz: 'Serebellum',
     enDef: 'The part of the brain that coordinates muscular movements.',
     uzDef: 'Miyaning mushak harakatlarini muvofiqlashtiruvchi qismi.',
     transcript: '[ˌsɛrəˈbɛləm]',
@@ -1586,7 +1586,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cerebrum (n)',
-    uz: 'bosh miya',
+    uz: 'Bosh miya',
     enDef: 'The main part of the brain.',
     uzDef: 'Miyaning asosiy qismi.',
     transcript: '[səˈribrəm]',
@@ -1594,7 +1594,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Chickenpox (n)',
-    uz: 'suvchechak',
+    uz: 'Suvchechak',
     enDef:
         'A viral disease that usually begins with fever and cough, followed by a rash that progresses from red bumps to...',
     uzDef:
@@ -1604,7 +1604,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Chilblain (n)',
-    uz: 'chilparchin',
+    uz: 'Chilparchin',
     enDef:
         'Painful redness of the fingers, toes or ears caused by exposure to cold.',
     uzDef:
@@ -1614,7 +1614,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Childbed fever (n)',
-    uz: 'bolalar isitmasi',
+    uz: 'Bolalar isitmasi',
     enDef:
         'This is a severe illness marked by fever that’s caused by an infection in mothers after giving birth.',
     uzDef:
@@ -1624,7 +1624,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Chill (n)',
-    uz: 'sovuq',
+    uz: 'Sovuq',
     enDef:
         'A cold sensation with shivering that sometimes occurs before a fever.',
     uzDef:
@@ -1634,7 +1634,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Chiropractic (n)',
-    uz: 'chiropraktika',
+    uz: 'Chiropraktika',
     enDef:
         'An approach to health care based on the assumption that most diseases are caused by pressure on the nerves.',
     uzDef:
@@ -1644,7 +1644,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Chlamydia (n)',
-    uz: 'xlamidiya',
+    uz: 'Xlamidiya',
     enDef:
         'A microorganism, Chlamydia trachomatis, that’s a frequent cause of sexually transmitted disease.',
     uzDef:
@@ -1654,7 +1654,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Chloasma (n)',
-    uz: 'xloazma',
+    uz: 'Xloazma',
     enDef:
         'Dark coloring of the skin often seen during pregnancy and at menopause. Also occurs in Addison’s disease.',
     uzDef:
@@ -1664,7 +1664,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Chlorination (n)',
-    uz: 'xlorlash',
+    uz: 'Xlorlash',
     enDef:
         'The addition of chlorine to kill harmful microorganisms in water or sewage.',
     uzDef:
@@ -1674,7 +1674,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cholecystitis (n)',
-    uz: 'xoletsistit',
+    uz: 'Xoletsistit',
     enDef: 'Inflammation of the gallbladder.',
     uzDef: 'O\'t pufagining yallig\'lanishi.',
     transcript: '[koʊlɪsɪsˈtaɪtɪs]',
@@ -1682,7 +1682,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cholera (n)',
-    uz: 'vabo',
+    uz: 'Vabo',
     enDef:
         'Watery diarrhea caused by drinking water or eating food that’s contaminated with Vibrio cholera.',
     uzDef:
@@ -1692,7 +1692,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cholesteatoma (n)',
-    uz: 'xolesteatoma',
+    uz: 'Xolesteatoma',
     enDef:
         'A tumor-like mass that sometimes forms as a result of a chronic middle ear infection.',
     uzDef:
@@ -1702,7 +1702,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cholesterol (n)',
-    uz: 'xolesterin',
+    uz: 'Xolesterin',
     enDef:
         'A fat-like substance that, if present in the blood in large amounts, is associated with the development of heart disease.',
     uzDef:
@@ -1712,7 +1712,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cocaine (n)',
-    uz: 'kokain',
+    uz: 'Kokain',
     enDef:
         'A drug that is made from coca leaves. It can be used by a doctor as a topical anesthetic.',
     uzDef:
@@ -1722,7 +1722,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Coccyx (n)',
-    uz: 'koksiks',
+    uz: 'Koksiks',
     enDef: 'The tailbone.',
     uzDef: 'Dum suyagi.',
     transcript: '[ˈkɒksiks]',
@@ -1730,7 +1730,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cochlea (n)',
-    uz: 'koklea',
+    uz: 'Koklea',
     enDef: 'The portion of the inner ear that senses sound.',
     uzDef: 'Ichki quloqning tovushni sezadigan qismi.',
     transcript: '[ˈkɒklɪə]',
@@ -1738,7 +1738,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Coitus (n)',
-    uz: 'jinsiy aloqa',
+    uz: 'Jinsiy aloqa',
     enDef: 'Sexual intercourse.',
     uzDef: 'Jinsiy aloqa.',
     transcript: '[ˈkoʊɪtəs]',
@@ -1746,7 +1746,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cold (n)',
-    uz: 'shamollash',
+    uz: 'Shamollash',
     enDef: 'An upper respiratory infection.',
     uzDef: 'Yuqori nafas yo\'llarining infektsiyasi.',
     transcript: '[koʊld]',
@@ -1754,7 +1754,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cold sore (n)',
-    uz: 'sovuq yara',
+    uz: 'Sovuq yara',
     enDef: 'Herpes simplex infection of the lip.',
     uzDef: 'Labdagi herpes simplex infektsiyasi.',
     transcript: '[koʊld sɔr]',
@@ -1762,7 +1762,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Colic (n)',
-    uz: 'kolik',
+    uz: 'Kolik',
     enDef:
         '1. A sudden, spasmodic abdominal pain. 2. In infants, a pattern of excessive crying, apparent abdominal pain and irritability.',
     uzDef:
@@ -1772,7 +1772,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Collagen (n)',
-    uz: 'kollagen',
+    uz: 'Kollagen',
     enDef: 'A protein formed in the connective tissue of the body.',
     uzDef: 'Tananing biriktiruvchi to\'qimasida hosil bo\'lgan oqsil.',
     transcript: '[ˈkɒlədʒən]',
@@ -1780,7 +1780,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Colon (n)',
-    uz: 'yo\'g\'on ichak',
+    uz: 'Yo\'g\'on ichak',
     enDef: 'The large intestine.',
     uzDef: 'Katta ichak.',
     transcript: '[ˈkoʊlən]',
@@ -1798,7 +1798,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Colostomy (n)',
-    uz: 'kolostoma',
+    uz: 'Kolostoma',
     enDef:
         'Surgery that makes an opening to the intestine through the surface of the abdomen. The opening empties the bowels.',
     uzDef:
@@ -1808,7 +1808,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Colostrum (n)',
-    uz: 'og\'iz suti',
+    uz: 'Og\'iz suti',
     enDef:
         'An antibody-rich fluid released by the breasts for a short time after the birth of a baby, before the true...',
     uzDef:
@@ -1818,7 +1818,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Comedo (n)',
-    uz: 'comedo',
+    uz: 'Comedo',
     enDef:
         'A dark-topped plug of fatty material in the opening of a hair follicle. The color is the result of exposure...',
     uzDef:
@@ -1828,7 +1828,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Communicable disease (n)',
-    uz: 'yuqumli kasallik',
+    uz: 'Yuqumli kasallik',
     enDef:
         'A disease spread through direct contact with an infected person or substance.',
     uzDef:
@@ -1838,7 +1838,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Compress (n)',
-    uz: 'mato',
+    uz: 'Mato',
     enDef:
         'A dressing used to apply pressure or medicine to an area. Useful in applying heat or cold.',
     uzDef:
@@ -1848,7 +1848,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Compulsion (n)',
-    uz: 'majburlash',
+    uz: 'Majburlash',
     enDef:
         'An overwhelming urge to perform an act. Often used to describe ritual or repetitive behaviors.',
     uzDef:
@@ -1858,7 +1858,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Conception (n)',
-    uz: 'kontseptsiya',
+    uz: 'Kontseptsiya',
     enDef: 'Fertilization. The union of sperm and egg.',
     uzDef: 'Urug\'lantirish. Sperma va tuxumning birlashishi.',
     transcript: '[kənˈsɛpʃən]',
@@ -1866,7 +1866,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Concussion (n)',
-    uz: 'miya chayqalishi',
+    uz: 'Miya chayqalishi',
     enDef: 'A loss of consciousness because of a head injury.',
     uzDef: 'Bosh jarohati tufayli ongni yo\'qotish.',
     transcript: '[kənˈkʌʃən]',
@@ -1874,7 +1874,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Condom (n)',
-    uz: 'prezervativ',
+    uz: 'Prezervativ',
     enDef:
         'A sheath worn over the penis or inside the vagina (female condom) during intercourse to protect against pregnancy and...',
     uzDef:
@@ -1884,7 +1884,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cone (n)',
-    uz: 'konus',
+    uz: 'Konus',
     enDef:
         'The light-sensing structure on the retina of the eye capable of detecting color.',
     uzDef:
@@ -1894,7 +1894,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Congenital (adj)',
-    uz: 'tug\'ma',
+    uz: 'Tug\'ma',
     enDef: 'Present at birth.',
     uzDef: 'Tug\'ilganda mavjud.',
     transcript: '[kənˈdʒɛnɪtl]',
@@ -1902,7 +1902,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cramp (n)',
-    uz: 'kramp',
+    uz: 'Kramp',
     enDef: 'A painful muscle spasm.',
     uzDef: 'Mushaklarning og\'riqli spazmi.',
     transcript: '[kræmp]',
@@ -1910,7 +1910,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Craniotomy (n)',
-    uz: 'kraniotomiya',
+    uz: 'Kraniotomiya',
     enDef: 'A surgical opening of the skull.',
     uzDef: 'Bosh suyagining jarrohlik ochilishi.',
     transcript: '[kræniˈɒtəmi]',
@@ -1918,7 +1918,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cranium (n)',
-    uz: 'bosh suyagi',
+    uz: 'Bosh suyagi',
     enDef: 'The skull or bony structure of the head that protects the brain.',
     uzDef: 'Bosh suyagi yoki boshning suyak tuzilishi, miyani himoya qiladi.',
     transcript: '[ˈkreɪniəm]',
@@ -1926,7 +1926,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Creatinine (n)',
-    uz: 'kreatinin',
+    uz: 'Kreatinin',
     enDef:
         'A substance formed from the making of creatine, an important nitrogen compound made in the body. Common in blood, urine…',
     uzDef:
@@ -1936,7 +1936,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cretinism (n)',
-    uz: 'kretinizm',
+    uz: 'Kretinizm',
     enDef:
         'Physical and mental retardation due to congenital lack of thyroid hormone.',
     uzDef:
@@ -1956,7 +1956,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Croup (n)',
-    uz: 'krup',
+    uz: 'Krup',
     enDef:
         'Obstruction of the upper respiratory tract at or below the larynx (voice box), resulting in a hoarse, barking cough.',
     uzDef:
@@ -1966,7 +1966,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Crowning (n)',
-    uz: 'toj kiyish',
+    uz: 'Toj kiyish',
     enDef: 'The first appearance of a baby’s scalp during the birth process.',
     uzDef:
         'Tug\'ilish jarayonida chaqaloqning bosh terisining birinchi ko\'rishishi.',
@@ -1975,7 +1975,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cryosurgery (n)',
-    uz: 'kriojarrohlik',
+    uz: 'Kriojarrohlik',
     enDef:
         'Destruction of tissue using extreme cold. A procedure used to treat skin lesions.',
     uzDef:
@@ -1993,7 +1993,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Culdocentesis (n)',
-    uz: 'kuldosentez',
+    uz: 'Kuldosentez',
     enDef:
         'A procedure to remove pus or blood from the abdomen through the vagina.',
     uzDef:
@@ -2012,7 +2012,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cuspid (n)',
-    uz: 'tiniq',
+    uz: 'Tiniq',
     enDef: 'A tooth with one point, or “canine” tooth.',
     uzDef: 'Bir nuqtali tish yoki "it" tish.',
     transcript: '[kʌspid]',
@@ -2020,7 +2020,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cutaneous (adj)',
-    uz: 'teriga xos',
+    uz: 'Teriga xos',
     enDef: 'Having to do with the skin.',
     uzDef: 'Teri bilan bog\'liq.',
     transcript: '[kju:\'teini:әs]',
@@ -2028,7 +2028,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cyanosis (n)',
-    uz: 'siyanoz',
+    uz: 'Siyanoz',
     enDef:
         'Bluish discoloration of the skin caused by lack of oxygen in the blood.',
     uzDef:
@@ -2038,7 +2038,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cyst (n)',
-    uz: 'kist',
+    uz: 'Kist',
     enDef:
         'A sac or pocket in the body containing fluid or semisolid material.',
     uzDef:
@@ -2048,7 +2048,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cystitis (n)',
-    uz: 'sistit',
+    uz: 'Sistit',
     enDef: 'Inflammation of the bladder.',
     uzDef: 'Quviqning yallig\'lanishi.',
     transcript: '[sI\'staItIs]',
@@ -2056,7 +2056,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cytology (n)',
-    uz: 'sitologiya',
+    uz: 'Sitologiya',
     enDef: 'The study of cells.',
     uzDef: 'Hujayralarni o\'rganish.',
     transcript: '[saI\'tɒlədʒi]',
@@ -2064,7 +2064,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Cytomegalovirus (n)',
-    uz: 'sitomegalovirus',
+    uz: 'Sitomegalovirus',
     enDef:
         'A virus that infects cells and causes them to become enlarged. Babies infected with the virus develop mental and sensory…',
     uzDef:
@@ -2084,7 +2084,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dacryocystitis (n)',
-    uz: 'dacryocystitis',
+    uz: 'Dacryocystitis',
     enDef:
         'Inflammation of the sac that collects tears for drainage from the eye.',
     uzDef:
@@ -2094,7 +2094,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Devascularization (n)',
-    uz: 'devaskulyarizatsiya',
+    uz: 'Devaskulyarizatsiya',
     enDef: 'Interruption of blood circulation to part of the body.',
     uzDef: 'Tananing bir qismiga qon aylanishining uzilishi.',
     transcript: '[diːˌvæskjʊləraɪˈzeɪʃən]',
@@ -2102,7 +2102,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dextrose (n)',
-    uz: 'dekstroz',
+    uz: 'Dekstroz',
     enDef: 'A simple sugar. Glucose.',
     uzDef: 'Oddiy shakar. Glyukoza.',
     transcript: '[dekstrəʊs]',
@@ -2110,7 +2110,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diabetes insipidus (n)',
-    uz: 'diabet insipidus',
+    uz: 'Diabet insipidus',
     enDef:
         'Loss of water through the kidneys as a result of decreased production of the pituitary hormone vasopressin (an antidiuretic…',
     uzDef:
@@ -2120,7 +2120,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diabetes mellitus (n)',
-    uz: 'qandli diabet',
+    uz: 'Qandli diabet',
     enDef:
         'A disorder of carbohydrate metabolism resulting from insulin deficiency. Characterized by high blood sugar levels that result in weakness, frequent…',
     uzDef:
@@ -2130,7 +2130,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diagnose (v)',
-    uz: 'tashxis qo\'ymoq',
+    uz: 'Tashxis qo\'ymoq',
     enDef: 'To identify a disease.',
     uzDef: 'Kasallikni aniqlamoq.',
     transcript: '[\'daɪəgnəʊz]',
@@ -2138,7 +2138,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diagnosis (n)',
-    uz: 'tashxis',
+    uz: 'Tashxis',
     enDef: 'The process of identifying a disease or medical condition.',
     uzDef: 'Kasallik yoki tibbiy holatni aniqlash jarayoni.',
     transcript: '[daɪəgˈnəʊsɪs]',
@@ -2146,7 +2146,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dialysis (n)',
-    uz: 'dializ',
+    uz: 'Dializ',
     enDef:
         'A treatment to remove certain molecules from the blood, particularly in people with kidney failure.',
     uzDef:
@@ -2156,7 +2156,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diaphoresis (n)',
-    uz: 'diaforez',
+    uz: 'Diaforez',
     enDef: 'Excessive sweating.',
     uzDef: 'Haddan tashqari terlash.',
     transcript: '[daɪəfəˈriːsɪs]',
@@ -2164,7 +2164,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diaphragm (n)',
-    uz: 'diafragma',
+    uz: 'Diafragma',
     enDef:
         'The dome-shaped respiratory muscle separating the chest from the abdomen. A barrier contraceptive device molded to fit over…',
     uzDef:
@@ -2174,7 +2174,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diarrhea (n)',
-    uz: 'diareya',
+    uz: 'Diareya',
     enDef:
         'Production of feces in increased volume and with greater fluidity than normal.',
     uzDef:
@@ -2184,7 +2184,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diastole (n)',
-    uz: 'diastola',
+    uz: 'Diastola',
     enDef: 'The relaxation phase of the heartbeat.',
     uzDef: 'Yurak urishining gevşeme bosqichi.',
     transcript: '[daɪˈæstəʊl]',
@@ -2192,7 +2192,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diastolic (adj)',
-    uz: 'diastolik',
+    uz: 'Diastolik',
     enDef:
         'Diastolic blood pressure is the pressure when your heart relaxing between beats and filling with blood.',
     uzDef:
@@ -2202,7 +2202,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diet (n)',
-    uz: 'parhez',
+    uz: 'Parhez',
     enDef:
         'The total food consumed by an individual. A therapeutic diet is a prescription of required or restricted foods.',
     uzDef:
@@ -2212,7 +2212,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dietitian (n)',
-    uz: 'dietolog',
+    uz: 'Dietolog',
     enDef:
         'An expert who is trained in the use of diet and nutrition to maintain or restore health.',
     uzDef:
@@ -2222,7 +2222,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Digestion (n)',
-    uz: 'ovqat hazm qilish',
+    uz: 'Ovqat hazm qilish',
     enDef:
         'The mechanical and chemical conversion of food into simpler compounds that can be absorbed by the body.',
     uzDef:
@@ -2232,7 +2232,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Digit (n)',
-    uz: 'raqam',
+    uz: 'Raqam',
     enDef: 'A finger or toe.',
     uzDef: 'Barmoq yoki oyoq barmog\'i.',
     transcript: '[ˈdɪdʒɪt]',
@@ -2240,7 +2240,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dilation (n)',
-    uz: 'kengayishi',
+    uz: 'Kengayishi',
     enDef: 'The process of expanding or enlarging.',
     uzDef: 'Kengayish yoki kattalashtirish jarayoni.',
     transcript: '[daɪˈleɪʃən]',
@@ -2248,7 +2248,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diphtheria (n)',
-    uz: 'difteriya',
+    uz: 'Difteriya',
     enDef:
         'An infectious disease of childhood characterized by fever, sore throat and the presence of “dirty” (white, gray, brown) membranes in…',
     uzDef:
@@ -2258,7 +2258,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Diplopia (n)',
-    uz: 'diplopiya',
+    uz: 'Diplopiya',
     enDef: 'Double vision.',
     uzDef: 'Ikki tomonlama ko’rish',
     transcript: '[daɪˈpləʊpɪə]',
@@ -2266,7 +2266,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Discoid lupus erythematosus (n)',
-    uz: 'diskoid qizil yuguruk',
+    uz: 'Diskoid qizil yuguruk',
     enDef:
         'A round, red, scaling rash on the nose, forehead, cheeks, scalp or other areas of the body. It may be…',
     uzDef:
@@ -2276,7 +2276,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Disinfectant (n)',
-    uz: 'dezinfektsiyalovchi',
+    uz: 'Dezinfektsiyalovchi',
     enDef:
         'A chemical agent used to destroy microorganisms on inanimate objects.',
     uzDef:
@@ -2286,7 +2286,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dysmenorrhea (n)',
-    uz: 'dismenoreya',
+    uz: 'Dismenoreya',
     enDef: 'Painful menstruation.',
     uzDef: 'Og\'riqli hayz ko\'rish',
     transcript: '[dɪsmɛnəˈriə]',
@@ -2294,7 +2294,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dyspepsia (n)',
-    uz: 'dispepsiya',
+    uz: 'Dispepsiya',
     enDef: 'Indigestion.',
     uzDef: 'Ovqat hazm qilish buzilishi.',
     transcript: '[dɪsˈpɛpsiə]',
@@ -2302,7 +2302,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dysphagia (n)',
-    uz: 'disfagiya',
+    uz: 'Disfagiya',
     enDef: 'Difficulty swallowing.',
     uzDef: 'Yutish qiyinligi',
     transcript: '[dɪsˈfeɪdʒiə]',
@@ -2310,7 +2310,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Dyspnea (n)',
-    uz: 'disfagiya',
+    uz: 'Disfagiya',
     enDef: 'Labored breathing.',
     uzDef: 'Qiyin nafas olish',
     transcript: '[dɪspˈniə]',
@@ -2318,7 +2318,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Eardrum (n)',
-    uz: 'quloq pardasi',
+    uz: 'Quloq pardasi',
     enDef:
         'The tympanic membrane that’s visible in the ear. It vibrates in response to sound waves.',
     uzDef:
@@ -2328,7 +2328,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ecchymosis (n)',
-    uz: 'ekximoz',
+    uz: 'Ekximoz',
     enDef:
         'A collection of blood in the tissues causing a black and blue, or yellow, area.',
     uzDef:
@@ -2346,7 +2346,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Eclampsia (n)',
-    uz: 'eklampsiya',
+    uz: 'Eklampsiya',
     enDef:
         'An attack of convulsions. Particularly used to describe toxemia (toxins in the blood) of pregnancy.',
     uzDef:
@@ -2356,7 +2356,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ectopic pregnancy (n)',
-    uz: 'ektopik homiladorlik',
+    uz: 'Ektopik homiladorlik',
     enDef:
         'When the fertilized egg is implanted and develops outside of the uterus.',
     uzDef:
@@ -2366,7 +2366,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ectropion (n)',
-    uz: 'ektropion',
+    uz: 'Ektropion',
     enDef: 'An outward turning of the eyelid.',
     uzDef: 'Ko\'z qovog\'ining tashqi tomonga burilishi.',
     transcript: '[ˈɛktrəpiən]',
@@ -2374,7 +2374,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Eczema (n)',
-    uz: 'ekzema',
+    uz: 'Ekzema',
     enDef:
         'A rash characterized by itching, scaling, swelling and oozing. A common allergic reaction.',
     uzDef:
@@ -2384,7 +2384,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Edema (n)',
-    uz: 'shish',
+    uz: 'Shish',
     enDef: 'Buildup of excessive fluid around the cells in the body.',
     uzDef: 'Tanadagi hujayralar atrofida ortiqcha suyuqlik to\'planishi.',
     transcript: '[ɪˈdiːmə]',
@@ -2400,7 +2400,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Effacement (n)',
-    uz: 'qisqarish',
+    uz: 'Qisqarish',
     enDef: 'Thinning of the cervix during labor.',
     uzDef: 'Tug\'ilish paytida bachadon bo\'yni ingichka bo\'lishi',
     transcript: '[ɪˈfesmənt]',
@@ -2408,7 +2408,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Effusion (n)',
-    uz: 'sizib chiqish',
+    uz: 'Sizib chiqish',
     enDef: 'Buildup of fluid in a part of the body, particularly a joint.',
     uzDef:
         'Tananing bir qismida, xususan, bo\'g\'imlarda suyuqlik to\'planishi.',
@@ -2417,7 +2417,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ejaculation (n)',
-    uz: 'eyakulyatsiya',
+    uz: 'Eyakulyatsiya',
     enDef: 'The sudden ejection of semen from the male body. Climax.',
     uzDef: 'Erkak tanasidan spermani to\'satdan chiqarib yuborish. Klimaks.',
     transcript: '[iˌdʒækjʊˈleɪʃən]',
@@ -2433,7 +2433,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Electroconvulsive (adj)',
-    uz: 'elektrokonvulsiv',
+    uz: 'Elektrokonvulsiv',
     enDef:
         'A type of therapy used to treat severe, unresponsive depression by passing electrical current through the brain.',
     uzDef:
@@ -2443,7 +2443,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Electrolysis (n)',
-    uz: 'elektroliz',
+    uz: 'Elektroliz',
     enDef:
         'Destruction of tissue through the use of electricity; often used to permanently remove unwanted hair from the body.',
     uzDef:
@@ -2453,7 +2453,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Electrolytes (n)',
-    uz: 'elektrolitlar',
+    uz: 'Elektrolitlar',
     enDef:
         'Compounds that separate into charged particles in water. The main electrolytes in the human body are sodium, potassium, bicarbonate, chloride,…',
     uzDef:
@@ -2463,7 +2463,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Elephantiasis (n)',
-    uz: 'fil kasalligi',
+    uz: 'Fil kasalligi',
     enDef:
         'A chronic disease characterized by the enlargement of certain parts of the body and by the hardening and ulceration of…',
     uzDef:
@@ -2473,7 +2473,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Epistaxis (n)',
-    uz: 'epistaksiz',
+    uz: 'Epistaksiz',
     enDef: 'Nosebleed.',
     uzDef: 'Burundan qon ketish',
     transcript: '[ˌɛpɪsˈtæksɪs ]',
@@ -2481,7 +2481,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Epithelium (n)',
-    uz: 'epiteliy',
+    uz: 'Epiteliy',
     enDef:
         'The layer of cells covering internal and external surfaces of the body.',
     uzDef:
@@ -2491,7 +2491,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Erysipelas (n)',
-    uz: 'qizilcha',
+    uz: 'Qizilcha',
     enDef:
         'A febrile (fever-associated) skin infection caused by a group A hemolytic streptococci.',
     uzDef:
@@ -2501,7 +2501,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Erythema (n)',
-    uz: 'eritema',
+    uz: 'Eritema',
     enDef: 'Redness of the skin.',
     uzDef: 'Terining qizarishi.',
     transcript: '[ˌɛrəˈθiːmə]',
@@ -2509,7 +2509,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Erythema infectiosum (n)',
-    uz: 'infektsiyali eritema',
+    uz: 'Infektsiyali eritema',
     enDef:
         'A viral infection most common in children that begins with a red, warm rash on the face, along with some...',
     uzDef:
@@ -2519,7 +2519,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Erythema multiforme (n)',
-    uz: 'ko\'p shaklli eritema',
+    uz: 'Ko\'p shaklli eritema',
     enDef:
         'An eruption of flat or raised spots of skin as a result of hypersensitivity to certain drugs or allergies.',
     uzDef:
@@ -2529,7 +2529,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Erythema nodosum (n)',
-    uz: 'eritema nodosum',
+    uz: 'Eritema nodosum',
     enDef:
         'The sudden appearance of tender raised nodes on the lower limbs as a result of an infection, hypersensitivity to certain...',
     uzDef:
@@ -2539,7 +2539,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Erythrocyte (n)',
-    uz: 'eritrotsitlar',
+    uz: 'Eritrotsitlar',
     enDef: 'Red blood cell.',
     uzDef: 'Qizil qon hujayralari.',
     transcript: '[ɪˈrɪθrəsaɪt]',
@@ -2557,7 +2557,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Esophagitis (n)',
-    uz: 'ezofagit',
+    uz: 'Ezofagit',
     enDef:
         'Inflammation of the esophagus, often caused from a reflux of acid from the stomach.',
     uzDef:
@@ -2567,7 +2567,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Esophagus (n)',
-    uz: 'qizilo\'ngach',
+    uz: 'Qizilo\'ngach',
     enDef:
         'The tube through which food passes from the pharynx to the stomach.',
     uzDef: 'Ovqat farenksdan oshqozonga o\'tadigan naycha.',
@@ -2576,7 +2576,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Estrogen (n)',
-    uz: 'estrogen',
+    uz: 'Estrogen',
     enDef: 'Female sex hormone.',
     uzDef: 'Ayol jinsiy gormoni.',
     transcript: '[ˈɛstrədʒən]',
@@ -2584,7 +2584,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Eustachian tube (n)',
-    uz: 'evstaki naychasi',
+    uz: 'Evstaki naychasi',
     enDef:
         'The narrow tube connecting the nose and middle ear to allow air pressure in the middle ear to equalize with...',
     uzDef:
@@ -2594,7 +2594,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Exacerbate (v)',
-    uz: 'kuchaytirmoq',
+    uz: 'Kuchaytirmoq',
     enDef:
         'Cause something to increase in severity. To make more intense, irritate.',
     uzDef:
@@ -2604,7 +2604,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Exanthema (n)',
-    uz: 'ekzantem',
+    uz: 'Ekzantem',
     enDef: 'Skin rash.',
     uzDef: 'Teri toshmasi.',
     transcript: '[ˌɛksәnˈθәm]',
@@ -2612,7 +2612,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Excise (v)',
-    uz: 'olib tashlamoq',
+    uz: 'Olib tashlamoq',
     enDef: 'To remove by cutting.',
     uzDef: 'Kesish orqali olib tashlamoq.',
     transcript: '[ɪkˈsaɪz]',
@@ -2620,7 +2620,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Exocrine glands (n)',
-    uz: 'ekzokrin bezlar',
+    uz: 'Ekzokrin bezlar',
     enDef:
         'Glands that secrete chemicals externally, either through a tube or duct.',
     uzDef:
@@ -2630,7 +2630,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Expectorant (n)',
-    uz: 'ekspektoran',
+    uz: 'Ekspektoran',
     enDef:
         'A substance that loosens mucus so it’s more easily cleared from the respiratory passages.',
     uzDef:
@@ -2640,7 +2640,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fascia (n)',
-    uz: 'fasya',
+    uz: 'Fasya',
     enDef: 'Fibrous sheets of tissue connecting or covering the muscles.',
     uzDef:
         'Mushaklarni bog\'laydigan yoki qoplaydigan to\'qimalarning tolali varaqlari.',
@@ -2649,7 +2649,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fat (n)',
-    uz: 'yog’',
+    uz: 'Yog’',
     enDef:
         'A major energy source for animals and humans. Fat contains nine calories per gram.',
     uzDef:
@@ -2659,7 +2659,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fatigue (n)',
-    uz: 'charchoq',
+    uz: 'Charchoq',
     enDef: 'Physical or mental exhaustion. Weariness.',
     uzDef: 'Jismoniy yoki ruhiy charchoq. Charchoqlik.',
     transcript: '[fəˈtiːɡ]',
@@ -2667,7 +2667,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Feces (n)',
-    uz: 'najaz',
+    uz: 'Najaz',
     enDef:
         'Body waste expelled from the rectum. Also called bowel movement or stool.',
     uzDef:
@@ -2677,7 +2677,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Femoral (adj)',
-    uz: 'femoral',
+    uz: 'Femoral',
     enDef: 'Having to do with the femur.',
     uzDef: 'Femur bilan bog\'liq.',
     transcript: '[ˈfem(ə)rəl]',
@@ -2685,7 +2685,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Femur (n)',
-    uz: 'son suyagi',
+    uz: 'Son suyagi',
     enDef: 'The thigh bone.',
     uzDef: 'Son suyagi.',
     transcript: '[ˈfiːmər]',
@@ -2693,7 +2693,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fertility (n)',
-    uz: 'unumdorlik',
+    uz: 'Unumdorlik',
     enDef: 'The ability to have children.',
     uzDef: 'Farzandli bo\'lish qobiliyati.',
     transcript: '[fərˈtɪlɪti]',
@@ -2701,7 +2701,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fertilization (n)',
-    uz: 'urug\'lantirish',
+    uz: 'Urug\'lantirish',
     enDef:
         'The process of joining the male’s sperm and the female’s ovum (egg).',
     uzDef:
@@ -2711,7 +2711,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fetal (adj)',
-    uz: 'homila',
+    uz: 'Homila',
     enDef: 'Having to do with the fetus.',
     uzDef: 'Homila bilan bog\'liq.',
     transcript: '[ˈfiːtl]',
@@ -2719,7 +2719,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fetus (n)',
-    uz: 'homila',
+    uz: 'Homila',
     enDef:
         'The unborn baby from the end of the eighth week after fertilization of the egg to birth.',
     uzDef:
@@ -2729,7 +2729,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fever (n)',
-    uz: 'isitma',
+    uz: 'Isitma',
     enDef: 'Abnormally high body temperature.',
     uzDef: 'Anormal yuqori tana harorati.',
     transcript: '[ˈfiːvər]',
@@ -2737,7 +2737,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fiber (n)',
-    uz: 'tola',
+    uz: 'Tola',
     enDef:
         '1. A slender, thread-like structure of organ tissue.  2. In the diet, strands of complex carbohydrates (cellulose) that aren’t...',
     uzDef:
@@ -2747,7 +2747,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fibrillation (n)',
-    uz: 'fibrilatsiya',
+    uz: 'Fibrilatsiya',
     enDef:
         'A rapid, uncoordinated series of contractions of some part of the heart muscle causing irregular heartbeats. Atrial fibrillation is the…',
     uzDef:
@@ -2757,7 +2757,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fibrin (n)',
-    uz: 'fibrin',
+    uz: 'Fibrin',
     enDef:
         '1. A slender, thread-like structure of organ tissue  2. . 2. In the diet, strands of complex carbohydrates (cellulose) that aren’t…',
     uzDef: 'Qon ivish jarayoni uchun zarur bo\'lgan sarum oqsili.',
@@ -2766,7 +2766,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fibroid (n)',
-    uz: 'mioma',
+    uz: 'Mioma',
     enDef:
         'A noncancerous tumor of the uterus composed of muscle fibers. Also called uterine myoma.',
     uzDef:
@@ -2776,7 +2776,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fibromyalgia (n)',
-    uz: 'fibromiyaljiya',
+    uz: 'Fibromiyaljiya',
     enDef:
         'A painful condition with multiple sensitive areas, called “tender points,” affecting fibrous tissues, muscles, tendons and ligaments.',
     uzDef:
@@ -2786,7 +2786,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fibrositis (n)',
-    uz: 'fibrozit',
+    uz: 'Fibrozit',
     enDef: 'Inflammation of fibrous tissues.',
     uzDef: 'Fibroz to\'qimalarning yallig\'lanishi.',
     transcript: '[ˌfaɪbrəˈsaɪdəs]',
@@ -2794,7 +2794,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fibula (n)',
-    uz: 'fibula',
+    uz: 'Fibula',
     enDef: 'The long, thin, outer bone of the lower leg.',
     uzDef: 'Pastki oyoqning uzun, ingichka, tashqi suyagi.',
     transcript: '[ˈfɪbjələ]',
@@ -2802,7 +2802,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fissure (n)',
-    uz: 'yoriq',
+    uz: 'Yoriq',
     enDef: 'A narrow slit.',
     uzDef: 'Tor tirqish.',
     transcript: '[ˈfɪʃər]',
@@ -2810,7 +2810,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fistula (n)',
-    uz: 'oqma',
+    uz: 'Oqma',
     enDef:
         'An abnormal passage from an abscess, cavity or hollow organ to the skin or another abscess.',
     uzDef:
@@ -2820,7 +2820,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Flaccid (adj)',
-    uz: 'bo\'shashgan',
+    uz: 'Bo\'shashgan',
     enDef:
         'Soft and flabby. Often used to describe complete paralysis (loss of movement) without muscle spasm.',
     uzDef:
@@ -2830,7 +2830,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Flatfoot (n)',
-    uz: 'tekis oyoq',
+    uz: 'Tekis oyoq',
     enDef: 'A condition in which the normal arch of the foot is absent.',
     uzDef: 'Oyoqning oddiy yoyi yo\'q bo\'lgan holat.',
     transcript: '[ˈflætˌfʊt]',
@@ -2838,7 +2838,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Flatulence (n)',
-    uz: 'meteorizm',
+    uz: 'Meteorizm',
     enDef: 'Excessive production of gas in the intestines or stomach.',
     uzDef: 'Ichaklarda yoki oshqozonda ortiqcha gaz hosil bo\'lishi.',
     transcript: '[ˈflætjʊləns]',
@@ -2846,7 +2846,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fluorescein (n)',
-    uz: 'floressein',
+    uz: 'Floressein',
     enDef:
         'A compound used as a diagnostic aid to show injuries of the cornea or retina of the eye.',
     uzDef:
@@ -2856,7 +2856,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Folic acid (n)',
-    uz: 'foliy kislotasi',
+    uz: 'Foliy kislotasi',
     enDef:
         'Folacin. One of the B-group vitamins essential for forming red blood cells.',
     uzDef:
@@ -2866,7 +2866,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Folliculitis (n)',
-    uz: 'follikulit',
+    uz: 'Follikulit',
     enDef: 'Inflammation of the hair follicles.',
     uzDef: 'Soch follikulalarining yallig\'lanishi.',
     transcript: '[fəˌlɪkjəˈlaɪdəs]',
@@ -2874,7 +2874,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fontanelle (n)',
-    uz: 'fontanel',
+    uz: 'Fontanel',
     enDef:
         'A soft spot in the skull of an infant formed by the normal separation between the bony plates of the...',
     uzDef:
@@ -2884,7 +2884,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Foreskin (n)',
-    uz: 'sunnat terisi',
+    uz: 'Sunnat terisi',
     enDef: 'A loose fold of skin covering the tip of the penis.',
     uzDef: 'Jinsiy olatni uchini qoplaydigan bo\'shashgan teri burmasi.',
     transcript: '[ˈfɔːrˌskɪn]',
@@ -2892,7 +2892,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fracture (n)',
-    uz: 'sinish',
+    uz: 'Sinish',
     enDef: 'Broken, especially a broken bone.',
     uzDef: 'Buzilgan, ayniqsa singan suyak.',
     transcript: '[ˈfræk(t)ʃər]',
@@ -2900,7 +2900,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fraternal twins (n)',
-    uz: 'birodar egizaklar',
+    uz: 'Birodar egizaklar',
     enDef:
         'Twins formed from two separate eggs that were fertilized at the same time. They may be the same or different…',
     uzDef:
@@ -2910,7 +2910,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Frenulum (n)',
-    uz: 'frenulum',
+    uz: 'Frenulum',
     enDef:
         'A fold of skin or mucous membrane that limits the movement of a body part. For example, the frenulum linguae...',
     uzDef:
@@ -2920,7 +2920,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Frigidity (n)',
-    uz: 'sovuqlik',
+    uz: 'Sovuqlik',
     enDef: 'An inability to be sexually aroused.',
     uzDef: 'Jinsiy qo\'zg\'alishning mumkin emasligi.',
     transcript: '[frɪˈdʒɪdɪti]',
@@ -2928,7 +2928,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fructose (n)',
-    uz: 'fruktoza',
+    uz: 'Fruktoza',
     enDef: 'Fruit sugar.',
     uzDef: 'Meva shakar.',
     transcript: '[ˈfrəktoʊs]',
@@ -2936,7 +2936,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Fungus (n)',
-    uz: 'qo\'ziqorin',
+    uz: 'Qo\'ziqorin',
     enDef: 'A group of organisms that includes yeasts, molds and mushrooms.',
     uzDef:
         'Xamirturushlar, mog\'orlar va qo\'ziqorinlarni o\'z ichiga olgan organizmlar guruhi.',
@@ -2945,7 +2945,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Galactorrhea (n)',
-    uz: 'galaktoreya',
+    uz: 'Galaktoreya',
     enDef: 'Excessive production of breast milk.',
     uzDef: 'Ko\'krak sutini ortiqcha ishlab chiqarish.',
     transcript: '[ˌɡælæktoʊˈriə]',
@@ -2953,7 +2953,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Galactosemia (n)',
-    uz: 'galaktozemiya',
+    uz: 'Galaktozemiya',
     enDef:
         'A disease present at birth caused by a genetic lack of an enzyme needed to metabolize galactose into glucose. May...',
     uzDef:
@@ -2963,7 +2963,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gall (n)',
-    uz: 'o\'t',
+    uz: 'O\'t',
     enDef: 'The bile produced in the liver and stored in the gallbladder.',
     uzDef: 'Safro jigarda ishlab chiqariladi va o\'t pufagida saqlanadi.',
     transcript: '[ɡɔːl]',
@@ -2971,7 +2971,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gallbladder (n)',
-    uz: 'o\'t pufagi',
+    uz: 'O\'t pufagi',
     enDef: 'The storage sac for bile, located below the liver.',
     uzDef: 'Jigar ostida joylashgan o\'t ni saqlash xaltasi.',
     transcript: '[ˈɡɔːlˌblædər]',
@@ -2979,7 +2979,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gallstone (n)',
-    uz: "o't pufagidagi tosh",
+    uz: "O't pufagidagi tosh",
     enDef: 'A stone-like mass that forms in the gallbladder.',
     uzDef: "O't pufagida hosil bo'ladigan toshga o'xshash massa.",
     transcript: '[ˈɡɔːlˌstōn]',
@@ -2987,7 +2987,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gamma globulin (n)',
-    uz: 'gamma globulin',
+    uz: 'Gamma globulin',
     enDef:
         'Blood protein that contains most antibodies. Used in the temporary prevention of hepatitis and as treatment for disorders with antibody...',
     uzDef:
@@ -2997,7 +2997,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ganglion cyst (n)',
-    uz: 'ganglion kistasi',
+    uz: 'Ganglion kistasi',
     enDef: 'A benign, knot-like, cystic tumor on a tendon sheath.',
     uzDef: 'Tendon pardasidagi yaxshi xulqli, tugunsimon, pufaksimon o\'sma.',
     transcript: '[ˈɡaŋɡlɪən sɪst]',
@@ -3005,7 +3005,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gangrene (n)',
-    uz: 'gangrena',
+    uz: 'Gangrena',
     enDef:
         'The decay of body tissue in a part of the body where the blood supply is obstructed by injury or...',
     uzDef:
@@ -3015,7 +3015,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gastric (adj)',
-    uz: 'oshqozon',
+    uz: 'Oshqozon',
     enDef: 'Having to do with the stomach.',
     uzDef: 'Oshqozon bilan bog\'liq.',
     transcript: '[ˈɡastrɪk]',
@@ -3023,7 +3023,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gastritis (n)',
-    uz: 'gastrit',
+    uz: 'Gastrit',
     enDef: 'Inflammation of the stomach lining.',
     uzDef: 'Oshqozon shilliq qavatining yallig\'lanishi.',
     transcript: '[ɡəˈstraɪdɪs]',
@@ -3031,7 +3031,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gastroenteritis (n)',
-    uz: 'gastroenterit',
+    uz: 'Gastroenterit',
     enDef:
         'Inflammation of the stomach and the intestines, usually producing symptoms of nausea, vomiting and diarrhea.',
     uzDef:
@@ -3041,7 +3041,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gastrointestinal (adj)',
-    uz: 'oshqozon-ichak',
+    uz: 'Oshqozon-ichak',
     enDef: 'Having to do with the stomach and intestines.',
     uzDef: 'Oshqozon va ichak bilan bog\'liq.',
     transcript: '[ˌɡæstrōɪnˈtɛstɪnl]',
@@ -3049,7 +3049,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gene (n)',
-    uz: 'gen',
+    uz: 'Gen',
     enDef: 'A unit of heredity located on a chromosome.',
     uzDef: 'Xromosomada joylashgan irsiyat birligi.',
     transcript: '[dʒiːn]',
@@ -3057,7 +3057,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Generic (adj)',
-    uz: 'umumiy',
+    uz: 'Umumiy',
     enDef: 'General; typical; not specific.',
     uzDef: 'Umumiy; tipik; aniq emas.',
     transcript: '[dʒəˈnɛrɪk]',
@@ -3065,7 +3065,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Genetic (adj)',
-    uz: 'genetik',
+    uz: 'Genetik',
     enDef: 'Hereditary. Having to do with the genes.',
     uzDef: 'Irsiy. Genlar bilan bog\'liq.',
     transcript: '[dʒəˈnɛtɪk]',
@@ -3073,7 +3073,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Genitalia (n)',
-    uz: 'jinsiy a\'zolar',
+    uz: 'Jinsiy a\'zolar',
     enDef: 'The reproductive organs.',
     uzDef: 'Reproduktiv organlar.',
     transcript: '[ˌdʒɛnɪˈteɪlɪə]',
@@ -3081,7 +3081,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Genitourinary system (n)',
-    uz: 'genitouriya tizimi',
+    uz: 'Genitouriya tizimi',
     enDef: 'The genitals and urinary organs.',
     uzDef: 'Jinsiy organlar va siydik chiqarish organlari.',
     transcript: '[ˌdʒɛ-nə-tō-ˈyu̇r-ə-ˌner-ē ˈsɪstəm]',
@@ -3089,7 +3089,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Geriatrics (n)',
-    uz: 'geriatriya',
+    uz: 'Geriatriya',
     enDef: 'The branch of medicine devoted to the elderly.',
     uzDef: 'Tibbiyotning keksalarga bag\'ishlangan bo\'limi.',
     transcript: '[ˌdʒɛriˈætrɪks]',
@@ -3097,7 +3097,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Germ (n)',
-    uz: 'mikrob',
+    uz: 'Mikrob',
     enDef: 'A disease-causing microorganism.',
     uzDef: 'Kasallik qo\'zg\'atuvchi mikroorganizm.',
     transcript: '[dʒərm]',
@@ -3105,7 +3105,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'German measles (n)',
-    uz: 'nemis qizamiq',
+    uz: 'Nemis qizamiq',
     enDef:
         'A mild childhood disease that causes fever and rash. Although rubella is mild in childhood, it’s dangerous to pregnant women…',
     uzDef:
@@ -3115,7 +3115,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gestation (n)',
-    uz: 'homiladorlik',
+    uz: 'Homiladorlik',
     enDef:
         'The period of development within the uterus from conception to birth.',
     uzDef:
@@ -3125,7 +3125,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Giantism (n)',
-    uz: 'gigantizm',
+    uz: 'Gigantizm',
     enDef:
         'Abnormal growth of the body due to an excessive amount of growth hormone produced by the pituitary gland.',
     uzDef:
@@ -3135,7 +3135,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Giardiasis (n)',
-    uz: 'lyamblioz',
+    uz: 'Lyamblioz',
     enDef:
         'A diarrheal illness caused by infection with Giardia lamblia, a parasitic protozoan.',
     uzDef:
@@ -3145,7 +3145,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gingiva (n)',
-    uz: 'gingiva',
+    uz: 'Gingiva',
     enDef: 'The gums.',
     uzDef: "Tish go'shti.",
     transcript: '[dʒɪnˈdʒaɪvə]',
@@ -3153,7 +3153,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gingivitis (n)',
-    uz: 'gingivit',
+    uz: 'Gingivit',
     enDef: 'Inflammation of the gums.',
     uzDef: "Tish go'shtining yallig'lanishi.",
     transcript: '[ˌdʒɪndʒəˈvaɪdəs]',
@@ -3161,7 +3161,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gland (n)',
-    uz: 'bez',
+    uz: 'Bez',
     enDef:
         'An organ that releases a chemical. Endocrine glands are ductless and secrete hormones directly into the bloodstream. Exocrine glands secrete…',
     uzDef:
@@ -3171,7 +3171,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Glaucoma (n)',
-    uz: 'glaukoma',
+    uz: 'Glaukoma',
     enDef:
         'An eye disease, characterized by increased pressure within the eye, that can result in blindness if not treated.',
     uzDef:
@@ -3181,7 +3181,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Glomerulonephritis (n)',
-    uz: 'glomerulonefrit',
+    uz: 'Glomerulonefrit',
     enDef:
         'When the filtering units in the kidneys, called the glomeruli, are damaged, the kidneys don’t function properly and waste and…',
     uzDef:
@@ -3191,7 +3191,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Glossitis (n)',
-    uz: 'glossit',
+    uz: 'Glossit',
     enDef: 'Inflammation of the tongue.',
     uzDef: "Tilning yallig'lanishi",
     transcript: '[ɡlɑˈsaɪdɪs]',
@@ -3199,7 +3199,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Glucose (n)',
-    uz: 'glyukoza',
+    uz: 'Glyukoza',
     enDef:
         'Dextrose. A simple six-carbon sugar naturally found in fruits, honey and blood.',
     uzDef:
@@ -3209,7 +3209,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Goiter (n)',
-    uz: "bo'qoq",
+    uz: "Bo'qoq",
     enDef: 'Enlargement of the thyroid gland.',
     uzDef: "Qalqonsimon bezning kengayishi.",
     transcript: '[ˈɡɔɪtər]',
@@ -3217,7 +3217,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gonad (n)',
-    uz: 'jinsiy bez',
+    uz: 'Jinsiy bez',
     enDef: 'A sex gland (ovary or testis).',
     uzDef: "Jinsiy bez (tuxumdon yoki moyak).",
     transcript: '[ˈɡoʊnæd]',
@@ -3225,7 +3225,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gonorrhea (n)',
-    uz: 'gonoreya',
+    uz: 'Gonoreya',
     enDef:
         'A highly contagious, sexually transmitted bacterial disease of the genital/urinary system.',
     uzDef:
@@ -3235,7 +3235,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gout (n)',
-    uz: 'podagra',
+    uz: 'Podagra',
     enDef:
         'A form of arthritis caused by deposits of uric acid crystals in the joints, usually the feet, hands and, especially, ...',
     uzDef:
@@ -3245,7 +3245,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Graft',
-    uz: "payvand qilish",
+    uz: "Payvand qilish",
     enDef: 'A piece of skin or other tissue used as a transplant.',
     uzDef:
         "Transplantatsiya sifatida ishlatiladigan teri yoki boshqa to'qimalarning bir qismi.",
@@ -3262,8 +3262,8 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'grand mal',
-    uz: 'grand mal',
+    en: 'Grand mal',
+    uz: 'Grand mal',
     enDef:
         'A major epileptic seizure characterized by convulsions, unconsciousness and sometimes loss of urinary or bowel continence. Usually followed by a…',
     uzDef:
@@ -3283,7 +3283,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Groin (n)',
-    uz: 'chanoq',
+    uz: 'Chanoq',
     enDef: 'The region of the body where the thigh and lower abdomen meet.',
     uzDef: "Tananing son va qorinning pastki qismi uchrashadigan hududi.",
     transcript: '[ɡrɔɪn]',
@@ -3301,7 +3301,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gynecology (n)',
-    uz: 'ginekologiya',
+    uz: 'Ginekologiya',
     enDef:
         'The branch of medicine that deals with the study and treatment of reproductive diseases in women.',
     uzDef:
@@ -3311,7 +3311,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Gynecomastia (n)',
-    uz: 'jinekomastiya',
+    uz: 'Jinekomastiya',
     enDef:
         'Overdevelopment of male breast tissue. Usually benign and temporary.',
     uzDef:
@@ -3321,7 +3321,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Halitosis (n)',
-    uz: 'halitoz',
+    uz: 'Halitoz',
     enDef: 'Bad breath.',
     uzDef: 'Yomon nafas.',
     transcript: '[ˌhæləˈtoʊsɪs]',
@@ -3329,7 +3329,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hallucination (n)',
-    uz: 'gallyutsinatsiya',
+    uz: 'Gallyutsinatsiya',
     enDef:
         'The sensory perception of sights, sounds or objects that don’t really exist.',
     uzDef:
@@ -3339,7 +3339,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hammer (n)',
-    uz: 'bolg\'a',
+    uz: 'Bolg\'a',
     enDef: 'The malleus, a hammer-shaped bone in the middle ear.',
     uzDef: "Malleus, o'rta quloqdagi bolg'a shaklidagi suyak.",
     transcript: '[ˈhæmər]',
@@ -3347,7 +3347,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hamstring (n)',
-    uz: 'son mushaklari',
+    uz: 'Son mushaklari',
     enDef: 'The tendon located in the back of the knee and lower thigh.',
     uzDef:
         "Tendon tizzaning orqa qismida va sonning pastki qismida joylashgan.",
@@ -3356,7 +3356,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hand-foot-and-mouth disease (n)',
-    uz: 'qo\'l-oyoq-og\'iz kasalligi',
+    uz: 'Qo\'l-oyoq-og\'iz kasalligi',
     enDef:
         'A viral infection characterized by a blister-like rash of the hands, feet and mouth.',
     uzDef:
@@ -3365,8 +3365,8 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'hangnail',
-    uz: 'tirnoq',
+    en: 'Hangnail',
+    uz: 'Tirnoq',
     enDef: 'A loose piece of skin at one side of a fingernail.',
     uzDef: "Tirnoqning bir tomonida terining bo'shashgan qismi.",
     transcript: '[ˈhæŋˌneɪl]',
@@ -3381,8 +3381,8 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'harelip',
-    uz: 'harelip',
+    en: 'Harelip',
+    uz: 'Harelip',
     enDef: 'Cleft lip or palate.',
     uzDef: "Yoriq lab yoki tanglay.",
     transcript: '[ˈherˌlɪp]',
@@ -3400,7 +3400,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hay fever (n)',
-    uz: 'gul changiga allergiya',
+    uz: 'Gul changiga allergiya',
     enDef:
         'Allergic sensitivity to certain mold spores and pollens. Allergic reaction includes sneezing, itchy eyes, sore throat and runny nose.',
     uzDef:
@@ -3410,7 +3410,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heart (n)',
-    uz: 'yurak',
+    uz: 'Yurak',
     enDef:
         'The hollow, muscular organ responsible for pumping blood through the circulatory system.',
     uzDef:
@@ -3420,7 +3420,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heart block (n)',
-    uz: 'yurak bloki',
+    uz: 'Yurak bloki',
     enDef:
         'A condition in which electrical impulses aren’t properly transmitted from the heart’s upper to the lower chambers.',
     uzDef:
@@ -3430,7 +3430,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heart failure (n)',
-    uz: 'yurak etishmovchiligi',
+    uz: 'Yurak etishmovchiligi',
     enDef: 'Inability of the heart to adequately pump blood.',
     uzDef: 'Yurakning qonni etarli darajada pompalamasligi.',
     transcript: '[härt ˈfālyər]',
@@ -3438,7 +3438,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heartburn (n)',
-    uz: 'yurak urishi',
+    uz: 'Yurak urishi',
     enDef:
         'Indigestion. A burning sensation in the chest caused by a reflux of acid into the esophagus or too much acid…',
     uzDef:
@@ -3448,7 +3448,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heat exhaustion (n)',
-    uz: 'issiqlik charchoq',
+    uz: 'Issiqlik charchoq',
     enDef:
         'Headache, profuse sweating, weakness, muscle cramps, nausea and vomiting caused by excessive exposure to heat.',
     uzDef:
@@ -3458,7 +3458,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heat stroke (n)',
-    uz: 'issiqlik urishi',
+    uz: 'Issiqlik urishi',
     enDef:
         'A serious failure of the body’s heat-regulating mechanism resulting from excessive exposure to intense heat. Also called sunstroke.',
     uzDef:
@@ -3468,7 +3468,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemangioma (n)',
-    uz: 'gemangioma',
+    uz: 'Gemangioma',
     enDef: 'A tumor or swelling that’s composed of blood vessels.',
     uzDef: "Qon tomirlaridan tashkil topgan shish yoki shish.",
     transcript: '[ˌhēmənˌjēˈōmə]',
@@ -3476,7 +3476,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hematemesis (n)',
-    uz: 'gematemez',
+    uz: 'Gematemez',
     enDef: 'The vomiting of blood.',
     uzDef: 'Qon qusish.',
     transcript: '[ˌhēməˈteməsəs]',
@@ -3484,7 +3484,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hematology (n)',
-    uz: 'gematologiya',
+    uz: 'Gematologiya',
     enDef:
         'The branch of medicine that pertains to blood and the organs involved in forming blood.',
     uzDef:
@@ -3494,7 +3494,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hematoma (n)',
-    uz: 'gematoma',
+    uz: 'Gematoma',
     enDef:
         'A tumor-like mass of coagulated blood in the soft tissues. A contusion or bruise.',
     uzDef:
@@ -3504,7 +3504,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hematuria (n)',
-    uz: 'gematuriya',
+    uz: 'Gematuriya',
     enDef: 'The presence of blood in the urine.',
     uzDef: 'Siydikda qon mavjudligi.',
     transcript: '[ˌhēməˈt(y)o͝orēə]',
@@ -3512,7 +3512,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemiplegia (n)',
-    uz: 'hemipleji',
+    uz: 'Hemipleji',
     enDef: 'Paralysis (loss of feeling or movement) of one side of the body.',
     uzDef: "Tananing bir tomonida falaj (his yoki harakatni yo'qotish).",
     transcript: '[ˌheməˈplēj(ē)ə]',
@@ -3520,7 +3520,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemochromatosis (n)',
-    uz: 'gemokromatoz',
+    uz: 'Gemokromatoz',
     enDef:
         'A disorder of iron metabolism characterized by excessive amounts of iron in the skin, liver and other tissues.',
     uzDef:
@@ -3530,7 +3530,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemoglobin (n)',
-    uz: 'gemoglobin',
+    uz: 'Gemoglobin',
     enDef: 'The oxygen-carrying molecule in red blood cells.',
     uzDef: 'Qizil qon hujayralarida kislorod tashuvchi molekula.',
     transcript: '[ˈhēməˌɡlōbən]',
@@ -3538,7 +3538,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemolysis (n)',
-    uz: 'gemoliz',
+    uz: 'Gemoliz',
     enDef: 'The destruction of red blood cells.',
     uzDef: "Qizil qon hujayralarini yo'q qilish.",
     transcript: '[hēˈmäləsəs]',
@@ -3546,7 +3546,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemophilia (n)',
-    uz: 'gemofiliya',
+    uz: 'Gemofiliya',
     enDef:
         'An inherited disorder, nearly always in males, in which one of the normal blood-clotting factors is deficient.',
     uzDef:
@@ -3556,7 +3556,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemoptysis (n)',
-    uz: 'gemoptiz',
+    uz: 'Gemoptiz',
     enDef: 'A cough that produces blood.',
     uzDef: 'Qon hosil qiluvchi yo\'tal.',
     transcript: '[hēˈmäptəsəs]',
@@ -3564,7 +3564,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemorrhage (n)',
-    uz: 'qon ketishi',
+    uz: 'Qon ketishi',
     enDef: 'Severe bleeding, usually from damage to a blood vessel.',
     uzDef: "Kuchli qon ketishi, odatda qon tomirining shikastlanishidan.",
     transcript: '[ˈhɛmərɪdʒ]',
@@ -3572,7 +3572,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemorrhoid (n)',
-    uz: 'gemoroy',
+    uz: 'Gemoroy',
     enDef: 'An enlarged vein inside or just outside the rectum.',
     uzDef: "Rektumning ichkarisida yoki tashqarisida kattalashgan vena.",
     transcript: '[ˈhem(ə)ˌroid]',
@@ -3580,7 +3580,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hemostasis (n)',
-    uz: 'gemostaz',
+    uz: 'Gemostaz',
     enDef: 'Control of bleeding.',
     uzDef: 'Qon ketishini nazorat qilish.',
     transcript: '[ˌhiːmə(ʊ)ˈsteɪsɪs]',
@@ -3588,7 +3588,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hepatic (adj)',
-    uz: 'to’plangan',
+    uz: 'To’plangan',
     enDef: 'Having to do with the liver.',
     uzDef: 'Jigar bilan bog\'liq.',
     transcript: '[hɪˈpatɪk]',
@@ -3596,7 +3596,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hepatitis (n)',
-    uz: 'gepatit',
+    uz: 'Gepatit',
     enDef: 'Inflammation or infection of the liver.',
     uzDef: 'Jigarning yallig\'lanishi yoki infektsiyasi.',
     transcript: '[ˌhepəˈtaɪtɪs]',
@@ -3604,7 +3604,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heredity (n)',
-    uz: 'o’liklik',
+    uz: 'O’liklik',
     enDef: 'Transmission of genetic traits from parents to children.',
     uzDef: 'Genetik xususiyatlarni ota-onalardan bolalarga etkazish.',
     transcript: '[hɪˈrɛdɪti]',
@@ -3612,7 +3612,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hermaphrodite (n)',
-    uz: 'germafrodit',
+    uz: 'Germafrodit',
     enDef: 'A person with both male and female sex organs.',
     uzDef: 'Ham erkak, ham ayol jinsiy a\'zolari bo\'lgan odam.',
     transcript: '[hɜːˈmæfrədæɪt]',
@@ -3620,7 +3620,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hernia (n)',
-    uz: 'churra',
+    uz: 'Churra',
     enDef:
         'An abnormal protrusion of part of an organ through an abnormal opening.',
     uzDef:
@@ -3630,7 +3630,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Herpes (n)',
-    uz: 'herpes',
+    uz: 'Herpes',
     enDef:
         'A recurring viral skin infection characterized by clusters of small blisters. Typically, sores are located near the mouth (fever blisters…',
     uzDef:
@@ -3640,7 +3640,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Heterosexual (adj)',
-    uz: 'geteroseksual',
+    uz: 'Geteroseksual',
     enDef: 'Having to do with the opposite sex.',
     uzDef: 'Qarama-qarshi jins bilan bog\'liq.',
     transcript: '[het(ə)rə(ʊ)ˈsekʃʊəl]',
@@ -3648,7 +3648,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hexachlorophene (n)',
-    uz: 'geksaxlorofen',
+    uz: 'Geksaxlorofen',
     enDef: 'A detergent that kills germs.',
     uzDef: 'Mikroblarni o\'ldiradigan detarjen.',
     transcript: '[heksəˈklôrəfēn]',
@@ -3656,7 +3656,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hiccup (n)',
-    uz: 'hiqchoq',
+    uz: 'Hiqchoq',
     enDef:
         'A sudden, involuntary spasm of the diaphragm. The sound of hiccups is caused by the sudden intake of air.',
     uzDef:
@@ -3666,7 +3666,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hidradenitis (n)',
-    uz: 'hidradenit',
+    uz: 'Hidradenit',
     enDef: 'Inflammation of the sweat glands.',
     uzDef: 'Ter bezlari yallig\'lanishi.',
     transcript: '[hidrəˈdɛnɪtɪs]',
@@ -3674,7 +3674,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hip (n)',
-    uz: 'bel',
+    uz: 'Bel',
     enDef:
         'The part of the body surrounding the joint between the femur and pelvic bones.',
     uzDef:
@@ -3684,7 +3684,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hirsutism (n)',
-    uz: 'hirsutizm',
+    uz: 'Hirsutizm',
     enDef:
         'Excessive hair growth, usually on the face and chest. Often caused by an imbalance in hormones.',
     uzDef:
@@ -3694,7 +3694,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Histamine (n)',
-    uz: 'gistamin',
+    uz: 'Gistamin',
     enDef:
         'A substance released from certain cells in response to allergens, associated with the development of allergic symptoms, including itchy eyes,…',
     uzDef:
@@ -3704,7 +3704,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Histoplasmosis (n)',
-    uz: 'histoplazmoz',
+    uz: 'Histoplazmoz',
     enDef:
         'A fungal disease caused by inhaling the spores of Histoplasma capsulatum.',
     uzDef:
@@ -3724,7 +3724,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hives (n)',
-    uz: 'uyalar',
+    uz: 'Uyalar',
     enDef: 'A skin reaction characterized by swelling, itching and burning.',
     uzDef:
         'Shishish, qinish va yonish bilan xarakterlanadigan teri reaktsiyasi.',
@@ -3743,7 +3743,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: "Homeopathy (n)",
-    uz: 'homeopatiya',
+    uz: 'Homeopatiya',
     enDef:
         'Medical treatment based on the theory that certain diseases can be cured by giving very small doses of substances that,…',
     uzDef:
@@ -3753,7 +3753,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Homogenize (v)',
-    uz: 'homogenlash',
+    uz: 'Homogenlash',
     enDef: 'To make more uniform in quality or consistency.',
     uzDef: 'Sifat yoki mustahkamlik bo\'yicha bir xillik qilish.',
     transcript: '[həˈmɒdʒənaɪz ]',
@@ -3761,7 +3761,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hordeolum (n)',
-    uz: 'hordeolum',
+    uz: 'Hordeolum',
     enDef: 'Inflammation of a gland on the eyelid. Also called a stye.',
     uzDef:
         'Ko’z qovog’ining yallig’lnishi. Shuningdek, arpabodiyon deb ataladi.',
@@ -3770,7 +3770,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hormone (n)',
-    uz: 'gormon',
+    uz: 'Gormon',
     enDef:
         'A substance formed in an organ of the body and carried by body fluids to another organ or tissue, where…',
     uzDef:
@@ -3780,7 +3780,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Host (n)',
-    uz: 'mezbon',
+    uz: 'Mezbon',
     enDef:
         'An organism that harbors and provides sustenance for another organism.',
     uzDef:
@@ -3790,7 +3790,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: "housemaid's knee (n)",
-    uz: 'uy xizmatkorining tizzasi',
+    uz: 'Uy xizmatkorining tizzasi',
     enDef:
         'Swelling just below the kneecap, caused by the buildup of fluid in response to the constant pressure of kneeling.',
     uzDef:
@@ -3800,7 +3800,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: "Humerus (n)",
-    uz: 'humerus',
+    uz: 'Humerus',
     enDef: 'The bone in the upper arm.',
     uzDef: 'Qo\'lning yuqori qismidagi suyak.',
     transcript: '[ˈhjuːm(ə)rəs ]',
@@ -3808,7 +3808,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Humidifier (n)',
-    uz: 'namlagich',
+    uz: 'Namlagich',
     enDef: 'A device for adding moisture to the air.',
     uzDef: 'Havoga namlik qo\'shish uchun qurilma.',
     transcript: '[hjʊˈmɪdɪfaɪə ]',
@@ -3826,7 +3826,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: "Hydatid (n)",
-    uz: 'hidatid',
+    uz: 'Hidatid',
     enDef:
         'A cyst containing watery fluid and the larvae of certain tapeworms.',
     uzDef:
@@ -3835,8 +3835,8 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'hydatid disease (n)',
-    uz: 'hidatid kasalligi',
+    en: 'Hydatid disease (n)',
+    uz: 'Hidatid kasalligi',
     enDef: 'Infection with the larvae (cysts) of certain tapeworms.',
     uzDef:
         'Ba\'zi tasmasimon qurtlarning lichinkalari (kistalari) bilan infektsiya.',
@@ -3844,8 +3844,8 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'hydatidiform mole (n)',
-    uz: 'hidatidiform mol',
+    en: 'Hydatidiform mole (n)',
+    uz: 'Hidatidiform mol',
     enDef:
         'A cystic tumor of the placental tissues of an abnormal pregnancy. Complications of this disorder include bleeding and infection.',
     uzDef:
@@ -3855,7 +3855,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hydrocele (n)',
-    uz: 'gidrosele',
+    uz: 'Gidrosele',
     enDef:
         'A painless swelling of the scrotum caused by the buildup of fluid in the outer covering of the testes.',
     uzDef:
@@ -3865,7 +3865,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hydrocephalus (n)',
-    uz: 'gidrosefali',
+    uz: 'Gidrosefali',
     enDef:
         'An enlargement of the head caused by the buildup of fluid within the ventricles of the brain. Also called “water’’.',
     uzDef:
@@ -3875,7 +3875,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hygiene (n)',
-    uz: 'gigiena',
+    uz: 'Gigiena',
     enDef: 'The science of health and its maintenance.',
     uzDef: 'Salomatlik va uni saqlash haqidagi fan.',
     transcript: '[ˈhaɪdʒiːn ]',
@@ -3883,7 +3883,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hymen (n)',
-    uz: 'qizlik pardasi',
+    uz: 'Qizlik pardasi',
     enDef:
         'The membrane partly or completely closing the opening to the vagina.',
     uzDef: 'Qin teshigini qisman yoki to\'liq yopuvchi membrana.',
@@ -3892,7 +3892,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hyperbaric (n)',
-    uz: 'giperbarik',
+    uz: 'Giperbarik',
     enDef:
         'Characterized by greater-than-normal pressure. Hyperbaric oxygen is a therapeutic treatment designed to increase blood oxygen by delivering oxygen in a…',
     uzDef:
@@ -3902,7 +3902,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'hyperemesis gravidarum (n)',
-    uz: 'giperemezis gravidarum',
+    uz: 'Giperemezis gravidarum',
     enDef: 'Excessive morning sickness.',
     uzDef:
         'Haddan tashqari ertalab kasallik; homiladorlik paytida ko\'p qusish.',
@@ -3911,7 +3911,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hyperglycemic (n)',
-    uz: 'giperglikemik',
+    uz: 'Giperglikemik',
     enDef: 'High blood sugar.',
     uzDef: 'Yuqori qon shakar.',
     transcript: '[haɪpəˈglisimik ]',
@@ -3919,7 +3919,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hyperparathyroidism (n)',
-    uz: 'giperparatiroidizm',
+    uz: 'Giperparatiroidizm',
     enDef:
         'A condition caused by the overexcretion of parathyroid hormone resulting in changes in the bone and an elevated level of…',
     uzDef:
@@ -3929,7 +3929,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypertension (n)',
-    uz: 'gipertoniya',
+    uz: 'Gipertoniya',
     enDef: 'Abnormally high blood pressure.',
     uzDef: 'Anormal yuqori qon bosimi.',
     transcript: '[haɪpəˈtenʃ(ə)n ]',
@@ -3937,7 +3937,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hyperthyroidism (n)',
-    uz: 'gipertiroidizm',
+    uz: 'Gipertiroidizm',
     enDef: 'Overproduction of thyroid hormone.',
     uzDef: 'Qalqonsimon bez gormonining ortiqcha ishlab chiqarilishi.',
     transcript: '[haɪpəˈθaɪrɔɪdɪz(ə)m ]',
@@ -3945,7 +3945,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hyperventilation (n)',
-    uz: 'giperventiliya',
+    uz: 'Giperventiliya',
     enDef:
         'Rapid or deep breathing producing faintness, numbness, chest pain, apprehension and tingling, and spasms of the extremities.',
     uzDef:
@@ -3955,7 +3955,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypnosis (n)',
-    uz: 'gipnoz',
+    uz: 'Gipnoz',
     enDef: 'A sleep-like state induced by the suggestions of a hypnotist.',
     uzDef:
         'Gipnozchining tavsiyalari bilan yuzaga kelgan uyquga o\'xshash holat.',
@@ -3964,7 +3964,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypnotic (adj)',
-    uz: 'gipnozga oid',
+    uz: 'Gipnozga oid',
     enDef: '1. Having to do with hypnosis. 2. Causing sleep.',
     uzDef: '1. Gipnoz bilan bog\'liq bo\'lish. 2. Uyquga sabab bo\'lish.',
     transcript: '[hɪpˈnɒtɪk ]',
@@ -3972,7 +3972,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypochondriac (n)',
-    uz: 'gipoxondriya',
+    uz: 'Gipoxondriya',
     enDef:
         'Abnormal anxiety about one’s health, often to the point of believing one is suffering from a serious disease.',
     uzDef:
@@ -3982,7 +3982,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypodermic (adj)',
-    uz: 'gipodermik',
+    uz: 'Gipodermik',
     enDef: 'Beneath the skin.',
     uzDef: 'Teri ostiga aloqador.',
     transcript: '[haɪpə(ʊ)ˈdɜːmɪk ]',
@@ -3990,7 +3990,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypoglycemia (n)',
-    uz: 'gipoglikemiya',
+    uz: 'Gipoglikemiya',
     enDef: 'Low blood sugar.',
     uzDef: 'Past qon shakar.',
     transcript: '[ˌhaɪpoʊɡlaɪˈsiːmiə ]',
@@ -3998,7 +3998,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypoparathyroidism (n)',
-    uz: 'gipoparatireoz',
+    uz: 'Gipoparatireoz',
     enDef:
         'Parathyroid hormone insufficiency due to lack of secretion of the parathyroid gland.',
     uzDef:
@@ -4008,7 +4008,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypopituitarism (n)',
-    uz: 'gipopituitarizm',
+    uz: 'Gipopituitarizm',
     enDef:
         'Deficient activity of the pituitary gland causing slowed growth in children, fatigue and decreased appetite in adults, and cessation of…',
     uzDef:
@@ -4018,7 +4018,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hyposensitization (n)',
-    uz: 'giposensibilizatsiya',
+    uz: 'Giposensibilizatsiya',
     enDef:
         'To treat with frequent, small injections of an antigen to decrease the symptoms of an allergy to that antigen.',
     uzDef:
@@ -4028,7 +4028,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypospadias (n)',
-    uz: 'gipospadias',
+    uz: 'Gipospadias',
     enDef:
         'An abnormal opening of the urethra on the underside of the penis or into the vagina.',
     uzDef:
@@ -4038,7 +4038,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypothalamus (n)',
-    uz: 'gipotalamus',
+    uz: 'Gipotalamus',
     enDef:
         'The portion of the brain responsible for temperature regulation and control of the pituitary gland.',
     uzDef:
@@ -4048,15 +4048,15 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypothermia (n)',
-    uz: 'gipotermiya',
+    uz: 'Gipotermiya',
     enDef: 'Low body temperature.',
     uzDef: 'Past tana harorati.',
     transcript: '[haɪpə(ʊ)ˈθɜːmɪə ]',
     favorite: false,
   ),
   Word(
-    en: 'hypothyroidism (n)',
-    uz: 'gipotiroidizm',
+    en: 'Hypothyroidism (n)',
+    uz: 'Gipotiroidizm',
     enDef:
         'A condition of low thyroid hormone production resulting in weight gain, hair loss, sluggishness and thickening of the skin.',
     uzDef:
@@ -4066,7 +4066,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hypoxia (n)',
-    uz: 'gipoksiya',
+    uz: 'Gipoksiya',
     enDef:
         'An abnormal condition resulting from decreased availability of oxygen in the body tissues.',
     uzDef:
@@ -4076,7 +4076,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hysterectomy (n)',
-    uz: 'histerektomiya',
+    uz: 'Histerektomiya',
     enDef: 'Surgical removal of all or part of the uterus.',
     uzDef:
         'Bachadonning to\'liq yoki bir qismini jarrohlik yo\'li bilan olib tashlash.',
@@ -4085,7 +4085,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Hysteria (n)',
-    uz: 'isteriya',
+    uz: 'Isteriya',
     enDef:
         '1. Wild, uncontrolled excitement or other feelings. 2. A disorder in which anxiety is converted into physical symptoms that have…',
     uzDef:
@@ -4095,7 +4095,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Iatrogenic (adj)',
-    uz: 'yatrogenik',
+    uz: 'Yatrogenik',
     enDef: 'Resulting from medical treatment.',
     uzDef: 'Tibbiy davolanish natijasida.',
     transcript: '[aɪˌatrə(ʊ)ˈdʒenɪk ]',
@@ -4103,15 +4103,15 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ichthyosis (n)',
-    uz: 'ixtyoz',
+    uz: 'Ixtyoz',
     enDef: 'An inherited skin disorder that produces dry, rough, scaly skin.',
     uzDef: 'Quruq, dag\'al, qoraygan teri hosil qiluvchi irsiy teri kasalligi.',
     transcript: '[ˌɪkθɪˈəʊsɪs ]',
     favorite: false,
   ),
   Word(
-    en: 'identical twins (n)',
-    uz: 'ayni bir xil egizaklar',
+    en: 'Identical twins (n)',
+    uz: 'Ayni bir xil egizaklar',
     enDef:
         'Twins formed from a single egg. They are of the same gender and have the same genetic makeup.',
     uzDef:
@@ -4121,7 +4121,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Idiopathic (adj)',
-    uz: 'idyopatik',
+    uz: 'Idyopatik',
     enDef: 'Without a known cause.',
     uzDef: 'Ma\'lum sababsiz.',
     transcript: '[ˌɪdɪə(ʊ)ˈpaθɪk ]',
@@ -4129,7 +4129,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ileitis (n)',
-    uz: 'ileitis',
+    uz: 'Ileitis',
     enDef: 'Inflammation of the lower part of the small intestine.',
     uzDef: 'Ingichka ichakning pastki qismining yallig\'lanishi.',
     transcript: '[ˌɪlɪˈaɪtɪs ]',
@@ -4137,7 +4137,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ileum (n)',
-    uz: 'yonbosh ichak',
+    uz: 'Yonbosh ichak',
     enDef: 'The lower part of the small intestine.',
     uzDef: 'Ingichka ichakning pastki qismi.',
     transcript: '[ˈɪlɪəm ]',
@@ -4145,7 +4145,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ileus (n)',
-    uz: 'ileus',
+    uz: 'Ileus',
     enDef:
         'Lack of movement of digested food and juices through the gastrointestinal tract. May be due to a blockage of the…',
     uzDef:
@@ -4155,7 +4155,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ilium (n)',
-    uz: 'ilium',
+    uz: 'Ilium',
     enDef: 'The flared portion of the pelvis. The hip bone.',
     uzDef: 'Tos suyagining kengaygan qismi. Son suyagi.',
     transcript: '[ˈɪlɪəm ]',
@@ -4171,7 +4171,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Immune (adj)',
-    uz: 'immunitetga oid',
+    uz: 'Immunitetga oid',
     enDef: 'Resistant to a particular disease.',
     uzDef: 'Muayyan kasallikka chidamli.',
     transcript: '[ɪˈmjuːn ]',
@@ -4179,7 +4179,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Immunity (n)',
-    uz: 'immunitet',
+    uz: 'Immunitet',
     enDef: 'Resistance of the body to infection.',
     uzDef: 'Tananing infektsiyaga chidamliligi.',
     transcript: '[ɪˈmjuːnɪtɪ ]',
@@ -4187,7 +4187,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Immunization (n)',
-    uz: 'immunizatsiya',
+    uz: 'Immunizatsiya',
     enDef:
         'The process of making an individual immune by vaccination or inoculation.',
     uzDef:
@@ -4197,7 +4197,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Immunoglobulin (n)',
-    uz: 'immunoglobulin',
+    uz: 'Immunoglobulin',
     enDef: 'A serum protein involved in immunity. An antibody.',
     uzDef: 'Immunitetda ishtirok etadigan sarum oqsili. Antikor.',
     transcript: '[ɪmjʊnəʊˈɡlɒbjʊlɪn ]',
@@ -4205,7 +4205,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Impetigo (n)',
-    uz: 'impetigo',
+    uz: 'Impetigo',
     enDef:
         'Skin infection characterized by erupting sores. Caused by staphylococcus or streptococcus bacteria.',
     uzDef:
@@ -4215,15 +4215,15 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Impotence (n)',
-    uz: 'ojizlik',
+    uz: 'Ojizlik',
     enDef: 'Inability of a male to achieve erection and orgasm.',
     uzDef: 'Erkakning erektsiya va orgazmga erisha olmasligi.',
     transcript: '[ɪmpət(ə)ns ]',
     favorite: false,
   ),
   Word(
-    en: 'in situ (n)',
-    uz: 'joyida (Saratonni ham anglatadi)',
+    en: 'In situ (n)',
+    uz: 'Joyida (Saratonni ham anglatadi)',
     enDef:
         'In its original place. Carcinoma in situ means cancer that hasn’t spread to other locations.',
     uzDef:
@@ -4233,7 +4233,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Incision (n)',
-    uz: 'kesma',
+    uz: 'Kesma',
     enDef: 'A cut.',
     uzDef: 'Kesish.',
     transcript: '[ɪnˈsɪʒ(ə)n ]',
@@ -4259,7 +4259,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Incontinence (n)',
-    uz: 'inkontinans',
+    uz: 'Inkontinans',
     enDef: 'Inability to hold urine or feces.',
     uzDef: 'Siydik yoki najasni ushlab turolmaslik.',
     transcript: '[ɪnˈkɒntɪnəns ]',
@@ -4267,7 +4267,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Incubate (v)',
-    uz: 'inkubatsiya qilish',
+    uz: 'Inkubatsiya qilish',
     enDef: 'To provide the proper conditions for growth.',
     uzDef: 'O\'sish uchun qulay sharoitlarni ta\'minlash.',
     transcript: '[ˈɪŋkjʊbeɪt ]',
@@ -4275,7 +4275,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Indigestion (n)',
-    uz: 'ovqat hazm qilish buzilishi',
+    uz: 'Ovqat hazm qilish buzilishi',
     enDef:
         'Upper abdominal discomfort usually experienced after a meal due to incomplete digestion.',
     uzDef:
@@ -4285,7 +4285,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Induration (n)',
-    uz: 'chidamlilik',
+    uz: 'Chidamlilik',
     enDef: 'The process of hardening. An abnormally hard spot.',
     uzDef: 'Qattiqlashuv jarayoni. Anormal darajada qattiq nuqta.',
     transcript: '[ˌɪndjʊəˈreɪʃən ]',
@@ -4293,7 +4293,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Infarct (n)',
-    uz: 'infarkt',
+    uz: 'Infarkt',
     enDef:
         'An area of dead or dying tissue produced by lack of blood flow to or from that area.',
     uzDef:
@@ -4303,7 +4303,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Infection (n)',
-    uz: 'infektsiya',
+    uz: 'Infektsiya',
     enDef:
         'Causing disease, especially by the presence of foreign microorganisms in the body, including bacteria, viruses or parasites.',
     uzDef:
@@ -4312,8 +4312,8 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'infectious disease (n)',
-    uz: 'yuqumli kasallik',
+    en: 'Infectious disease (n)',
+    uz: 'Yuqumli kasallik',
     enDef: 'A disease that can be spread from one person to another.',
     uzDef: 'Bir odamdan boshqasiga yuqadigan kasallik.',
     transcript: '[ɪnˈfekʃəs dɪˈziːz ]',
@@ -4321,7 +4321,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Infertility (n)',
-    uz: 'bepushtlik',
+    uz: 'Bepushtlik',
     enDef: 'Inability to produce children.',
     uzDef: 'Bolalarni tug\'dira olmaslik.',
     transcript: '[ˌɪnfɜːˈtɪlətɪ ]',
@@ -4329,7 +4329,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Inflammation (n)',
-    uz: 'yallig\'lanish',
+    uz: 'Yallig\'lanish',
     enDef:
         'Swelling, redness, warmth and pain. A body tissue’s protective response to injury.',
     uzDef:
@@ -4339,7 +4339,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Influenza (n)',
-    uz: 'gripp',
+    uz: 'Gripp',
     enDef:
         'A contagious and infectious respiratory illness usually occurring in the winter.',
     uzDef:
@@ -4349,7 +4349,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'ingrown nail (n)',
-    uz: 'o\'sgan tirnoq',
+    uz: 'O\'sgan tirnoq',
     enDef:
         'Edges of the nail become trapped under the skin, causing inflammation and, sometimes, infection.',
     uzDef:
@@ -4359,7 +4359,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Injection (n)',
-    uz: 'in\'ektsiya',
+    uz: 'In\'ektsiya',
     enDef: 'A fluid introduced into the body by a syringe and needle.',
     uzDef: 'Shprits va igna bilan tanaga kiritilgan suyuqlik.',
     transcript: '[ɪnˈdʒekʃ(ə)n ]',
@@ -4367,7 +4367,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Innate (adj)',
-    uz: 'tug\'ma',
+    uz: 'Tug\'ma',
     enDef: 'Inborn, hereditary.',
     uzDef: 'Tug\'ma, irsiy.',
     transcript: '[ɪˈneɪt ]',
@@ -4375,7 +4375,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Inoculation (n)',
-    uz: 'emlash',
+    uz: 'Emlash',
     enDef:
         'The injection of a disease agent into the body to cause a mild form of the disease and build immunity.',
     uzDef:
@@ -4385,7 +4385,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Inoperable (adj)',
-    uz: 'ish bermaydigan',
+    uz: 'Ish bermaydigan',
     enDef: 'Not curable through surgery.',
     uzDef: 'Jarrohlik yo\'li bilan davolash mumkin emas.',
     transcript: '[ɪnˈɒp(ə)rəb(ə)l ]',
@@ -4393,7 +4393,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Insanity (n)',
-    uz: 'aqldan ozish',
+    uz: 'Aqldan ozish',
     enDef:
         'Any form or degree of mental disturbance or unsoundness of mind, permanent or temporary, that makes a person incapable of...',
     uzDef:
@@ -4403,7 +4403,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Insemination (n)',
-    uz: 'urug\'lantirish',
+    uz: 'Urug\'lantirish',
     enDef: 'To deposit sperm in the vagina.',
     uzDef: 'Vaginaga spermani joylashtiris.',
     transcript: '[ɪnsemɪˈneɪʃ(ə)n ]',
@@ -4411,7 +4411,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Insomnia (n)',
-    uz: 'uyqusizlik',
+    uz: 'Uyqusizlik',
     enDef: 'An inability to fall asleep or to remain asleep.',
     uzDef: 'Uxlab qolmaslik yoki uxlab qolmaslik.',
     transcript: '[ɪnˈsɒmnɪə ]',
@@ -4419,7 +4419,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Insulin (n)',
-    uz: 'insulin',
+    uz: 'Insulin',
     enDef:
         'The hormone produced by the pancreas for regulating carbohydrate metabolism. Used in the treatment of diabetes mellitus.',
     uzDef:
@@ -4429,7 +4429,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Integument (n)',
-    uz: 'integument',
+    uz: 'Integument',
     enDef: 'Skin.',
     uzDef: 'Teri.',
     transcript: '[ɪnˈteɡjʊmənt ]',
@@ -4437,7 +4437,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intercourse (n)',
-    uz: 'jinsiy aloqa',
+    uz: 'Jinsiy aloqa',
     enDef:
         'The exchange of communication between individuals. Sexual intercourse is the sexual joining of two people; coitus.',
     uzDef:
@@ -4447,7 +4447,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intestine (n)',
-    uz: 'ichak',
+    uz: 'Ichak',
     enDef:
         'The tube involved in digestion and extending from the stomach to the anus. Consists of the small intestine and the...',
     uzDef:
@@ -4457,7 +4457,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intoxication (n)',
-    uz: 'zaharlanish',
+    uz: 'Zaharlanish',
     enDef:
         'Poisoning, or the state of being affected by a poisonous substance. Often used to describe drunkenness.',
     uzDef:
@@ -4467,7 +4467,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intracellular (adj)',
-    uz: 'hujayra ichidagi',
+    uz: 'Hujayra ichidagi',
     enDef: 'Within a cell.',
     uzDef: 'Hujayra ichida.',
     transcript: '[ˌɪntrəˈseljʊlə ]',
@@ -4475,7 +4475,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intradermal (adj)',
-    uz: 'intradermal',
+    uz: 'Intradermal',
     enDef: 'Within the skin.',
     uzDef: 'Teri ichida.',
     transcript: '[ˌɪntrəˈdɜːm(ə)l ]',
@@ -4483,7 +4483,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intramuscular (adj)',
-    uz: 'mushak ichiga',
+    uz: 'Mushak ichiga',
     enDef: 'Within the muscle.',
     uzDef: 'Mushak ichida.',
     transcript: '[ˌɪntrəˈmʌskjʊlə ]',
@@ -4499,7 +4499,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intravenous (adj)',
-    uz: 'vena ichiga',
+    uz: 'Vena ichiga',
     enDef:
         'Within a vein. Intravenous infusion means to direct fluids through a needle or catheter directly into a vein.',
     uzDef:
@@ -4509,7 +4509,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Intussusception (n)',
-    uz: 'invajinatsiya',
+    uz: 'Invajinatsiya',
     enDef: 'Telescoping a section of the intestine into an adjoining section.',
     uzDef: 'Ichakning bir qismini qo\'shni bo\'limga teleskoplash.',
     transcript: '[ˌɪntəsəˈsepʃ(ə)n ]',
@@ -4517,7 +4517,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Iris (n)',
-    uz: 'iris',
+    uz: 'Iris',
     enDef:
         'The colored portion of the eye. It’s a muscle that controls the amount of light entering the pupil.',
     uzDef:
@@ -4527,7 +4527,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Iritis (n)',
-    uz: 'iritis',
+    uz: 'Iritis',
     enDef: 'Inflammation of the iris.',
     uzDef: 'Irisning yallig\'lanishi.',
     transcript: '[aɪˈraɪtɪs ]',
@@ -4535,7 +4535,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Irrigation (n)',
-    uz: 'sug\'orish',
+    uz: 'Sug\'orish',
     enDef: 'Washing of a body cavity or wound with a stream of water.',
     uzDef: 'Tana bo\'shlig\'ini yoki yarani suv oqimi bilan yuvish.',
     transcript: '[ɪrɪˈɡeɪʃ(ə)n ]',
@@ -4543,7 +4543,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ischemia (n)',
-    uz: 'ishemiya',
+    uz: 'Ishemiya',
     enDef: 'A lack of blood supply to a body part.',
     uzDef: 'Tananing bir qismiga qon ta\'minoti etishmasligi.',
     transcript: '[ˌɪˈskemɪə ]',
@@ -4575,7 +4575,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Jaundice (n)',
-    uz: 'sariqlik',
+    uz: 'Sariqlik',
     enDef:
         'Yellow discoloration of the skin and eyes caused by the buildup of bile in the blood.',
     uzDef: 'Qonda safro to\'planishi natijasida teri va ko\'zning sariq rangi.',
@@ -4584,7 +4584,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Jejunum (n)',
-    uz: 'jejunum',
+    uz: 'Jejunum',
     enDef:
         'The middle part of the small intestine, located between the duodenum and ileum.',
     uzDef:
@@ -4594,7 +4594,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Joint (n)',
-    uz: 'qo\'shma(bo’g’im)',
+    uz: 'Qo\'shma(bo’g’im)',
     enDef:
         'The joining of two or more bones. In general, joints allow flexibility and mobility.',
     uzDef:
@@ -4604,7 +4604,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Jugular (n)',
-    uz: 'bo\'yinbog\'',
+    uz: 'Bo\'yinbog\'',
     enDef: 'Of the neck or throat, as in jugular veins.',
     uzDef: 'Bo\'yin tomirlarida bo\'lgani kabi bo\'yin yoki tomoqning.',
     transcript: '[ˈdʒʌɡjʊlə ]',
@@ -4622,7 +4622,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: "Keloid (n)",
-    uz: 'keloid',
+    uz: 'Keloid',
     enDef: 'Excessive growth of scar tissue on the skin.',
     uzDef: 'Terida chandiq to’qimalarining haddan tashqari o’sishi.',
     transcript: '[ˈkēloid ]',
@@ -4630,7 +4630,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Keratin (n)',
-    uz: 'keratin',
+    uz: 'Keratin',
     enDef: 'The main protein of skin, hair and nails.',
     uzDef: 'Teri, soch va tirnoqlarning  asosiy oqsili.',
     transcript: '[ˈkerədən ]',
@@ -4638,7 +4638,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Keratitis (n)',
-    uz: 'keratit',
+    uz: 'Keratit',
     enDef: 'Inflammation of the cornea of the eye.',
     uzDef: 'Ko’zning shox pardasining yallig’lanishi.',
     transcript: '[keratıtis ]',
@@ -4646,7 +4646,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Keratoconus (n)',
-    uz: 'keratokonus',
+    uz: 'Keratokonus',
     enDef:
         'A deformity of the cornea in which the cornea resembles the end of a football.',
     uzDef:
@@ -4656,7 +4656,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ketones (n)',
-    uz: 'ketonlar',
+    uz: 'Ketonlar',
     enDef:
         'The initial breakdown products of fatty acid metabolism. Unavailability of carbohydrates from starvation or uncontrolled diabetes mellitus increases the production…',
     uzDef:
@@ -4666,7 +4666,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Kidney (n)',
-    uz: 'buyrak',
+    uz: 'Buyrak',
     enDef:
         'A pair of organs in the upper abdominal cavity that separate the body’s water and waste products from the blood…',
     uzDef:
@@ -4676,7 +4676,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Knee (n)',
-    uz: 'tizza',
+    uz: 'Tizza',
     enDef:
         'The complex hinge joint of the upper and lower leg involving the femur, tibia and patella.',
     uzDef:
@@ -4686,7 +4686,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Knock-knee (n)',
-    uz: 'tizza taqillatish',
+    uz: 'Tizza taqillatish',
     enDef:
         'A deformity in which the knees rub together or touch each other in walking.',
     uzDef:
@@ -4696,7 +4696,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Labia (n)',
-    uz: 'labiga',
+    uz: 'Labiga',
     enDef:
         'Lip-shaped structures; often used to describe the outer folds of the female genitalia.',
     uzDef:
@@ -4706,7 +4706,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Labyrinth (n)',
-    uz: 'labirint',
+    uz: 'Labirint',
     enDef:
         'The system of interconnecting canals and cavities in the inner ear. Plays an important role in hearing and in…',
     uzDef:
@@ -4716,7 +4716,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Laceration (n)',
-    uz: 'laseratsiya',
+    uz: 'Laseratsiya',
     enDef:
         'A wound caused by a cut from a sharp instrument or the tearing of body tissue.',
     uzDef:
@@ -4726,7 +4726,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lacrimation (n)',
-    uz: 'lakrematsiya',
+    uz: 'Lakrematsiya',
     enDef: 'Discharge of tears. “Watering” eyes.',
     uzDef: 'Ko’z yoshlari oqishi. Sug’orish ko’zlari.',
     transcript: '[lakrimeshn ]',
@@ -4734,7 +4734,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lactase (n)',
-    uz: 'laktaza',
+    uz: 'Laktaza',
     enDef:
         'An enzyme that converts the milk sugar lactose into glucose and galactose.',
     uzDef:
@@ -4744,7 +4744,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lactation (n)',
-    uz: 'laktatsiya',
+    uz: 'Laktatsiya',
     enDef: 'Secretion of milk by the breasts.',
     uzDef: 'Ko’krak orqali sut sekretsiyasi.',
     transcript: '[lakteşn ]',
@@ -4752,7 +4752,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lactose (n)',
-    uz: 'laktoza',
+    uz: 'Laktoza',
     enDef: 'Milk sugar.',
     uzDef: 'Sut shakar.',
     transcript: '[ˈlakˌtōs ]',
@@ -4760,7 +4760,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Laryngitis (n)',
-    uz: 'laringit',
+    uz: 'Laringit',
     enDef:
         'Inflammation of the larynx, resulting in a temporary loss of voice.',
     uzDef: 'Tarmoqning yallig’lanishi, natijada ovozning vaqtincha yo’qilishi.',
@@ -4769,7 +4769,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Larynx (n)',
-    uz: 'halqum',
+    uz: 'Halqum',
     enDef: 'The voice box.',
     uzDef: 'Ovoz qutisi.',
     transcript: '[leriniks ]',
@@ -4777,7 +4777,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lateral (adj)',
-    uz: 'lateral',
+    uz: 'Lateral',
     enDef: 'Toward the side, sideways.',
     uzDef: 'Yon tomonga.',
     transcript: '[ˈladərəl ]',
@@ -4785,7 +4785,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lavage (n)',
-    uz: 'yuvish',
+    uz: 'Yuvish',
     enDef: 'Washing out of an organ, especially the stomach.',
     uzDef: 'Organni ayniqsa osbqozonni yuvish.',
     transcript: '[ləˈväZH ]',
@@ -4803,7 +4803,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lens (n)',
-    uz: 'obyektiv',
+    uz: 'Obyektiv',
     enDef:
         '1. A curved glass used to bring together or spread rays of light. 2. The transparent organ lying behind the…',
     uzDef:
@@ -4813,7 +4813,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Leprosy (n)',
-    uz: 'moxov',
+    uz: 'Moxov',
     enDef:
         'A progressive infectious disease that attacks the skin, flesh and nerves; characterized by nodules, ulcers, scaly scabs, deformities and the…',
     uzDef:
@@ -4833,7 +4833,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lethargy (n)',
-    uz: 'letargiya',
+    uz: 'Letargiya',
     enDef: 'A lack of energy; sluggishness, dullness or apathy.',
     uzDef: 'Energiya yetishmasligi; sustlik, xiralik yoki befarqlik.',
     transcript: '[ˈleTHərjē ]',
@@ -4841,7 +4841,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Leukemia (n)',
-    uz: 'leykemiya',
+    uz: 'Leykemiya',
     enDef: 'Cancer of the tissues in the bone marrow, spleen and lymph nodes.',
     uzDef: 'Suyak iligi, taloq va limfa tugunlaridagi to’qimalarning saratoni.',
     transcript: '[leykemia ]',
@@ -4849,7 +4849,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Leukocytes (n)',
-    uz: 'leykositlar',
+    uz: 'Leykositlar',
     enDef:
         'White blood cells, the blood cells responsible for fighting infection.',
     uzDef:
@@ -4859,7 +4859,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Leukopenia (n)',
-    uz: 'leykopeniya',
+    uz: 'Leykopeniya',
     enDef: 'A lower than normal number of leukocytes in the blood.',
     uzDef: 'Qondagi leykositlar soni me’yoridan pastligi.',
     transcript: '[leukopenia ]',
@@ -4867,7 +4867,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Leukopheresis (n)',
-    uz: 'leykoferez',
+    uz: 'Leykoferez',
     enDef:
         'Selective removal of the white blood cells from a donor’s blood. The other components of the blood are then returned…',
     uzDef:
@@ -4877,7 +4877,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Leukoplakia (n)',
-    uz: 'leykoplakiya',
+    uz: 'Leykoplakiya',
     enDef: 'Thick, white patches in the mouth that may become malignant.',
     uzDef: 'Og’izda yomon asaorat qoldirishi mumkun bo’lgan qalin oq dog’lar.',
     transcript: '[ˌlo͞okəˈplākēə ]',
@@ -4885,7 +4885,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lichen (n)',
-    uz: 'liken',
+    uz: 'Liken',
     enDef:
         'Any of various skin diseases characterized by sores and enlarged skin markings.',
     uzDef:
@@ -4895,7 +4895,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ligament (n)',
-    uz: 'ligament',
+    uz: 'Ligament',
     enDef:
         'A tough band of connective tissue connecting bones or holding organs in place.',
     uzDef:
@@ -4905,7 +4905,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ligature (n)',
-    uz: 'ligatur',
+    uz: 'Ligatur',
     enDef:
         'A wire or thread used to tie off blood vessels or to close incisions or wounds.',
     uzDef:
@@ -4915,7 +4915,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lightening (n)',
-    uz: 'yoritish',
+    uz: 'Yoritish',
     enDef:
         'The feeling of decreased abdominal pressure during the last few weeks of pregnancy caused by the uterus dropping into the…',
     uzDef:
@@ -4925,7 +4925,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Limbus (n)',
-    uz: 'limbus',
+    uz: 'Limbus',
     enDef:
         'Margin, or border. The margin of the cornea where it contacts the sclera.',
     uzDef:
@@ -4935,7 +4935,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lingua (n)',
-    uz: 'til',
+    uz: 'Til',
     enDef: 'Tongue',
     uzDef: 'Til',
     transcript: '[lingua ]',
@@ -4943,7 +4943,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lipid (n)',
-    uz: 'lipid',
+    uz: 'Lipid',
     enDef: 'Cholesterol, triglycerides and related substances.',
     uzDef: 'Xolestirin, triglitseridlar va tegishli moddalar.',
     transcript: '[‘lipid ]',
@@ -4951,7 +4951,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lipocyte (n)',
-    uz: 'yog’li shish',
+    uz: 'Yog’li shish',
     enDef: 'A fat cell.',
     uzDef: 'Yog’li shish.',
     transcript: '[lɪpəˌsaɪt ]',
@@ -4959,7 +4959,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lipolysis (n)',
-    uz: 'lipoliz',
+    uz: 'Lipoliz',
     enDef: 'The splitting up, or destruction, of fat.',
     uzDef: 'Yog’ning bo’linishi yoki parchalnishi.',
     transcript: '[liˈpäləsis ]',
@@ -4967,7 +4967,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lipoma (n)',
-    uz: 'lipoma',
+    uz: 'Lipoma',
     enDef: 'Fatty tumor.',
     uzDef: 'Yog’li shish.',
     transcript: '[liˈpōmə ]',
@@ -4975,7 +4975,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lipoprotein (n)',
-    uz: 'lipoprotein',
+    uz: 'Lipoprotein',
     enDef:
         'Any of a group of proteins combined with a lipid that allow lipids to be transported in the circulatory…',
     uzDef:
@@ -4985,7 +4985,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Liposuction (n)',
-    uz: 'liposaktsiya',
+    uz: 'Liposaktsiya',
     enDef:
         'A surgical procedure that changes body shape by removing fat cells.',
     uzDef:
@@ -4995,7 +4995,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Litholysis (n)',
-    uz: 'litoliz',
+    uz: 'Litoliz',
     enDef: 'Breaking up of a stone, such as a gallstone.',
     uzDef: 'O’t pufagidagi tosh kabi toshni sindirish.',
     transcript: '[litoliys ]',
@@ -5003,7 +5003,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lithotripsy (n)',
-    uz: 'litotripsi',
+    uz: 'Litotripsi',
     enDef:
         'A procedure to break up kidney stones into smaller pieces that can more easily pass out of the body.',
     uzDef:
@@ -5013,7 +5013,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Liver (n)',
-    uz: 'jigar',
+    uz: 'Jigar',
     enDef:
         'The large organ in the upper right abdomen that functions in digestion and storage of food, disposal of worn-out red…',
     uzDef:
@@ -5023,7 +5023,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lobe (n)',
-    uz: 'lob',
+    uz: 'Lob',
     enDef:
         '1.The fleshy lower part of the ear. 2. A well-defined portion of an organ.',
     uzDef:
@@ -5033,7 +5033,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lobectomy (n)',
-    uz: 'lobektomiya',
+    uz: 'Lobektomiya',
     enDef: 'Surgical removal of the lobe of an organ.',
     uzDef: 'Organning lobini jarrohlik yo’lib bilan olib tashalash.',
     transcript: '[lobektomi ]',
@@ -5041,7 +5041,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lobotomy (n)',
-    uz: 'lobotomiya',
+    uz: 'Lobotomiya',
     enDef:
         'A surgical operation in which a lobe of the brain, especially the frontal lobe of the cerebrum, is cut into…',
     uzDef:
@@ -5051,7 +5051,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lochia (n)',
-    uz: 'lochia',
+    uz: 'Lochia',
     enDef:
         'The discharge from the vagina that occurs for several days to weeks after childbirth.',
     uzDef: 'Tug’ilgandan keyin bir necha haftagacha bo’lgan vaginadan oqindi.',
@@ -5060,7 +5060,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lockjaw (n)',
-    uz: 'qulflash',
+    uz: 'Qulflash',
     enDef: 'Tetanus infection.',
     uzDef: 'Tetanoz infeksiyasi.',
     transcript: '[lokyou ]',
@@ -5068,7 +5068,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Loins (n)',
-    uz: 'bel',
+    uz: 'Bel',
     enDef: 'The portion of the back between the rib cage and pelvis.',
     uzDef: 'Orqa tomonning qovurg’a va tos suyagi orasidagi qismi.',
     transcript: '[loyns ]',
@@ -5076,7 +5076,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lordosis (n)',
-    uz: 'lordoz',
+    uz: 'Lordoz',
     enDef: 'Forward curvature of the spine, producing a hollow in the back.',
     uzDef: 'Orqa miyaning oldinga egriligi, orqada bo’shliq hosil qiladi.',
     transcript: '[lordosis ]',
@@ -5092,7 +5092,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lumbago (n)',
-    uz: 'lambago',
+    uz: 'Lambago',
     enDef: 'Pain in the lower back.',
     uzDef: 'Pastki orqa qismda og’riq.',
     transcript: '[lambago ]',
@@ -5100,7 +5100,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lumbar (adj)',
-    uz: 'bel',
+    uz: 'Bel',
     enDef: 'Having to do with the lower back, the loins.',
     uzDef: 'Pastki orqa, bel bilan qilish kerak.',
     transcript: '[lamber ]',
@@ -5108,7 +5108,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lungs (n)',
-    uz: 'o’pka',
+    uz: 'O’pka',
     enDef:
         'The main respiratory organs in the chest where blood is oxygenated.',
     uzDef:
@@ -5118,7 +5118,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lupus erythematosus (n)',
-    uz: 'qizil qizil yuguruk',
+    uz: 'Qizil qizil yuguruk',
     enDef:
         'A usually chronic inflammatory disease that causes abnormalities of blood vessels and connective tissue in various parts of the…',
     uzDef:
@@ -5128,7 +5128,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Luteinizing hormone (n)',
-    uz: 'luteinlashtiruvchi gormon',
+    uz: 'Luteinlashtiruvchi gormon',
     enDef:
         'A hormone secreted by the anterior pituitary gland, responsible for stimulating ovulation in the female and testosterone production in the…',
     uzDef:
@@ -5148,7 +5148,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymph (n)',
-    uz: 'limfa',
+    uz: 'Limfa',
     enDef:
         'Consists primarily of a clear, yellowish fluid and white blood cells. Found in the lymphatic system.',
     uzDef:
@@ -5158,7 +5158,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymph node (n)',
-    uz: 'limfa tugunlari',
+    uz: 'Limfa tugunlari',
     enDef:
         'Any of many small, compact structures lying in groups along the course of the lymphatic vessels and producing lymphocytes.',
     uzDef:
@@ -5168,7 +5168,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymphadenitis (n)',
-    uz: 'limfadenit',
+    uz: 'Limfadenit',
     enDef: 'Inflammation of the lymph nodes.',
     uzDef: 'Limfa tugunlarining yallig’lanishi.',
     transcript: '[limfadenits ]',
@@ -5176,7 +5176,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymphangitis (n)',
-    uz: 'limfangit',
+    uz: 'Limfangit',
     enDef: 'Inflammation of a lymphatic vessel.',
     uzDef: 'Limfatik tomirning yallig’lanishi.',
     transcript: '[ˌlimˌfanˈjīdəs ]',
@@ -5184,7 +5184,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymphatic system (n)',
-    uz: 'limfa tizimi',
+    uz: 'Limfa tizimi',
     enDef:
         'The vessels and structures involved in carrying lymph from the tissues to the blood.',
     uzDef:
@@ -5194,7 +5194,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymphedema (n)',
-    uz: 'limfedema',
+    uz: 'Limfedema',
     enDef: 'Swelling of tissue because of the buildup of too much lymph fluid.',
     uzDef:
         'Limfa suyuqliging ko’p to’planishi tufayli to’qimalarning shishishi.',
@@ -5203,7 +5203,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymphocyte (n)',
-    uz: 'limfosit',
+    uz: 'Limfosit',
     enDef:
         'A type of leukocyte (white blood cell) involved in the production of antibodies and the development of immunity.',
     uzDef:
@@ -5213,7 +5213,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Lymphoma (n)',
-    uz: 'limfoma',
+    uz: 'Limfoma',
     enDef: 'A malignant tumor of the lymphoid tissues.',
     uzDef: 'Limfoid to’qimalarning xavfli o’smasi.',
     transcript: '[limˈfōmə ]',
@@ -5221,7 +5221,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Macrophage (n)',
-    uz: 'makrofag',
+    uz: 'Makrofag',
     enDef: 'A large cell that engulfs and digests foreign material.',
     uzDef: 'Begona moddalrni yutib, hazm qiladigan hujayra.',
     transcript: '[ˈmakrəˌfāj ]',
@@ -5229,7 +5229,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Macula (n)',
-    uz: 'makula',
+    uz: 'Makula',
     enDef:
         'The central part of the retina with the highest density of light receptors. Responsible for detailed vision.',
     uzDef:
@@ -5239,7 +5239,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Macule (n)',
-    uz: 'makyol',
+    uz: 'Makyol',
     enDef: 'A discolored, flat spot of skin.',
     uzDef: 'Terining rangsiz, tekis joyi.',
     transcript: '[makyol ]',
@@ -5247,7 +5247,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Malady (n)',
-    uz: 'kasallik',
+    uz: 'Kasallik',
     enDef: 'Illness.',
     uzDef: 'Kasallik',
     transcript: '[ˈmalədē ]',
@@ -5255,7 +5255,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Malaria (n)',
-    uz: 'bezgak',
+    uz: 'Bezgak',
     enDef:
         'An infectious disease of the tropics characterized by high fever and chills. The fever typically recurs every third day.',
     uzDef:
@@ -5265,7 +5265,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Malignancy (n)',
-    uz: 'yomonlik',
+    uz: 'Yomonlik',
     enDef:
         'A tendency to worsen to a more serious illness or death. Commonly used to describe cancer.',
     uzDef:
@@ -5275,7 +5275,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Malingering (n)',
-    uz: 'noqulaylik',
+    uz: 'Noqulaylik',
     enDef:
         'Deliberate exaggeration of the symptoms of an illness or injury for gain. For example, pretending to be ill in order…',
     uzDef:
@@ -5301,7 +5301,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Malnutrition (n)',
-    uz: 'noto’g’ri ovqatlanish',
+    uz: 'Noto’g’ri ovqatlanish',
     enDef: 'Poor nourishment resulting from an inadequate or improper diet.',
     uzDef:
         'Noto’g’ri yoki noto’g’ri ovqatlanish natijasida kelib chiqadigan yomon ovqatlanish.',
@@ -5310,7 +5310,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Malocclusion (n)',
-    uz: 'malokluziya',
+    uz: 'Malokluziya',
     enDef: 'Improper meeting of the upper and lower teeth.',
     uzDef: 'Yuqori va pastki tishlarning noto’g’ri uchrashishi.',
     transcript: '[ˌmaləˈklo͞oZHən ]',
@@ -5318,7 +5318,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Malunion (n)',
-    uz: 'melunion',
+    uz: 'Melunion',
     enDef: 'Improper healing of the pieces of a broken bone.',
     uzDef: 'Singan suyak qismlarini noto’g’ri davolash.',
     transcript: '[melunion ]',
@@ -5326,7 +5326,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mammary (adj)',
-    uz: 'sut bezlari',
+    uz: 'Sut bezlari',
     enDef: 'Having to do with the breast.',
     uzDef: 'Ko’krak bilan bog’liq.',
     transcript: '[ˈmam(ə)rē ]',
@@ -5334,7 +5334,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mandible (n)',
-    uz: 'mandibula',
+    uz: 'Mandibula',
     enDef: 'The lower jaw.',
     uzDef: 'Pastki jag’.',
     transcript: '[mandibl ]',
@@ -5342,7 +5342,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mania (n)',
-    uz: 'maniya',
+    uz: 'Maniya',
     enDef: 'A mental disorder. Characterized by extreme excitement and energy.',
     uzDef:
         'Ruhiy buzilish. Haddan tashqari hayajon va energiya bilan tavsiflanadi.',
@@ -5351,7 +5351,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Manic-depressive (adj)',
-    uz: 'manik-depressiv',
+    uz: 'Manik-depressiv',
     enDef:
         'A mental disorder marked by alternating periods of excitability and depression. Also called bipolar affective disorder.',
     uzDef:
@@ -5361,7 +5361,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Marijuana (n)',
-    uz: 'marixuana',
+    uz: 'Marixuana',
     enDef:
         'A drug derived from the leaves of the Cannabis sativa plant. Makes the user feel euphoric.',
     uzDef:
@@ -5371,7 +5371,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Marrow (n)',
-    uz: 'ilik',
+    uz: 'Ilik',
     enDef: 'The soft, sponge-like material inside the bones.',
     uzDef: 'Suyaklar ichidagi yumshoq, shimhichga o’xshash material.',
     transcript: '[ˈmerō ]',
@@ -5379,7 +5379,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Masculinization (n)',
-    uz: 'maskulinizeshn',
+    uz: 'Maskulinizeshn',
     enDef: 'Development of male sex characteristics in a female.',
     uzDef: 'Ayolda erkak jinsiy xususiyatlarining rivojlanishi.',
     transcript: '[maskulinizeshn ]',
@@ -5387,7 +5387,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Masochism (n)',
-    uz: 'mazoxizm',
+    uz: 'Mazoxizm',
     enDef: 'Pleasure from personal, psychological or physical pain.',
     uzDef: 'Shaxsiy, psixologik yoki jismoniy og’riqdan zavqlanish.',
     transcript: '[ˈmasəˌkizəm ]',
@@ -5395,7 +5395,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mastectomy (n)',
-    uz: 'mastektomiya',
+    uz: 'Mastektomiya',
     enDef: 'Surgical removal of the breast.',
     uzDef: 'Ko’krakni jarrohlik yo’li bilan olib tashlash.',
     transcript: '[maˈstektəmē ]',
@@ -5403,7 +5403,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mastitis (n)',
-    uz: 'mastit',
+    uz: 'Mastit',
     enDef: 'Inflammation of the breast.',
     uzDef: 'Ko’krakning yallig’lanishi.',
     transcript: '[maˈstīdəs ]',
@@ -5411,7 +5411,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mastoid (n)',
-    uz: 'mastoid',
+    uz: 'Mastoid',
     enDef: 'A bony, rounded projection of the skull located behind each ear.',
     uzDef:
         'Har bir quloq orqasida joylashgan bosh suyagining suyak, yumaloq proektsiyasi.',
@@ -5420,7 +5420,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mastoiditis (n)',
-    uz: 'mastoidit',
+    uz: 'Mastoidit',
     enDef:
         'An infection of the mastoid bone that can cause redness, warmth, swelling and pain behind the ear, sometimes with drainage…',
     uzDef:
@@ -5430,7 +5430,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Masturbation (n)',
-    uz: 'onanizm',
+    uz: 'Onanizm',
     enDef: 'Sexual self-stimulation.',
     uzDef: 'Jinsiy o’z-o’zini rag’batlantirish.',
     transcript: '[ˌmastərˈbāSHən ]',
@@ -5438,15 +5438,15 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Maxillae (n)',
-    uz: 'maxillae',
+    uz: 'Maxillae',
     enDef: 'The pair of bones forming the upper jaw.',
     uzDef: 'Yuqori jag’ni hosil qiluvchi juft suyak.',
     transcript: '[maxiale ]',
     favorite: false,
   ),
   Word(
-    en: 'measles',
-    uz: 'qizamiq',
+    en: 'Measles',
+    uz: 'Qizamiq',
     enDef:
         'A highly contagious viral disease occurring most frequently in childhood and characterized by small, red spots on the skin, high…',
     uzDef:
@@ -5465,7 +5465,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: "Meconium (n)",
-    uz: 'mekonyum',
+    uz: 'Mekonyum',
     enDef:
         'The greenish fecal matter in a fetus, forming the first bowel movement of a newborn infant.',
     uzDef:
@@ -5475,7 +5475,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Median nerve (n)',
-    uz: 'median nerv',
+    uz: 'Median nerv',
     enDef:
         'The nerve that stimulates some of the muscles of the hand and wrist.',
     uzDef: 'Qo’l va bilakning ba’zi mushakparini qo’zg’atadigan asab.',
@@ -5484,7 +5484,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Mediastinum (n)',
-    uz: 'mediastinum',
+    uz: 'Mediastinum',
     enDef:
         'The tissues and organs located directly behind the sternum between the lungs. Contains the heart and its large vessels, the…',
     uzDef:
@@ -5494,7 +5494,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Medulla (n)',
-    uz: 'medulla',
+    uz: 'Medulla',
     enDef:
         'The inner part of an organ. The adrenal medulla is the center of the adrenal gland where epinephrine (adrenaline) is…',
     uzDef:
@@ -5504,7 +5504,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Medulla oblongata (n)',
-    uz: 'medulla oblangata',
+    uz: 'Medulla oblangata',
     enDef:
         'The part of the brain just above the spinal cord that includes the control centers for breathing, circulation and…',
     uzDef:
@@ -5514,7 +5514,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Meibomian gland (n)',
-    uz: 'meobian bezi',
+    uz: 'Meobian bezi',
     enDef:
         'A type of gland of the eyelid’s inner surface. Inflammation of a meibomian gland can produce a swelling called a…',
     uzDef:
@@ -5524,7 +5524,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Melancholia (n)',
-    uz: 'melanxoliya',
+    uz: 'Melanxoliya',
     enDef:
         'A mental state characterized by extreme sadness. A severe form of depression.',
     uzDef:
@@ -5579,7 +5579,7 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'menarche',
+    en: 'Menarche',
     uz: 'Hayz ko’rish',
     enDef: 'A woman’s first menstrual period.',
     uzDef: 'Ayolning birinchi hayz ko’rishi.',
@@ -5717,7 +5717,7 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'etritims',
+    en: 'Etritims',
     uz: 'Eritmalar',
     enDef: 'Inflammation of the uterus.',
     uzDef: 'Bachadonning yallig’lanishi.',
@@ -6708,7 +6708,7 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'oxytocin',
+    en: 'Oxytocin',
     uz: 'Oksitotsin',
     enDef:
         'A pituitary hormone that encourages the pregnant uterus to contract and is sometimes used to induce labor. It also encourages…',
@@ -6779,7 +6779,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Paralysis (n)',
-    uz: 'falaj',
+    uz: 'Falaj',
     enDef: 'Inability to move parts of the body.',
     uzDef: 'Tananing qismlarini harakatga keltira olmaslik.',
     transcript: '[pəˈrælɪsɪs]',
@@ -8417,7 +8417,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Sinusitis (n)',
-    uz: 'burun ichki qismining ishish kasalligi',
+    uz: 'Burun ichki qismining ishish kasalligi',
     enDef: 'Inflammation and infection of the sinuses.',
     uzDef: 'Sinuslarning yallig’lanishi va infektsiyasi.',
     transcript: 'Noun /ˌsaɪnəˈsaɪtɪs/',
@@ -9527,7 +9527,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vas deferens (n)',
-    uz: 'vas deferens',
+    uz: 'Vas deferens',
     enDef:
         'The duct through which sperm travels from the testicle to the urethra of the penis.',
     uzDef:
@@ -9537,7 +9537,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vascular (adj)',
-    uz: 'qon tomir',
+    uz: 'Qon tomir',
     enDef: 'Of or having vessels, particularly the blood vessels.',
     uzDef: 'Tomirlardan, xususan, qon tomirlaridan.',
     transcript: '[ˈvaskyələr ]',
@@ -9545,7 +9545,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vasculitis (n)',
-    uz: 'vaskulit',
+    uz: 'Vaskulit',
     enDef: 'Inflammation of the walls of the small blood vessels.',
     uzDef: 'Kichik qon tomirlari devorlarining yallig\'lanishi.',
     transcript: '[ˌvaskyəˈlīdəs ]',
@@ -9553,7 +9553,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vasectomy (n)',
-    uz: 'vazektomiya',
+    uz: 'Vazektomiya',
     enDef:
         'Surgical removal or tying of the vas deferens to prevent the passing of sperm. Used as a form of birth control.',
     uzDef:
@@ -9572,7 +9572,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vasodilation (n)',
-    uz: 'tomirlarning kengayishi',
+    uz: 'Tomirlarning kengayishi',
     enDef: 'Causing the widening or opening (dilation) of blood vessels.',
     uzDef:
         'Qon tomirlarining kengayishiga yoki ochilishiga (kengayishiga) sabab bo\'ladi',
@@ -9581,7 +9581,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vector (n)',
-    uz: 'vektor',
+    uz: 'Vektor',
     enDef:
         'An animal that spreads an infectious agent from one host to another. Also called a carrier.',
     uzDef:
@@ -9591,7 +9591,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vein (n)',
-    uz: 'tomir',
+    uz: 'Tomir',
     enDef:
         'A vessel that carries blood from the various parts of the body to the heart.',
     uzDef: 'Tananing turli qismlaridan yurakka qon olib boradigan tomir.',
@@ -9600,7 +9600,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Venom (n)',
-    uz: 'zahar',
+    uz: 'Zahar',
     enDef: 'A toxin secreted by an animal.',
     uzDef: 'Hayvon tomonidan chiqariladigan toksin.',
     transcript: '[ˈvenəm]',
@@ -9608,7 +9608,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Venous (adj)',
-    uz: 'venoz ',
+    uz: 'Venoz ',
     enDef: 'Having to do with a vein.',
     uzDef: 'Tomir bilan bog\'liq.',
     transcript: '[ˈvēnəs]',
@@ -9616,7 +9616,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Ventricle (n)',
-    uz: 'qorincha',
+    uz: 'Qorincha',
     enDef:
         'Either of the two chambers that contract to pump blood from the heart. 2. Any of several small fluid-filled cavities.',
     uzDef:
@@ -9626,7 +9626,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Verruca (n)',
-    uz: 'verruka',
+    uz: 'Verruka',
     enDef:
         'A small, hard, abnormal growth of the skin or mucous membranes caused by a virus.',
     uzDef:
@@ -9636,7 +9636,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vertebrae (n)',
-    uz: 'umurtqalar',
+    uz: 'Umurtqalar',
     enDef: 'The bones that make up the spine.',
     uzDef: 'Orqa miyani tashkil etuvchi suyaklar.',
     transcript: '[\\ ˈvər-tə-brə]',
@@ -9644,7 +9644,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vertigo (n)',
-    uz: 'bosh aylanishi',
+    uz: 'Bosh aylanishi',
     enDef: 'A spinning sensation often accompanied by mild to severe nausea.',
     uzDef:
         'Ko\'pincha engil va og\'ir ko\'ngil aynish bilan birga aylanadigan tuyg\'u.',
@@ -9653,7 +9653,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vesicle (n)',
-    uz: 'pufakcha',
+    uz: 'Pufakcha',
     enDef:
         '1. A small, sac-like cavity. 2. A blister. Vesicourethral reflux. An abnormal condition that allows urine to flow from the bladder back into a ureter.',
     uzDef:
@@ -9663,7 +9663,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Virus (n)',
-    uz: 'virus',
+    uz: 'Virus',
     enDef:
         'The agent of an infectious disease, smaller than bacteria, that must have a living host in order to grow or reproduce.',
     uzDef:
@@ -9673,7 +9673,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Viscera (n)',
-    uz: 'ichki organlar',
+    uz: 'Ichki organlar',
     enDef: 'The large internal organs.',
     uzDef: 'Katta ichki organlar.',
     transcript: '[ˈvi-sə-rə]',
@@ -9699,7 +9699,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vitiligo (n)',
-    uz: 'vitiligo',
+    uz: 'Vitiligo',
     enDef:
         'A skin condition characterized by sharply defined white patches that contain no skin color (pigment).',
     uzDef:
@@ -9709,7 +9709,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vitreous humor (n)',
-    uz: 'shishasimon to\'r',
+    uz: 'Shishasimon to\'r',
     enDef:
         'The jelly-like material that fills the eyeball between the lens and retina.',
     uzDef:
@@ -9719,7 +9719,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Vomiting (n)',
-    uz: 'qusish',
+    uz: 'Qusish',
     enDef: 'Ejecting the contents of the stomach through the mouth.',
     uzDef: 'Oshqozon tarkibini og\'iz orqali chiqarib yuborish.',
     transcript: '[\\ ˈvä-mətin]',
@@ -9747,7 +9747,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Wheal (n)',
-    uz: 'shilinish',
+    uz: 'Shilinish',
     enDef:
         'A pimple or small itchy elevation of the skin caused by an allergen.',
     uzDef:
@@ -9757,7 +9757,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Wheeze (n)',
-    uz: 'xirillash',
+    uz: 'Xirillash',
     enDef:
         'A whistling or squeaky breathing sound caused by the narrowing (constriction) or blocking of the airway.',
     uzDef:
@@ -9776,8 +9776,8 @@ List<Word> wordsList = [
     favorite: false,
   ),
   Word(
-    en: 'whooping cough (n)',
-    uz: 'ko\'k yo\'tal',
+    en: 'Whooping cough (n)',
+    uz: 'Ko\'k yo\'tal',
     enDef:
         'A serious infectious respiratory disease of children. Named for the distinctive whooping sound made by the patient after a coughing fit.',
     uzDef:
@@ -9805,7 +9805,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: "Withdrawal (n)",
-    uz: 'olib tashlash',
+    uz: 'Olib tashlash',
     enDef:
         'The act or process of giving up the use of a drug to which one has become addicted.',
     uzDef:
@@ -9823,7 +9823,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Xanthoma (n)',
-    uz: 'ksantoma',
+    uz: 'Ksantoma',
     enDef: 'A tumor-like deposit of fatty substances in the skin.',
     uzDef: 'Teridagi yog\'li moddalarning o\'simtaga o\'xshash cho\'kmasi.',
     transcript: '[zanˈTHōmə]',
@@ -9831,7 +9831,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Xenograft (n)',
-    uz: 'ksenograft',
+    uz: 'Ksenograft',
     enDef:
         'Transplantation of tissue or organs from an individual of one species to another unrelated species.',
     uzDef:
@@ -9841,7 +9841,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Xeroderma (n)',
-    uz: 'kseroderma',
+    uz: 'Kseroderma',
     enDef: 'Dryness of the skin.',
     uzDef: 'Terining quruqligi.',
     transcript: '[ˌzirəˈdərmə]',
@@ -9849,7 +9849,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Yeast (n)',
-    uz: 'xamirturush',
+    uz: 'Xamirturush',
     enDef:
         'A single-celled fungus that reproduces by budding and may lead to infections of the skin or other moist areas.',
     uzDef:
@@ -9859,7 +9859,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Yellow fever (n)',
-    uz: 'sariq isitma',
+    uz: 'Sariq isitma',
     enDef:
         'An acute viral illness spread by mosquito bites. Characterized by fever and jaundice.',
     uzDef:
@@ -9877,7 +9877,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Zoster (n)',
-    uz: 'zoster',
+    uz: 'Zoster',
     enDef:
         'A viral infection of certain sensory nerves that causes pain and an eruption of blisters on the skin along the nerve path.',
     uzDef:
@@ -9887,7 +9887,7 @@ List<Word> wordsList = [
   ),
   Word(
     en: 'Zygote (n)',
-    uz: 'zigota',
+    uz: 'Zigota',
     enDef: 'A fertilized ovum (egg).',
     uzDef: 'Urug\'langan tuxumdon (tuxum).',
     transcript: '[ˈzīˌɡōt]',
